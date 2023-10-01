@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{narasimhan2007-bcut,
+  author = 	 {Mukund Narasimhan and Jeff Bilmes},
+  title = 	 {Local Search for Balanced Submodular Clusterings},
+  booktitle = {Twentieth International Joint Conference on Artificial Intelligence (IJCAI07)},
+  year = 	 {2007},
+  address = 	 {Hyderabad, India},
+  month = 	 {January},
+}

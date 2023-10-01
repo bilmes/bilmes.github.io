@@ -1,0 +1,17 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{encodenature2012,
+  author = 	 {The ENCODE Project Consortium},
+  title = 	 {{An Integrated Encyclopedia of DNA Elements in the Human Genome}},
+  journal = 	 {Nature},
+  year = 	 {2012},
+  doi={doi:10.1038/nature11247},
+  volume = 	 {489},
+  pages = 	 {57---74},
+  month = 	 {September},
+  OPTnote = 	 {},
+  OPTannote = 	 {},
+}

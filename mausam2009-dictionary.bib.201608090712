@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{mausam2009-dictionary,
+  author = 	 {Mausam and Stephen Soderland and Oren Etzioni and Daniel S. Weld and Michael Skinner and Jeff A. Bilmes},
+  title = 	 {Compiling a Massive, Multilingual Dictionary via Probabilistic Inference},
+  booktitle =    {Joint Conference of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP)},
+  year = 	 {2009},
+  address = 	 {Suntec, Singapore},
+  month = {August},
+}

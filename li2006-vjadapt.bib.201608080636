@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{li2006-vjadapt,
+  author = 	 {Xiao Li and Jonathan Malkin and Susumu Harada and Jeff Bilmes and Richard Wright and James Landay},
+  title = 	 {An Online Adaptive Filtering Algorithm for the Vocal Joystick},
+  booktitle = 	 {Proc.\ Int. Conf. on Spoken Language Processing},
+  month = {September},
+  year = 	 {2006},
+  address =  {Pittsburg, Pa.},
+}

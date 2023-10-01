@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{jegelka2010-coopcut-mpitr,
+  author = 	 {Stefanie Jegelka and Jeff Bilmes},
+  title = 	 {Cooperative Cuts: Graph Cuts with Submodular Edge Weights},
+  institution =  {Max Planck Institute for Biological Cybernetics, Tuebingen},
+  year = 	 {2010},
+  number = 	 {189-03-2010},
+  wwwnote =      {http://www.kyb.mpg.de/publication.html?publ=6330},
+}

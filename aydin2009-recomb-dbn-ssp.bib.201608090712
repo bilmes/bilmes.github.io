@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{aydin2009-recomb-dbn-ssp,
+  author = 	 {Zafer Aydin and Sheila Reynolds and Jeffrey Bilmes and William Noble},
+  title = 	 {A Dynamic Bayesian Network Approach for Protein Secondary Structure Prediction},
+  booktitle = {Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)},
+  OPTpages = 	 {},
+  year = 	 {2009},
+  number = 	 {13},
+  address = 	 {Tucson, Arizona},
+  month = 	 {April},
+}

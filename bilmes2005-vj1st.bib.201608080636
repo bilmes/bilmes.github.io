@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bilmes2005-vj1st,
+  author = 	 {Jeff A. Bilmes and Xiao Li and Jonathan Malkin and Kelley Kilanski and Richard Wright and Katrin Kirchhoff and Amarnag Subramanya and Susumu Harada and James A. Landay and Patricia Dowden and Howard Chizeck},
+  title = 	 {The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals with Motor Impairments},
+  booktitle = 	 {Human Language Technology (HLT) Conference/
+Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  year = 	 {2005},
+  address = 	 {Vancouver, B.C.},
+  month = 	 {Oct},
+}

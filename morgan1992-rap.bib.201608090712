@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{morgan1992-rap,
+  author = 	 {N. Morgan and J. Beck and P. Kohn and J. Bilmes and E. Allman and J. Beer},
+  title = 	 {The Ring Array Processor (RAP): A Multiprocessing peripheral for connectionist applications},
+  journal = 	 {Journal of Parallel and Distributed Computing},
+  year = 	 {1992},
+  volume = 	 {14},
+  pages = 	 {248-259},
+  month = 	 {April},
+}

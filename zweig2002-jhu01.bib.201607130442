@@ -1,0 +1,11 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{zweig2002-jhu01,
+  author = 	 {Geoff Zweig and Jeff Bilmes and Thomas Richardson and Karim Filali and Karen Livescu and Peng Xu and Kirk Jackson and Yigal Brandman and Eric Sandness and Eva Holtz and Jerry Torres and Bill Byrne},
+  title = 	 {Structurally Discriminative Graphical Models for Automatic Speech Recognition --- Results from the 2001 {J}ohns {H}opkins Summer Workshop},
+  journal = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2002},
+}

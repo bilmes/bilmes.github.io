@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{lei2005_toneme,
+  author = 	 {Xin Lei and Gang Ji and Tim Ng and Jeff Bilmes and Mari Ostendorf},
+  title = 	 {DBN-Based Multi-stream Models for Mandarin Toneme Recognition},
+  booktitle = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2005},
+  address = 	 {Philadelphia, PA},
+  month = 	 {March},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{iyer2015-spps,
+  author =  {Rishabh Iyer and Jeff Bilmes},
+  title = {Submodular Point Processes},
+  booktitle = {18th International Conference on Artificial Intelligence and Statistics (AISTATS-2015)},
+  month =   {May},
+  year =    {2015},
+  location = {San Diego, CA},
+}

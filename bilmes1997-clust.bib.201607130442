@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{bilmes1997-clust,
+  author = 	 {Jeff Bilmes and Amin Vahdat and W. Hsu and E.-J. Im.},
+  title = 	 {Empirical Observations of Probabilistic Heuristics for the Clustering Problem},
+  institution =  {ICSI},
+  number = {ICSI-TR097-018},
+  year = 	 {1997},
+  note = 	 {ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-018.ps.gz},
+}

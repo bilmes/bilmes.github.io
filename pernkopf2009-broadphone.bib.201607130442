@@ -1,0 +1,18 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@article{pernkopf2009-broadphone,
+ author = {Franz Pernkopf and Van Pham Tuan and Jeff Bilmes},
+ title = {Broad phonetic classification using discriminative Bayesian networks},
+ journal = {Speech Communications},
+ volume = {51},
+ number = {2},
+ year = {2009},
+ issn = {0167-6393},
+ pages = {151--166},
+ doi = {10.1016/j.specom.2008.07.003},
+ publisher = {Elsevier Science Publishers B. V.},
+ address = {Amsterdam, The Netherlands, The Netherlands},
+}

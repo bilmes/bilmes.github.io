@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{subramanya2008-veasr-train,
+  author = 	 {Amarnag Subramanya and Jeff Bilmes},
+  title = 	 {Applications of Virtual-Evidence based Speech Recognizer Training},
+  booktitle =    {Proc.\ Annual Conference of the International Speech Communication Association (INTERSPEECH)},
+  year = 	 {2008},
+  address = 	 {Brisbane, Australia},
+  month = {September},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bilmes2000-gmcc,
+  author = 	 {Jeff Bilmes and Katrin Kirchhoff},
+  title = 	 {Directed Graphical Models of Classifier Combination: Application to Phone Recognition},
+  booktitle = 	 {Proc.\ Int. Conf. on Spoken Language Processing},
+  year = 	 {2000},
+  month = 	 {October},
+  address = 	 {Beijing, China},
+}

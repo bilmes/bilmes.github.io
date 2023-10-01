@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{malkin-vj-engine-2010,
+  author = 	 {Jonathan Malkin and Xiao Li and Susumu Harada and James Landay and Jeff Bilmes},
+  title = 	 {The Vocal Joystick Engine v1.0},
+  journal = 	 {Computer Speech and Language (accepted, to appear)},
+  year = 	 {2010},
+  volume = 	 {-},
+  number = 	 {-},
+  pages = 	 {---},
+  month = 	 {---},
+  OPTnote = {first submitted Mon Aug 31 15:35:16 2009},
+}

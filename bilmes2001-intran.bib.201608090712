@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bilmes2001-intran,
+  author = 	 {Jeff Bilmes and Gang Ji and Marina Meil\u{a}},
+  title = 	 {Intransitive Likelihood-Ratio Classifiers},
+  OPTbooktitle = 	 {Neural Information Processing Systems},
+  booktitle = 	 {Neural Information Processing Society (NIPS)},
+  year = 	 {2001},
+  series = 	 {14},
+  address = 	 {Vancouver, Canada},
+  month = 	 {December},
+}

@@ -1,0 +1,17 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InCollection{bilmes2011-parallel-ssl,
+  author = 	 {Jeff Bilmes and Amar Subramanya},
+  title = 	 {Parallel Graph-Based Semi-Supervised Learning},
+  booktitle = 	 {Scaling Up Machine Learning},
+  pages = 	 {307---330},
+  publisher = {Cambridge University Press},
+  year = 	 {2012},
+  editor = 	 {Ron Bekkerman and Mikhail Bilenko and John Langford},
+  isbn = {9780521192248},
+  chapter = 	 {15},
+  month = 	 {January},
+}

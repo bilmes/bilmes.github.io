@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@inProceedings{bilmes2000-dbmn,
+   author =    {Jeff Bilmes},
+   title =     {Dynamic {B}ayesian {M}ultinets},
+   booktitle =  {Uncertainty in Artificial Intelligence (UAI)},
+   year =      2000,
+   series = "16th",
+   publisher = "Morgan Kaufmann Publishers" ,
+}

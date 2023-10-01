@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{guillory2010-interactive-sub-tr,
+  author = 	 {Andrew Guillory and Jeff Bilmes},
+  title = 	 {Interactive Submodular Set Cover},
+  institution =  {University of Washington, Dept. of EE},
+  year = 	 {2010},
+  number = 	 {UWEETR-2010-0001},
+  wwwnote =      {https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0001.html},
+}

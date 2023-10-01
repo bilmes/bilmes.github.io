@@ -1,0 +1,19 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{wyatt2010-inferring,
+  author = 	 {Danny Wyatt and Tanzeem Choudhury and Jeff Bilmes and James A. Kitts},
+  title = 	 {Inferring Colocation and Conversation Networks from Privacy-Sensitive Audio with Implications for Computational Social Science},
+  journal = 	 {ACM Transactions on Intelligent Systems and Technology},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+  year =  {2010},
+  volume = {2},
+  issue = {1},
+  issn = {2157-6904},
+  pages = {7:1--7:41},
+  month = {January},
+  doi = {http://doi.acm.org/10.1145/1889681.1889688},
+}

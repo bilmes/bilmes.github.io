@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@article {wei-panels-bioarxiv-2016,
+  author = {Wei, Kai and Libbrecht, Maxwell W and Bilmes, Jeffrey A and Noble, William},
+  title = {Choosing panels of genomics assays using submodular optimization},
+  year = {2016},
+  doi = {10.1101/036137},
+  publisher = {Cold Spring Harbor Labs Journals},
+  abstract = {Although the cost of high-throughput DNA sequencing continues to drop, extensively characterizing a given cell type using assays such as ChIP-seq and DNase-seq is still expensive. As a result, epigenomic characterization of a cell type is typically carried out using a small panel of assay types. Deciding a priori which assays to perform---e.g., a few complementary histone modification ChIP-seq experiments, perhaps an open chromatin assay, plus a few diverse transcription factor assays---is thus a critical step in many studies. Unfortunately, the field currently lacks a principled method for making these choices. We present submodular selection of assays (SSA), a method for choosing a diverse panel of genomic assays that leverages methods from the field of submodular optimization. We also describe a series of evaluation methods that allow us to measure the quality of a selected assay panel in the context of inference tasks such as data imputation, functional element prediction, and semi-automated genome annotation. Applying this evaluation framework to data from the ENCODE and Roadmap Epigenomics Consortia, we provide empirical evidence that SSA provides high quality panels of assays. The method is computationally efficient and is theoretically optimal under certain assumptions. SSA is extremely flexible, and can be employed to select assays for a new cell type or to select additional assays to be performed in a partially characterized cell type. More generally, this application serves as a model for how submodular optimization can be applied to other discrete problems in biology. SSA is available at http://melodi.ee.washington.edu/assay_panel_selection.html.},
+  URL = {http://biorxiv.org/content/early/2016/05/27/036137},
+  eprint = {http://biorxiv.org/content/early/2016/05/27/036137.full.pdf},
+  journal = {bioRxiv},
+}

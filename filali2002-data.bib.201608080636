@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{filali2002-data,
+  author = 	 {Karim Filali and Xiao Li and Jeff Bilmes},
+  title = 	 {Data-Driven Vector Clustering for Low-Memory Footprint {ASR}},
+  booktitle = 	 {Proc.\ Int. Conf. on Spoken Language Processing},
+  year = 	 {2002},
+  address = {Denver, Colorado},
+}

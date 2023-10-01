@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{vuduc2000-fddo-statmodel,
+  author = 	 {Rich Vuduc and Jeff Bilmes and Jim Demmel},
+  title = 	 {Statistical Modeling of Feedback Data in an Automatic Tuning System},
+  booktitle = {Third ACM Workshop on Feedback-Directed and Dynamic Optimization FDDO-3},
+  year = 	 {2000},
+  address = 	 {Monterey},
+  month = 	 {December},
+}

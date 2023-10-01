@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{lin2011-class-submod-sum,
+  author = 	 {Hui Lin and Jeff Bilmes},
+  title = 	 {A Class of Submodular Functions for Document Summarization},
+  booktitle = 	 {The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL/HLT-2011)},
+  year = 	 {2011},
+  address = 	 {Portland, OR},
+  month = 	 {June},
+  note = {(long paper)},
+}

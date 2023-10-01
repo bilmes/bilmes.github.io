@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{ji2006-lattice,
+  author = 	 {Gang Ji and Jeff Bilmes and Jeff Michels and Katrin Kirchhoff and Chris Manning},
+  title = 	 {Graphical Model Representations of Word Lattices},
+  booktitle = {IEEE/ACL 2006 Workshop on Spoken Language Technology (SLT2006)},
+  year = 	 {2006},
+  month = 	 {Dec},
+  address  =     {Palm Beach, Aruba}, 
+}

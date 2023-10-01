@@ -1,0 +1,19 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@article{bilmes2006-ieice-hmm,
+ author = {Jeff A. Bilmes},
+ title = {What HMMs Can Do},
+ journal = {IEICE - Transactions on Information and Systems},
+ volume = {E89-D},
+ number = {3},
+ month = {March},
+ year = {2006},
+ issn = {0916-8532},
+ pages = {869--891},
+ doi = {10.1093/ietisy/e89-d.3.869},
+ publisher = {Oxford University Press},
+ address = {Oxford, UK},
+}

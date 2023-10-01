@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{iyer2013-curvature,
+   Author = {Rishabh Iyer and Stefanie Jegelka and Jeff Bilmes},
+   Title = {Curvature and Optimal Algorithms for Learning and Minimizing Submodular Functions},
+   Year = {2013},
+   booktitle = 	 {Neural Information Processing Society (NIPS)},
+   year = 	 {2013},
+   address = 	 {Lake Tahoe, CA},
+   month = 	 {December},
+}

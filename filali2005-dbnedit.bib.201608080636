@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{filali2005-dbnedit,
+  author = 	 {Karim Filali and Jeff Bilmes},
+  title = 	 {A Dynamic Bayesian Framework to Model Context and Memory in Edit Distance Learning: An Application to Pronunciation Classification},
+  booktitle = {Proceedings of the Association for Computational Linguistics (ACL)},
+  series = {43},
+  year = 	 {2005},
+  address = 	 {University of Michigan, Ann Arbor},
+}

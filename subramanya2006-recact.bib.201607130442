@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{subramanya2006-recact,
+  author = 	 {Amarnag Subramanya and Alvin Raj and Jeff Bilmes and Dieter Fox},
+  title = 	 {Recognizing Activities and Spatial Context Using Wearable Sensors},
+  booktitle =    {Uncertainty in Artificial Intelligence (UAI)},
+  year = 	 {2006},
+  series =       {21},
+  address = 	 {Cambridge, MA},
+  month = 	 {July},
+  publisher = {AUAI},
+}

@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@misc{iyer2013-lovasz-bregman-arxiv,
+   Author = {Rishabh Iyer and Jeff Bilmes},
+   Title = {The Lovasz-Bregman Divergence and connections to rank aggregation, clustering, and web ranking},
+   Year = {2013},
+   URL = {http://arxiv.org/abs/1308.5275},
+   howpublished = {arXiv},
+   note = 	 {extended version of UAI-2013},
+   eprint = {1308.5275},
+   archivePrefix = "arXiv",
+   primaryClass = "cs.DS",
+}

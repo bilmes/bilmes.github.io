@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{klammer2008-intense-alpha,
+  author = 	 {Aaron A. Klammer and Sheila M. Reynolds and Jeff A. Bilmes and Michael J. MacCoss and William Noble},
+  title = 	 {Modelling peptide fragmentation with dynamic Bayesian networks for peptide identification},
+  booktitle = {16th Annual International Conference on Intelligent Systems for
+Molecular Biology (Bioinformatics, Proceedings of the ISMB)},
+  year = 	 {2008},
+  address = 	 {Toronto},
+  month = 	 {July},
+}

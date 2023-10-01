@@ -1,0 +1,19 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{aydin2011-sparse-dbn-protein,
+AUTHOR = {Aydin, Zafer and Singh, Ajit and Bilmes, Jeff and Noble, William},
+TITLE = {Learning sparse models for a dynamic Bayesian network classifier of protein secondary structure},
+JOURNAL = {BMC Bioinformatics},
+VOLUME = {12},
+YEAR = {2011},
+NUMBER = {1},
+PAGES = {154},
+URL = {http://www.biomedcentral.com/1471-2105/12/154},
+DOI = {10.1186/1471-2105-12-154},
+PubMedID = {21569525},
+ISSN = {1471-2105},
+ABSTRACT = {BACKGROUND:Protein secondary structure prediction provides insight into protein function and is a valuable preliminary step for predicting the 3D structure of a protein. Dynamic Bayesian networks (DBNs) and support vector machines (SVMs) have been shown to provide state-of-the-art performance in secondary structure prediction. As the size of the protein database grows, it becomes feasible to use a richer model in an effort to capture subtle correlations among the amino acids and the predicted labels. In this context, it is beneficial to derive sparse models that discourage over-fitting and provide biological insight.RESULTS:In this paper, we first show that we are able to obtain accurate secondary structure predictions. Our per-residue accuracy on a well established and difficult benchmark (CB513) is 80.3%, which is comparable to the state-of-the-art evaluated on this dataset. We then introduce an algorithm for sparsifying the parameters of a DBN. Using this algorithm, we can automatically remove up to 70-95% of the parameters of a DBN while maintaining the same level of predictive accuracy on the SD576 set. At 90% sparsity, we are able to compute predictions three times faster than a fully dense model evaluated on the SD576 set. We also demonstrate, using simulated data, that the algorithm is able to recover true sparse structures with high accuracy, and using real data, that the sparse model identifies known correlation structure (local and non-local) related to different classes of secondary structure elements.CONCLUSIONS:We present a secondary structure prediction method that employs dynamic Bayesian networks and support vector machines. We also introduce an algorithm for sparsifying the parameters of the dynamic Bayesian network. The sparsification approach yields a significant speed-up in generating predictions, and we demonstrate that the amino acid correlations identified by the algorithm correspond to several known features of protein secondary structure. Datasets and source code used in this study are available at http://noble.gs.washington.edu/proj/pssp.},
+}

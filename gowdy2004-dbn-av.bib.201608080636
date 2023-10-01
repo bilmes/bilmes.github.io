@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{gowdy2004-dbn-av,
+  author = 	 {John Gowdy and Amar Subramanya and Chris Bartels and Jeff Bilmes},
+  title = 	 {{DBN}-Based Multi-Stream Models for Audio-Visual Speech Recognition},
+  journal = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2004},
+  address = 	 {Montreal, Canada},
+  month = 	 {May},
+}

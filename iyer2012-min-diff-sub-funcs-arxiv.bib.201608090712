@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@misc{iyer2012-min-diff-sub-funcs-arxiv,
+   Author = {Rishabh Iyer and Jeff Bilmes},
+   Title = {Algorithms for Approximate Minimization of the Difference Between Submodular Functions, with Applications},
+   Year = {2012},
+   URL = {http://arxiv.org/abs/1207.0560},
+   howpublished = {arXiv},
+   note = 	 {extended version of UAI-2012},
+   eprint = {1207.0560},
+   archivePrefix = "arXiv",
+   primaryClass = "cs.DS",
+}

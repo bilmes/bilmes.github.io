@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bartels2010-nonminimal,
+  author = 	 {Chris Bartels and Jeff A. Bilmes},
+  title = 	 {Creating Non-Minimal Triangulations for Use in Inference in Mixed Stochastic / Deterministic Graphical Models},
+  journal = 	 {Machine Learning Journal},
+  year = 	 {2011},
+  volume = 	 {84},
+  number = 	 {3},
+  pages = 	 {249--289},
+  OPTmonth = 	 {---},
+  OPTnote = {submitted around Oct 2009 or so},
+}

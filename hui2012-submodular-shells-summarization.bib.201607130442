@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{hui2012-submodular-shells-summarization,
+  author = 	 {Hui Lin and Jeff Bilmes},
+  title = 	 {Learning Mixtures of Submodular Shells with Application to Document Summarization},
+  booktitle =  {Uncertainty in Artificial Intelligence (UAI)},
+  year = 	 {2012},
+  address = 	 {Catalina Island, USA},
+  month = 	 {July},
+  publisher = {AUAI},
+}

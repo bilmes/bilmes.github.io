@@ -1,0 +1,17 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bilmes2014-phipac-retrospective,
+  author = 	 {Jeff Bilmes and  Krste Asanovi\'c and CW Chin and Jim Demmel},
+  title = 	 {Author Retrospective for Optimizing Matrix Multiply using PHiPAC: a Portable High-Performance ANSI C Coding Methodology},
+  booktitle = 	 {International Conference on Supercomputing (ICS) 25th Anniversary Volume},
+  publisher =    {ACM},
+  note = {978-1-4503-2840-1/14/06},
+  year = 	 {2014},
+  doi = {10.1145/2591635.2591656},
+  url={http://dl.acm.org/citation.cfm?doid=2591635.2591656},
+    given to our PHIPAC paper from 1997 below.},
+    given to our PHIPAC paper from 1997 below.},
+}

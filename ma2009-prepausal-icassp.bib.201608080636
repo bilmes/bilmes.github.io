@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{ma2009-prepausal-icassp,
+  author = 	 {Ning Ma and Chris D. Bartels and Jeff A. Bilmes and Phil D. Green},
+  title = 	 {Modelling the Prepausal Lengthening Effect for Speech Recognition: A Dynamic Bayesian Network Approach},
+  booktitle = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2009},
+  address =      {Taipei, Taiwan},
+}

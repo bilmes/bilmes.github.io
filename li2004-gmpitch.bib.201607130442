@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{li2004-gmpitch,
+  author =    {Xiao Li and Jon Malkin and Jeff Bilmes},
+  title =     {A graphical Model Approach to Pitch Tracking},
+  booktitle = {Proc.\ Int. Conf. on Spoken Language Processing},
+  year =      {2004},
+  month =     {October},
+  address =   {Jeju Island, Korea},
+}

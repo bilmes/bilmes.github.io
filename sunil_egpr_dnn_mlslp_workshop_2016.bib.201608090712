@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{sunil_egpr_dnn_mlslp_workshop_2016,
+  author = 	 {Sunil Thulasidasan and Jeff Bilmes},
+  title = 	 {Semi-Supervised Phone Classification using Deep Neural Networks and Stochastic Graph-Based Entropic Regularization},
+  booktitle = 	 {2016 Workshop on Machine Learning in Speech and Language Processing},
+  year = 	 {2016},
+  address = 	 {San Francisco, CA},
+  month = 	 {September},
+}

@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bilmes-spm-dgm-2010,
+  author = 	 {Jeff Bilmes},
+  title = 	 {Dynamic Graphical Models},
+  journal = 	 {IEEE Signal Processing Magazine},
+  year = 	 {2010},
+  volume = 	 {27},
+  number = 	 {6},
+  pages = 	 {29--42},
+  month = 	 {November},
+  doi = {10.1109/MSP.2010.938078},
+}

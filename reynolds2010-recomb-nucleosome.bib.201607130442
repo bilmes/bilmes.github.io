@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{reynolds2010-recomb-nucleosome,
+  author = 	 {Sheila Reynolds and Jeff Bilmes and William Noble},
+  title = 	 {Predicting Nucleosome Positioning using Multiple Evidence Tracks},
+  booktitle = {Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)},
+  OPTpages = 	 {},
+  year = 	 {2010},
+  OPTnumber = 	 {14},
+  address = 	 {Lisbon, Portual},
+  month = 	 {April},
+  OPTnote = {this is the paper},
+}

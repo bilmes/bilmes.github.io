@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{jegelka2010-nipsworkshop,
+  author = 	 {Stefanie Jegelka and Jeff A. Bilmes},
+  title = 	 {Online Algorithms for Submodular Minimization with Combinatorial Constraints},
+  booktitle = 	 {Neural Information Processing Society (NIPS) Workshop},
+  note = {NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity \& Polyhedra (DISCML)},
+  year = 	 {2010},
+  address = 	 {Vancouver, Canada},
+  month = 	 {December},
+}

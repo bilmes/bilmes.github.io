@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bilmes1996-spam,
+  author = 	 {J. Bilmes and N. Morgan  and S.-L. Wu and H. Bourlard},
+  title = 	 {Stochastic Perceptual Speech Models With Durational Dependence},
+  journal = 	 {Intl. Conference on Spoken Language Processing},
+  year = 	 {1996},
+  month = 	 {November},
+  annote = 	 {This describes the basic SPAM implementation on the
+                  digits+ data base and shows that, in the presence of
+                  noise, it does better.},
+}

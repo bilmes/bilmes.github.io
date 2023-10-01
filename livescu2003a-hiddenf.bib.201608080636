@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{livescu2003a-hiddenf,
+  author = 	 {Karen Livescu and James Glass and Jeff Bilmes},
+  title = 	 {Hidden Feature Models for Speech Recognition Using Dynamic Bayesian Networks},
+  booktitle = {European Conf. on Speech Communication and Technology (Eurospeech)},
+  series = {8th},
+  year = 	 {2003},
+  address = 	 {Geneva, Switzerland},
+}

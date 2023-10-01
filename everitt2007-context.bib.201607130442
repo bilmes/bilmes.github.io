@@ -1,0 +1,18 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{everitt2007-context,
+  author = 	 {Katherine Everitt and Susumu Harada and Jeff Bilmes and James Landay},
+  title = 	 {Disambiguating speech commands using physical context},
+  booktitle = {9th ACM International Conference on Multimodal Interfaces (ICMI07)},
+  pages = 	 {247--254},
+  year = 	 {2007},
+  location = 	 {Nagoya, Aichi, Japan},
+  isbn = {978-1-59593-817-6},
+  month = 	 {November 12-15},
+  doi = {10.1145/1322192.1322235},
+  publisher = {ACM},
+  address = {New York, NY, USA}, 
+}

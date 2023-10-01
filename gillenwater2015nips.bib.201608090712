@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{gillenwater2015nips,
+  author = 	 {Jennifer Gillenwater and Rishabh Iyer and Bethany Lusch and Rahul Kidambi and Jeff  Bilmes},
+  title = 	 {Submodular Hamming Metrics},
+  booktitle = 	 {Neural Information Processing Society (NIPS)},
+  year = 	 {2015},
+  address = 	 {Montreal, Canada},
+  month = 	 {December},
+}

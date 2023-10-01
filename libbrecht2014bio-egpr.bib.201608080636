@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{libbrecht2014bio-egpr,
+  title={{Joint Annotation of Chromatin State and Chromatin Conformation Reveals Relationships Among Domain Types and Identifies Domains of Cell Type-Specific Expression}},
+  author={Libbrecht, Maxwell W and Ay, Ferhat and Hoffman, Michael M and Gilbert, David M and Bilmes, Jeffrey A and Noble, William Stafford},
+  journal={Genome Research},
+  url={http://www.ncbi.nlm.nih.gov/pubmed/25677182},
+  year={2015},
+  publisher={Cold Spring Harbor Labs Journals},
+}

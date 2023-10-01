@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{reynolds2009-recomb-oscillations,
+  author = 	 {Sheila Reynolds and Jeff Bilmes and William Noble},
+  title = 	 {Low Frequency Oscillations in Single-Nucleotide Content Play a Role in Nucleosome Positioning in H. Sapiens},
+  booktitle = {Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)},
+  OPTpages = 	 {},
+  year = 	 {2009},
+  number = 	 {13},
+  address = 	 {Tucson, Arizona},
+  month = 	 {April},
+  OPTnote = {this is the paper},
+}

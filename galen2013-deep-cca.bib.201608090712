@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{galen2013-deep-cca,
+  author = 	 {Galen Andrew and Raman Arora and Karen Livescu and Jeff Bilmes},
+  title = 	 {Deep Canonical Correlation Analysis},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year = 	 {2013},
+  address = 	 {Atlanta, Georgia},
+}

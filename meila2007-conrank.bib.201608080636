@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{meila2007-conrank,
+  author = 	 {Marina Meila and Kapil Phadnis and Arthur Patterson and Jeff Bilmes},
+  title = 	 {Consensus Ranking Under the Exponential Model},
+  booktitle = {22nd Conference on Uncertainty in Artificial Intelligence (UAI07)}, 
+  year = 	 {2007},
+  address = 	 {Vancouver, British Columbia},
+  month = 	 {July},
+}

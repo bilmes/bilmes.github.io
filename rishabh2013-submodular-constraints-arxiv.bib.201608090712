@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@misc{rishabh2013-submodular-constraints-arxiv,
+   Author = {Rishabh Iyer and Jeff Bilmes},
+   Title = {Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints: Extended Version},
+   Year = {2013},
+   URL = {http://arxiv.org/abs/1311.2106},
+   howpublished = {arXiv},
+   note = 	 {extended version of NIPS-2013},
+   eprint = {1311.2106},
+   archivePrefix = "arXiv",
+   primaryClass = "cs.DS",
+}

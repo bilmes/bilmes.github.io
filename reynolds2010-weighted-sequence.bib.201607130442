@@ -1,0 +1,18 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@article{reynolds2010-weighted-sequence,
+    author = {Sheila M. Reynolds and Jeff A. Bilmes and William Stafford Noble},
+    journal = {PLoS Comput Biol},
+    publisher = {Public Library of Science},
+    title = {{Learning a Weighted Sequence Model of the Nucleosome Core and Linker Yields More Accurate Predictions in Saccharomyces cerevisiae and Homo sapiens}},
+    year = {2010},
+    month = {July},
+    volume = {6},
+    url = {http://dx.doi.org/10.1371/journal.pcbi.1000834},
+    pages = {e1000834},
+    number = {7},
+    doi = {10.1371/journal.pcbi.1000834},
+}

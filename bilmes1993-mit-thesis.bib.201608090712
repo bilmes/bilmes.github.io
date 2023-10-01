@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@MastersThesis{bilmes1993-mit-thesis,
+  author = 	 {J. Bilmes},
+  title = 	 {Timing is of the Essence: Perceptual and Computational Techniques for Representing, Learning, and Reproducing Expressive Timing in Percussive Rhythm},
+  school = 	 {MIT},
+  year = 	 {1993},
+  address = 	 {Cambridge, MA},
+}

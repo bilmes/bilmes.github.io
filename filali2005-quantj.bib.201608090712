@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{filali2005-quantj,
+  author = 	 {Karim Filali and Xiao Li and Jeff Bilmes},
+  title = 	 {Algorithms for Data-driven ASR Parameter Quantization},
+  journal = 	 {Computer Speech and Language},
+  year = 	 {2005},
+  volume = 	 {20},
+  number = 	 {4},
+  pages = 	 {625--643},
+  month = 	 {October},
+}

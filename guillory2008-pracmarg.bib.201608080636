@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{guillory2008-pracmarg,
+  author = 	 {Andrew Guillory and Jeff Bilmes},
+  title = 	 {Practical Methods for Exploiting Bounds on Change in the Margin},
+  booktitle = {The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM 2007)},
+  year = 	 {2008},
+  address = 	 {Fort Lauderdale, Florida},
+}

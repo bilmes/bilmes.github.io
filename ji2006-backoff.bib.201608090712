@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{ji2006-backoff,
+  author = 	 {Gang Ji and Jeff Bilmes},
+  title = 	 {Backoff Model Training using Partially Observed Data: Application to Dialog Act Tagging},
+  booktitle = 	 {Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2006)},
+  year = 	 {2006},
+  address = 	 {New York, NY},
+  month = 	 {June},
+}

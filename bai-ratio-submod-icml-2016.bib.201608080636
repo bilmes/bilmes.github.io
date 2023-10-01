@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bai-ratio-submod-icml-2016,
+  author = 	 {Wenruo Bai and Rishabh Iyer and Kai Wei and Jeff Bilmes},
+  title = 	 {Algorithms for Optimizing the Ratio of Submodular Functions},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year = 	 {2016},
+  month = 	 {July},
+  address = 	 {New York, NY},
+}

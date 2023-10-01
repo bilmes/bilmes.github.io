@@ -1,0 +1,17 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{xiaoyu2010-footprints,
+  author = 	 {Chen, Xiaoyu and Hoffman, Michael M. and Bilmes, Jeff A. and Hesselberth, Jay R. and Noble, William S.}, 
+  title = 	 {{A dynamic Bayesian network for identifying protein-binding footprints from single molecule-based sequencing data}},
+  journal = 	 {Bioinformatics},
+  year = 	 {2010},
+  volume = 	 {26},
+  number = 	 {12},
+  pages =        {i334--i342},
+  wwwnote = {\url{http://dx.doi.org/10.1093/bioinformatics/btq175}},
+  doi = {10.1093/bioinformatics/btq175}, 
+  url=      {\url{http://bioinformatics.oxfordjournals.org/content/26/12/i334.full}},
+}

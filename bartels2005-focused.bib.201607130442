@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bartels2005-focused,
+  author = 	 {Chris Bartels and Jeff Bilmes},
+  title = 	 {Focused State Transition Information in {ASR}},
+  booktitle = {Proc.\ IEEE Automatic Speech Recognition and Understanding (ASRU)},
+  year = 	 {2005},
+  month = 	 {Nov/Dec},
+  address = 	 {Cancun, Mexico},
+}

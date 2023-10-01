@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{reynolds2005-pos,
+  author = 	 {S. Reynolds and Jeff Bilmes},
+  title = 	 {Part-of-Speech Tagging using Virtual Evidence and Negative Training},
+  booktitle = 	 {Human Language Technology Conference/Conference on Empirical Methods
+in Natural Language Processing (HLT/EMNLP-2005)},
+  year = 	 {2005},
+  address = 	 {Vancouver, B.C.},
+  month = 	 {Oct},
+}

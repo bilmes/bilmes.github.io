@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{kawahara2015-supermodular-tree,
+  author =  {Yoshinobu Kawahara and Rishabh Iyer and Jeff Bilmes},
+  title = {On Approximate Non-submodular Minimization via Tree-Structured Supermodularity},
+  booktitle = {18th International Conference on Artificial Intelligence and Statistics (AISTATS-2015)},
+  month =   {May},
+  year =    {2015},
+  location = {San Diego, CA},
+}

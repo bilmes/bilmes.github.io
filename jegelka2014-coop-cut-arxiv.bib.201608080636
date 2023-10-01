@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@misc{jegelka2014-coop-cut-arxiv,
+   author = 	 {Stefanie Jegelka and Jeff A. Bilmes},
+   Title = {Graph Cuts with Interacting Edge Costs - Examples, Approximations, and Algorithms},
+   Year = {2014},
+   URL = {http://arxiv.org/abs/1402.0240v1},
+   howpublished = {arXiv},
+   eprint = {1402.0240v1},
+   archivePrefix = "arXiv",
+   primaryClass = "cs.DS",
+}

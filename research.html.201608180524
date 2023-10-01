@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Jeff A. Bilmes Homepage</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+   <meta name="Keywords" content="Jeff Bilmes, Bilmes" />
+   <meta name="Description" content="Jeff Bilmes's Home Page." />
+   <link rel="stylesheet" href="../bilmes_style.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+<!-- put the above at the top of every page -->
+
+
+
+<div class="navigation">
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home</a>     
+      </li>  
+  <li><a href="about.html">About</a>     
+      </li>  
+  <li><a href="prospective.html">Prospective Students</a>
+  </li>
+  <li><a href="teaching.html">Teaching</a>
+  </li>
+  <li><a href="research.html">Research</a>
+  </li>
+  <li><a href="people.html">People</a>
+  </li>
+  <li><a href="sort_date.html">Publications</a>
+  </li>
+  <li><a href="software.html">Software 
+                              &amp;&#xA0;Data</a>
+  </li>
+  <li><a href="talks.html">Talks</a>
+  </li>
+</ul>
+</div> <!-- end navigation -->
+
+
+
+<div class="content">
+
+
+<div id="toptitle">
+<h1>Jeffrey A. Bilmes: Research</h1>
+</div>
+
+<p>
+It may be best to visit my publications page
+<a href="http://ssli.ee.washington.edu/people/bilmes/pgs/class_rescat.html">
+sorted by research category</a> to get a feeling for the
+research that I do, but some of the recent projects I have
+been involved in are briefly summarized below.</p>
+
+<ul>
+
+<li> <a href="http://ssli.ee.washington.edu/~bilmes/gmtk">The
+Graphical Models Toolkit (Binaries, Draft Documentation, and a
+Tutorial).</a> As of March, 2011, a full new source release and new documentation
+are coming soon. This is funded by the NSF, and by gifts
+from Intel and Microsoft.
+</li>
+
+<li> Discrete optimization and in particular
+<a href="http://ssli.ee.washington.edu/~bilmes/ee595a_spring_2011/">submodular
+functions</a> applied to machine learning. Submodular functions are a
+class of discrete functions that on the one hand are 
+powerful, flexible, and applicable to real problems but on the other hand are not too unrestricted
+so that hope for efficient algorithms needs to be given up. Submodular functions
+capture the notion of diminishing returns (an item is worth or costs
+less when it is considered in a larger context).  We have been
+developing new and applying existing ideas in submodular functions to
+a variety of applications in machine learning. See the
+<a href="http://ssli.ee.washington.edu/people/bilmes/pgs/class_rescat.html#Submodularity">
+following page</a> for recent publications on submodularity in machine
+learning. Some of this work is now sponsored by a gift from Google.
+</li>
+
+<li> Graphical Models and BioInformatics, joint with
+<a href="http://noble.gs.washington.edu/~noble">
+Bill Noble</a>. The application of dynamic graphical models to protein
+identification and to genome detection. There are a bunch of ideas
+that we are developing using dynamic graphical models, see
+the relevant 
+<a href="http://ssli.ee.washington.edu/people/bilmes/pgs/class_rescat.html#Bioinformatics">
+publications</a>. This is funded by the NIH.
+</li>
+
+<li> Novel methods of speech recognition, including articulatory
+speech recognition and other aspects of speech are are 
+currently under-exploited in existing speech recognition technology.
+This also involves dynamic graphical models, and this is
+joint work with Karen Livescu. This work is funded by the NSF.
+</li>
+
+<li> <a href="http://ssli.ee.washington.edu/vj">The Vocal Joystick</a>
+is all about using your voice in non-verbal ways to control computing
+devices and electro-mechanical devices. The underlying application is
+for individuals with motor impairments and thus who otherwise would be
+unable to use a mouse or trackpad. This was funded by the NSF.
+</li>
+
+<li> <a href="http://www.companions-project.org/">Companions</a>, A
+European project with the goal of developing intelligent "presence"
+devices to interact with and help individuals.</li>
+
+<li> Human Like Speech Processing - building new speech recognition
+systems by combining statistical modeling and human-like
+characteristics. This was funded by ONR.
+</li>
+
+<li> Sequential human activity recognition, a series of ongoing
+projects with
+<a href="http://www.cs.washington.edu/homes/fox/">Dieter Fox</a>.
+This was funded by DARPA, and now is being funded by Intel.
+</li>
+
+<li> Dynamics of Human Social Interaction - designing dynamic models
+of the evolution of human social networks in-situ,
+with <a href="http://www.cs.dartmouth.edu/~tanzeem/"> Tanzeem
+Choudhury</a>. This was funded by the NSF. 
+</li>
+
+<li> Intransitive Classifiers and Social Choice - producing
+methodologies that combine aspects of pattern classification and and
+social choice theory in a way that exploits intransitivity,
+with 
+<a href="http://www.stat.washington.edu/mmp">Marina Meila</a>.
+This was funded by the NSF. 
+</li>
+
+
+</ul>
+
+
+</div> <!-- end content -->
+
+
+<!-- put the below at the end of every page -->
+<div class="footer">
+<a class="right_pad" href="index.html">
+Go home</a>
+<a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div>
+</div> <!-- end container -->
+</body>
+</html>
+

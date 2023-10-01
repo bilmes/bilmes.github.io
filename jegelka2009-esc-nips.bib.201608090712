@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{jegelka2009-esc-nips,
+  author = 	 {Stefanie Jegelka and Jeff A. Bilmes},
+  title = 	 {Notes on graph cuts with submodular edge weights},
+  booktitle = 	 {Neural Information Processing Society (NIPS) Workshop},
+  note = {NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity \& Polyhedra (DISCML)},
+  year = 	 {2009},
+  address = 	 {Vancouver, Canada},
+  month = 	 {December},
+}

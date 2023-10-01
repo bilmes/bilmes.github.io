@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{pentney2008-struclearn,
+  author = 	 {William Pentney and Matthai Philipose and Jeff Bilmes},
+  title = 	 {Structure Learning on Large Scale Common Sense Statistical Models of Human State},
+  booktitle = {Twenty-Third AAAI Conference on Artificial Intelligence (AAAI-08),},
+  year = 	 {2008},
+  address = 	 {Chicago, Illinois, USA},
+  month = 	 {July},
+}

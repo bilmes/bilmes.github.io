@@ -1,0 +1,476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Jeff A. Bilmes Homepage</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+   <meta name="Keywords" content="Jeff Bilmes, Bilmes" />
+   <meta name="Description" content="Jeff Bilmes's Home Page." />
+   <link rel="stylesheet" href="../bilmes_style.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+<!-- put the above at the top of every page -->
+
+
+
+<div class="navigation">
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home</a>     
+      </li>  
+  <li><a href="about.html">About</a>     
+      </li>  
+  <li><a href="prospective.html">Prospective Students</a>
+  </li>
+  <li><a href="teaching.html">Teaching</a>
+  </li>
+  <li><a href="research.html">Research</a>
+  </li>
+  <li><a href="people.html">People</a>
+  </li>
+  <li><a href="sort_date.html">Publications</a>
+  </li>
+  <li><a href="software.html">Software 
+                              &amp;&#xA0;Data</a>
+  </li>
+  <li><a href="talks.html">Talks</a>
+  </li>
+</ul>
+</div> <!-- end navigation -->
+
+
+
+
+<div class="content">
+
+
+
+<div id="toptitle">
+<h1>
+<img id="thumbnail" src="../pictures/jb_tb.jpg" height="100px" alt="Jeffrey A. Bilmes photo" />
+Jeffrey A. Bilmes
+</h1>
+</div>
+
+
+<p>Jeffrey A. Bilmes is a professor at
+the <a href="http://www.ee.washington.edu">Department of Electrical
+Engineering</a> at the <a href="http://www.washington.edu">University
+of Washington</a>, Seattle Washington. He is also an adjunct professor
+in <a href="http://cs.washington.edu">Computer Science &amp; Engineering</a> and
+the <a href="http://depts.washington.edu/lingweb/"> department of
+Linguistics</a>. Prof. Bilmes is the founder of
+the 
+MELODI (MachinE Learning for Optimization and Data Interpretation) lab
+here in the department. Bilmes
+received his Ph.D. from
+the <a href="http://www.cs.berkeley.edu">Computer Science Division</a>
+of the department of <a href="http://www.eecs.berkeley.edu">Electrical
+Engineering and Computer
+Science</a>, <a href="http://www.berkeley.edu">University of
+California in Berkeley</a>. He was also a researcher at
+the <a href="http://www.icsi.berkeley.edu">International Computer
+Science Institute</a>, and a member of
+the <a href="http://www.icsi.berkeley.edu/real/index.html">Realization</a> group there.
+</p>
+
+<p>
+Prof. Bilmes is a 2001 NSF Career award winner, 
+a 2002 CRA Digital Government Fellow,
+a 2008
+<a href="http://www.nae.edu/nae/naehome.nsf/weblinks/CGOZ-7AHRDD?OpenDocument">
+NAE Gilbreth Lectureship award recipient</a>,
+and a 2012/2013 ISCA Distinguished
+Lecturer. Prof. Bilmes was a 
+UAI 
+(<a href="http://auai.org/">Conference on Uncertainty in Artificial Intelligence</a>)
+program chair (2009) and then
+the general chair (2010). He was also a workshop chair (2011) and the tutorials chair (2014)
+at NIPS (<a href="http://nips.cc/">Neural Information Processing Systems</a>). 
+He is currently an action editor for JMLR 
+(<a href="http://jmlr.csail.mit.edu/">Journal of Machine Learning Research</a>).
+</p>
+
+<p>
+Prof. Bilmes's primary interests lie in statistical modeling (particularly
+graphical model approaches) and signal processing for pattern
+classification, speech recognition, language processing,
+bioinformatics, machine learning, submodularity in combinatorial
+optimization and machine learning, active and semi-supervised
+learning, and audio/music processing. He is particularly interested in
+temporal graphical models (or dynamic graphical models, which includes
+HMMs, DBNs, and CRFs) and ways in which to design efficient algorithms
+for them and design their structure so that they may perform as better
+structured classifiers.  He also has strong interests in speech-based
+human-computer interfaces, the statistical properties of natural
+objects and natural scenes, information theory and its relation to
+natural computation by humans and pattern recognition by machines, and
+computational music processing (such as human timing subtleties).  He
+is also quite interested in high performance computing systems,
+computer architecture, and software techniques to reduce power
+consumption.
+</p>
+
+<p>
+Prof. Bilmes has also pioneered (starting in 2003) the development of
+submodularity within machine learning, and he received a <b>best paper
+  award at ICML 2013</b> and a <b>best paper award at NIPS 2013</b> in
+this area.  In 2014, Prof. Bilmes also received a <b> most influential paper
+  in 25 years award</b> from the International Conference on
+Supercomputing, given to a paper on high-performance matrix
+optimization.  Prof. Bilmes has authored the graphical models toolkit
+(GMTK), a dynamic graphical-model based software system widely used in
+speech, language, bioinformatics, and human-activity recognition.
+</p>
+
+
+<h2>Current and Recent Past Activities</h2>
+
+<p>Some previous work on musical modeling is apparently
+gaining some utility for
+<a href="https://www.inverse.com/article/7599-how-machine-learning-and-jazz-piano-luminary-art-tatum-power-online-radio">
+streaming music applications</a>
+</p>
+
+<p>Invited speaker at
+the 
+<a href="http://iacs.seas.harvard.edu/workshop-data-driven-algorithmics">
+Workshop on Data-driven Algorithmics</a>
+at Harvard University, September 2015</p>
+
+<p>Invited lecturer at the 
+<a href="http://math.iisc.ernet.in/~nmi/NOML.php">  
+Non-convex Optimization for Machine Learning
+(NOML)</a> Summer School, IIT Bombay, India, June 2015</p>
+
+<p>
+<a href="http://www.aaai.org/Conferences/AAAI/aaai16.php">
+The Thirtieth AAAI Conference on Artificial Intelligence (AAAI-16)
+</a> Senior Program Committee</p> 
+
+
+<p>
+<a href="http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=46617">
+33rd International Conference on Machine Learning (ICML-2016)</a> Senior Program Committee</p> 
+
+
+<p>Invited lecturer in the IMA workshop 
+<a href="http://www.ima.umn.edu/2014-2015/W2.23-27.15">
+Convexity and Optimization: Theory and Applications</a>,
+February 23 - 27, 2015</p>
+
+
+<p>
+Senior Program Committee at <a href="http://auai.org/uai2015/">UAI 2015</a>
+</p>
+
+
+<p>
+Area Chair at <a href="http://icml.cc/2015/">ICML 2015</a>
+</p>
+
+
+<p>
+Co-organizer of the 
+<a href="http://research.microsoft.com/en-us/events/mlw2015/">
+UW-MSR Machine learning workshop, 2015</a>
+</p>
+
+<p>Giving a tutorial on Submodular Applications in Machine Learning 
+at 
+<a href="http://www.aaai.org/Conferences/AAAI/2015/aaai15tutorials.php">
+AAAI-2015</a>
+</p>
+
+
+<p>I am co-organizing a NIPS-2014 Workshop on
+<a href="http://www.discml.cc/">Discrete Optimization in Machine Learning: Structures, Algorithms and Applications (DISCML)</a>. 
+Sixth year running.
+</p>
+
+<p><a href="http://nips.cc/Conferences/2014/">NIPS 2014</a> Both 
+Area Chair and the Tutorials Chair
+</p>
+
+<p>
+The <a href="http://melodi.ee.washington.edu/gmtk">GMTK 1.0 source code distribution</a> is now
+available.
+</p>
+
+<p>
+A <a href="http://melodi.ee.washington.edu/~bilmes/pgs/b2hd-bilmes1997-phipac.html">paper</a>
+I wrote as a graduate student was 
+selected as one of the most influential ICS papers in 25 years, and will be
+included in the special issue "25 years of International Conference on Supercomputing, 2014"
+</p>
+
+
+<p>
+Tutorial speaker at the 
+<a href="http://mlss2014.hiit.fi/">Machine Learning Summer School (MLSS)</a>
+in Reykjavik, Iceland, April 2014.
+</p>
+
+<p>
+Senior Program Committee at <a href="http://auai.org/uai2014/">UAI 2014</a>
+</p>
+
+
+<p>
+Senior Program Committee at <a href="http://www.aistats.org/">AI-STATS 2014</a>
+</p>
+
+<p>
+Outstanding paper award recipient at 
+<a href="https://nips.cc/Conferences/2013/">
+NIPS-2013</a>
+for a 
+<a href="http://melodi.ee.washington.edu/~bilmes/pgs/b2hd-rishabh2013-submodular-constraints.html">
+paper</a>
+on submodular function optimization subject to
+constraints specified with another submodular function.
+</p>
+
+<p>
+I'm giving a 
+<a href="ttp://nips.cc/Conferences/2013/Program/schedule.php?Session=Tutorials">
+tutorial at 
+NIPS-2013</a> 
+entitled 
+<a href="http://nips.cc/Conferences/2013/Program/event.php?ID=3688">
+Deep Mathematical Properties of Submodularity
+with Applications to Machine Learning</a>
+</p>
+
+<p>
+Best paper award recipient at 
+<a href-"http://icml.cc/2013/">ICML-2013</a>
+for a
+<a href="http://melodi.ee.washington.edu/~bilmes/pgs/b2hd-iyer2013-fast-submodular-semigradient.html">
+paper</a> on discrete gradient-based methods for submodular optimization subject to
+combinatorial constraints.
+</p>
+
+
+<p>Action editor for <a href="http://jmlr.csail.mit.edu">Journal of Machine Learning Research (JMLR)</a> 2013-2016</p>
+
+<p>I am a 
+<a href="http://escience.washington.edu/who-we-are/affiliates">Faculty Affiliate</a> of the University of Washington, <a href="http://escience.washington.edu/">eScience Institute</a></p>
+
+<p>I am co-organizing a NIPS-2013 Workshop on
+<a href="http://www.discml.cc/">Discrete Optimization in Machine Learning: Structures, Algorithms and Applications (DISCML)</a>. Fifth year running.
+</p>
+
+
+<p>Invited speaker at 
+<a href="https://sites.google.com/site/representationlearning2013/program-details/invited-speakers">
+International Conference on Learning Representations (ICLR2013)</a>
+A video of the talk is available
+<a href="http://techtalks.tv/talks/tba-invited-talk/58092/">here</a>
+</p>
+
+<p>Faculty Affiliate for the 
+<a href="http://www.csss.washington.edu/People/">Center For Statistics And The Social Sciences (CSSS)</a>
+</p>
+
+
+<p><a href="http://nips.cc/">NIPS 2013</a> Area Chair</p>
+
+<p>Area chair for the International Conference on Machine Learning (ICML), 2013</p> 
+
+<p>I am co-organizing a NIPS 2012 Workshop on
+<a href="http://www.discml.cc/">Discrete Optimization in Machine Learning: Structures, Algorithms and Applications (DISCML)</a>. Forth year running.
+</p>
+
+
+<p>
+Invited speaker at the 
+<a href="http://www2.isye.gatech.edu/submodularity-workshop/">Modern
+Aspects of Submodularity</a> workshop at Georgia Tech in March, 2012.
+</p>
+
+
+<p>I was selected to be an 
+<a href="http://www.isca-speech.org/iscaweb/index.php?option=com_content&view=article&id=62&Itemid=75">
+ISCA Distinguished Lecturer</a> for the
+2011/2012 year.</p>
+
+
+<p>
+I am a workshop co-chair for 
+<a href="http://nips.cc/Conferences/2011">NIPS 2011</a> in Granada, Spain.
+</p>
+
+
+<p>I am co-organizing a NIPS 2011 Workshop on
+<a href="http://www.discml.cc/">Discrete Optimization in Machine Learning: Structures, Algorithms and Applications (DISCML)</a>. Third year running.
+</p>
+
+
+
+<p>
+I am on the Scientific Program Committee 
+of the 
+2011 Joint ICML/ACL 
+<a href="http://www.ttic.edu/sigml/symposium2011/">
+Symposium on Machine Learning in Speech and Language
+Processing</a>. Deadline submission is April 15th, 2011. Please
+submit. </p>
+
+
+<p>I am co-organizing a NIPS 2010 Workshop on
+<a href="http://www.discml.cc/">Discrete Optimization in Machine Learning: Structures, Algorithms and Applications (DISCML)</a>. Submission deadline is Friday October 29, 2010.
+</p>
+
+
+
+<p>I am on the committee for the UAI 2010 Approximate inference
+evaluation.
+See <a href="http://www.cs.huji.ac.il/project/UAI10/">here</a> for
+details.</p>
+
+<p>Starting in March 2010, I began a three-year term as a member of
+the editorial board of the
+<a href="http://www.signalprocessingsociety.org/publications/periodicals/spm/">
+IEEE Signal Processing Magazine</a>
+</p>
+
+
+<p>I am the general chair of the 
+<a href="http://event.cwi.nl/uai2010/">
+26th Conference on Uncertainty in
+Artificial Intelligence in 2010</a> (UAI2010).</p>
+
+
+
+<p>I am on the technical program committee for
+an <a href="http://naaclhlt2010.isi.edu">HLT/NAACL-2010</a> workshop
+on speech and language processing for assitive technologies. 
+Web page and submission information is
+<a href="http://slpat2010.csee.ogi.edu/">here</a>.</p>
+
+
+
+<p>I am on the senior program committee of
+<a href="http://www.aaai.org/Conferences/AAAI/aaai10.php">AAAI-2010.</a>
+Submission deadline is Jan 18th, 2010.
+</p>
+
+
+<p>I am co-organizing a NIPS 2010 workshop on submodularity and
+discrete optimization in machine learning. The
+program is  <a href="http://www.discml.cc/">here</a></p>
+
+
+
+<p>
+I am a technical chair of 
+<a href="http://www.asru2009.org/">
+IEEE Automatic Speech 
+Recognition and Understanding (ASRU)</a> in 2009.</p>
+
+
+<p>
+I was program co-chair of the 25th Conference on Uncertainty in Artificial
+Intelligence (UAI2009) along
+with <a href="http://ai.stanford.edu/~ang/">Andrew Ng</a>.  Please
+see <a href="http://www.cs.mcgill.ca/~uai2009/">here</a>.</p>
+
+
+
+<p>
+For the academic year 2008/2009 
+<a href="http://www.kyb.mpg.de/~bilmes">
+I was on sabbatical</a> at the
+<a href="http://www.kyb.mpg.de/">Max-Planck Institute for biological Cybernetics</a> in Tübingen, working
+in 
+<a href="http://www.kyb.mpg.de/~bs">Bernhard Schölkopf's group</a>.
+</p>
+
+
+<p> Organizer 
+of the 
+<a href="http//www.nae.edu/Programs/FOE/JAFOE/PastSymposia10016/page200810053.aspx">
+Japan-America Frontiers of Engineering Symposium</a>, Kobe Japan, 2008
+sponsored by the NAE.
+</p>
+
+
+<p>
+I ran the 1st <a
+href="http://ssli.ee.washington.edu/~bilmes/uai06InferenceEvaluation/">
+inference evaluation</a> at <a
+href="http://www.ics.uci.edu/~csp/uai2006/">UAI2006</a> in (2006).</p>
+
+
+<h2>Less Recent Activities</h2>
+
+
+
+<p>Senior Program Committee: International Conference on Machine
+Learning (ICML) in 2007</p>
+
+<p>Program Committee: Association for the Advancement of Articial Intelligence (AAAI), 2007.
+</p>
+
+<p>IEEE Speech Technical Committee, 2003-2007</p>
+
+<p>Program Chair for
+<a href="http://nlp.cs.nyu.edu/hlt-naacl06/">HLT/NAACL</a> 
+in 2006.
+</p>
+
+
+<p>Workshop co-chair for 2005 NIPS workshop on
+<a href="http://www.cis.upenn.edu/~crammer/workshop-index.html">
+Advances in Structured Learning for Text and Speech Processing</a>
+</p>
+
+<p>Program committee (2nd year in a row) for Neural Information
+Processing Systems (NIPS), in
+<a href="http://nips.cc/Conferences/2005">2005</a></p>
+
+
+<p>Program committee for Neural Information Processing Systems (NIPS),
+in
+<a href="http://nips.cc/Conferences/2004">2004</a></p>
+
+
+<p>
+General chair for IEEE Automatic Speech Recognition and Understanding (ASRU), in
+2003.
+</p>
+
+
+<p>
+Senior Group member, Johns Hopkins summer workshop on automatic speech
+recognition in 2002.
+</p>
+
+
+
+<p>
+Group leader, Johns Hopkins summer workshop on automatic speech
+recognition in 2001.
+</p>
+
+
+</div> <!-- end content -->
+
+
+
+
+<!-- put the below at the end of every page -->
+<div class="footer">
+<a class="right_pad" href="index.html">
+Go home</a>
+<a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div>
+</div> <!-- end container -->
+</body>
+</html>
+

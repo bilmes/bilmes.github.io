@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{kirchhoff2003-aasr-cnf,
+  author = 	 {Katrin Kirchhoff and Jeff Bilmes and Sourin Das and Nicolae Duta and Melissa Egan and Gang Ji and Feng He and John Henderson and Daben Liu and Mohamed Noamany and Pat Schone and Richard Schwartz and Dimitra Vergyri},
+  title = 	 {Novel Approaches to Arabic Speech Recognition: Report from the 2002 Johns-Hopkins Summer Workshop},
+  journal = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2003},
+  address = 	 {Hong Kong, China},
+  month = 	 {May},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Misc{bilmes2013-iclr-invited-talk,
+  author = 	 {Jeff Bilmes},
+  title = 	 {Submodularity and Big Data},
+  howpublished = {International Conference on Learning Representations, 2013, Invited Speaker},
+  month = 	 {May},
+  year = 	 {2013},
+  note = {Web link \url{https://sites.google.com/site/representationlearning2013/program-details/invited-speakers} and video \url{http://techtalks.tv/talks/tba-invited-talk/58092/}},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{bartels2009-gm-syllable-tr,
+  author = 	 {Chris Bartels and Jeff Bilmes},
+  title = 	 {Graphical Models for Integrating Syllabic Information},
+  institution =  {University of Washington, Dept. of EE},
+  year = 	 {2009},
+  number = 	 {UWEETR-2009-0007},
+  wwwnote =      {https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0007.html},
+}

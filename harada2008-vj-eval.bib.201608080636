@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{harada2008-vj-eval,
+  author = 	 {Susumu Harada and James Landay and Jon Malkin and Xiao Li and Jeff Bilmes},
+  title = 	 {The Vocal Joystick: evaluation of voice-based cursor control techniques for assistive technology},
+  journal = 	 {Disability and Rehabilitation: Assistive Technology},
+  year = 	 {2008},
+  volume = 	 {3},
+  number = 	 {1},
+  pages = 	 {22--34},
+  month = 	 {January},
+}

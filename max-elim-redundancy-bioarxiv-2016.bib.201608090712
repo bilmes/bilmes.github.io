@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@article {max-elim-redundancy-bioarxiv-2016,
+  author = {Libbrecht, Maxwell W and Bilmes, Jeffrey A and Noble, William Stafford},
+  title = {Eliminating redundancy among protein sequences using submodular optimization},
+  year = {2016},
+  doi = {10.1101/051201},
+  publisher = {Cold Spring Harbor Labs Journals},
+  abstract = {Submodular optimization, a discrete analogue to continuous convex optimization, has been used with great success in many fields but is not yet widely used in biology. We demonstrate how submodular optimization can be applied to the problem of removing redundancy in protein sequence data sets, a common step in many bioinformatics and structural biology workflows. We show that an approach based on submodular optimization results in representative protein sequence subsets with greater functional diversity than sets chosen with existing methods. In particular, we compare to a widely used, heuristic algorithm implemented in software tools such as CD-HIT, using as a gold standard the SCOPe library of protein domain structures. In this setting, submodular optimization consistently yields protein sequence subsets that include more SCOPe domain families than sets of the same size selected by the heuristic approach. This framework is theoretically optimal under some assumptions, and it is flexible and intuitive because it applies generic methods to optimize one of a variety of objective functions. This application serves as a model for how submodular optimization can be applied to other discrete problems in biology.},
+  URL = {http://biorxiv.org/content/early/2016/05/02/051201},
+  eprint = {http://biorxiv.org/content/early/2016/05/02/051201.full.pdf},
+  journal = {bioRxiv},
+}

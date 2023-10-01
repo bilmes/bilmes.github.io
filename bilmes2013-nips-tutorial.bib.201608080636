@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Misc{bilmes2013-nips-tutorial,
+  author = 	 {Jeff Bilmes},
+  title = 	 {Deep Mathematical Properties of Submodularity with Applications to Machine Learning},
+  howpublished = {NIPS Conference 2013 Tutorial},
+  month = 	 {December},
+  year = 	 {2013},
+  URL = {http://nips.cc/Conferences/2013/Program/event.php?ID=3688},
+  note = {\url{http://youtu.be/c4rBof38nKQ}},
+  wwwnote = {http://nips.cc/Conferences/2013/Program/event.php?ID=3688},
+}

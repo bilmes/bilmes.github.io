@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{pentney2007-largecom,
+  author = 	 {William Pentney and Matthai Philipose and Jeff Bilmes and Henry Kautz},
+  title = 	 {Learning Large Scale Common Sense Models of Everyday Life},
+  booktitle = {Twenty-Second AAAI Conference on Artificial Intelligence (AAAI-07)},
+  year = 	 {2007},
+  address = 	 {Vancouver, British Columbia},
+  month = 	 {July},
+}

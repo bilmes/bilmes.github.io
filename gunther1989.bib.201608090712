@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{gunther1989,
+  author = 	 {Oliver Gunther and Jeff Bilmes},
+  title = 	 {The Implementation of the Cell Tree: Design Alternatives and Performance Evaluation},
+  journal = 	 {Datenbanksysteme in Buro, Technik und Wissenschaft, Informatik-Fachberichte},
+  year = 	 {1989},
+  volume = 	 {204},
+  note = 	 {Springer-Verlag},
+}

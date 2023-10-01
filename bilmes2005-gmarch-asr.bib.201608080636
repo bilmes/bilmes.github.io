@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bilmes2005-gmarch-asr,
+  author = 	 {Jeff Bilmes and Chris Bartels},
+  title = 	 {Graphical Model Architectures for Speech Recognition},
+  journal = 	 {IEEE Signal Processing Magazine},
+  year = 	 {2005},
+  volume = 	 {22},
+  number = 	 {5},
+  pages = 	 {89--100},
+  month = 	 {September},
+}

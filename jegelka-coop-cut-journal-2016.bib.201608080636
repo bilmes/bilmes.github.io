@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{jegelka-coop-cut-journal-2016,
+  author = "Stefanie Jegelka and Jeff Bilmes",
+title="Graph cuts with interacting edge weights: examples, approximations, and algorithms",
+journal="Mathematical Programming",
+year="2016",
+pages="1--42",
+abstract="We study an extension of the classical graph cut problem, wherein we replace the modular (sum of edge weights) cost function by a submodular set function defined over graph edges. Special cases of this problem have appeared in different applications in signal processing, machine learning, and computer vision. In this paper, we connect these applications via the generic formulation of ``cooperative graph cuts'', for which we study complexity, algorithms, and connections to polymatroidal network flows. Finally, we compare the proposed algorithms empirically.",
+issn="1436-4646",
+doi="10.1007/s10107-016-1038-y",
+url="http://dx.doi.org/10.1007/s10107-016-1038-y",
+}

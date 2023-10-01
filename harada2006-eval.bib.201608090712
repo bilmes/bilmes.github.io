@@ -1,0 +1,16 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{harada2006-eval,
+  author = 	 {Susumu Harada and James Landay and Jon Malkin and Xiao Li and Jeff Bilmes},
+  title = 	 {The Vocal Joystick: Evaluation of Voice-based Cursor Control Techniques},
+  booktitle = {Proceedings of the 8th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS06)},
+  pages = 	 {197--204},
+  year = 	 {2006},
+  address = 	 {Portland, Oregon},
+  month = 	 {October},
+  publisher =    {ACM},
+  note = 	 {New York, NY},
+}

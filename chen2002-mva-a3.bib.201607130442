@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{chen2002-mva-a3,
+  author = 	 {Chia-Ping Chen and Karim Filali and Jeff Bilmes},
+  title = 	 {Frontend Post-Processing and Backend Model Enhancement on the Aurora 2.0/3.0 Databases},
+  booktitle = 	 {Proc.\ Int. Conf. on Spoken Language Processing},
+  year = 	 {2002},
+  address = {Denver, Colorado},
+  wwwnote = {also see http://ssli.ee.washington.edu/people/chiaping/mva.html},
+}

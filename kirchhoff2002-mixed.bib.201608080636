@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{kirchhoff2002-mixed,
+  author = "Katrin Kirchhoff and Sonia Parandekar and Jeff Bilmes",
+  title = "Mixed-memory {M}arkov models for Automatic Language Identification",
+  booktitle = {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = "2002",
+  address = "Orlando, Florida",
+}

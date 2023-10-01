@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{bilmes2002-dbntri-tr,
+  author = 	 {Jeff Bilmes and Chris Bartels},
+  title = 	 {On Triangulating Dynamic Graphical Models},
+  institution =  {University of Washington, Department of Electrical Engineering},
+  year = 	 {2002},
+  number = 	 {UWEETR-2002-0007},
+  note = {\url{https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0007.html}},
+}

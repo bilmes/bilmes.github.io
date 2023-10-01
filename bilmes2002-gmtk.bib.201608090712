@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bilmes2002-gmtk,
+  author = 	 {Jeff Bilmes and Geoff Zweig},
+  title = 	 {The Graphical Models Toolkit: An Open Source Software System for Speech and Time-Series Processing},
+  journal = 	 {Proc.\ IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing},
+  year = 	 {2002},
+  annote =       {gmtk, GMTK},
+}

@@ -1,0 +1,15 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InCollection{bilmes2003-gmasr-book,
+  author = 	 {Jeff Bilmes},
+  title = 	 {Graphical Models and Automatic Speech Recognition},
+  booktitle = 	 {Mathematical Foundations of Speech and Language Processing},
+  publisher = {Springer-Verlag, New York},
+  year = 	 {2003},
+  editor = 	 {R. Rosenfeld and M. Ostendorf and S. Khudanpur and M. Johnson},
+  annote = 	 {IMA, Institute Mathematical Analysis, Volumes in Mathematics Series},
+  wwwnote = {http://www.ima.umn.edu/pub/pub.html},
+}

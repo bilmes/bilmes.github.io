@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InCollection{morgan1993-rapbook,
+  author = 	 {N. Morgan and J. Beck and P. Kohn and J. Bilmes},
+  title = 	 {Neurocomputing on the RAP},
+  booktitle = 	 {Digital Parallel Implementations of Neural Networks},
+  pages = 	 {197--219},
+  publisher = {Prentice-Hall},
+  year = 	 {1993},
+  editor = 	 {K. W. Przytula and V. K. Prasanna},
+}

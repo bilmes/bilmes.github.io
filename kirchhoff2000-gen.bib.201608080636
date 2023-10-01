@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{kirchhoff2000-gen,
+  author = 	 {Katrin Kirchhoff and Jeff Bilmes},
+  title = 	 {Combination and Joint Training of Acoustic Classifiers for Speech Recognition},
+  booktitle = 	 {Proc. of the ISCA ITRW Automatic Speech Recognition 2000 Workshop},
+  year = 	 {2000},
+  address = 	 {Paris, France},
+  month = 	 {October},
+  organization = {LIMSI-CNRS},
+}

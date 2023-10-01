@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{pernkopf2005-gendisc,
+  author = 	 {Franz Pernkopf and Jeff Bilmes},
+  title = 	 {Discriminative versus Generative Parameter and Structure Learning of Bayesian Network Classifiers},
+  booktitle = {International Conference on Machine Learning (ICML)},
+  year = 	 {2005},
+  address = 	 {Bonn, Germany},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{wyatt2008-cues,
+  author = 	 {Danny Wyatt and Tanzeem Choudhury and Jeff Bilmes},
+  title = 	 {Understanding Social Relationships: Cues from Subtle Conversational Signals},
+  booktitle = {Tenth International Conference on Ubiquitous Computing (UBICOMP08)},
+  year = 	 {2008},
+  address = 	 {Seoul, South Korea},
+  month = 	 {September},
+}

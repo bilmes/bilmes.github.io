@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Misc{bilmes1996-tgss,
+  author = 	 {J. Bilmes},
+  title = 	 {Temporal {G}aussian Scaled Speech},
+  howpublished = {\href{http://www.icsi.berkeley.edu/~bilmes/earex}{\url{http://www.icsi.berkeley.edu/~bilmes/earex}}},
+  year = 	 {1996},
+  note = 	 {Contains audio examples of temporally Gaussian scaled speech.},
+  annote = 	 {Need to update the URL and get the examples in place.},
+}

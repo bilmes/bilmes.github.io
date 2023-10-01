@@ -1,0 +1,146 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Jeff A. Bilmes Homepage</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+   <meta name="Keywords" content="Jeff Bilmes, Bilmes" />
+   <meta name="Description" content="Jeff Bilmes's Home Page." />
+   <link rel="stylesheet" href="../bilmes_style.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+<!-- put the above at the top of every page -->
+
+
+
+<div class="navigation">
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home</a>     
+      </li>  
+  <li><a href="about.html">About</a>     
+      </li>  
+  <li><a href="prospective.html">Prospective Students</a>
+  </li>
+  <li><a href="teaching.html">Teaching</a>
+  </li>
+  <li><a href="research.html">Research</a>
+  </li>
+  <li><a href="people.html">People</a>
+  </li>
+  <li><a href="sort_date.html">Publications</a>
+  </li>
+  <li><a href="software.html">Software 
+                              &amp;&#xA0;Data</a>
+  </li>
+  <li><a href="talks.html">Talks</a>
+  </li>
+</ul>
+</div> <!-- end navigation -->
+
+
+
+<div class="content">
+
+<div id="toptitle">
+<h1>Jeffrey A. Bilmes</h1>
+</div>
+
+<table class="imgtable"><tr><td>
+<a href="portrait.html">
+<img id="blackborder" src="../pictures/jb_tb.jpg" height="171px" alt="Jeffrey A. Bilmes photo" />
+</a>
+&nbsp;</td>
+<td align="left"><p>Jeffrey A. Bilmes<br />
+Professor<br />
+<a href="http://www.ee.washington.edu/">Department of Electrical Engineering</a>,<br />
+<a href="http://www.washington.edu/">University of Washington, Seattle</a><br /><br />
+Adjunct Professor in the Departments of<br />
+<a href="http://cs.washington.edu">Computer Science and
+Engineering</a>
+and 
+<a href="http://depts.washington.edu/lingweb/">
+Linguistics</a>
+</p>
+
+</td></tr></table>
+<h2>Contact</h2>
+<p>
+Jeffrey A. Bilmes<br />
+Department of Electrical Engineering<br />
+University of Washington, Seattle<br />
+Box 352500<br />
+Seattle, WA 98195-2500<br />
+Tel: +1 206 221-5236<br />
+Fax: +1 206 543 3842<br />
+
+b<a href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">.....</a>@ee.washington.edu <br />
+
+j<a href="http://mailhide.recaptcha.net/d?k=01jyM1evU-091TzjD2sEW9lQ==&amp;c=NqIIOOT8mMpbXbaUrQfuFTBV1YGM8s32fuD7axH_2kA=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01jyM1evU-091TzjD2sEW9lQ==&amp;c=NqIIOOT8mMpbXbaUrQfuFTBV1YGM8s32fuD7axH_2kA=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">.....</a>@gmail.com <br />
+<a href="index.html">http://melodi.ee.washington.edu/~bilmes/</a><br />
+
+<a href="https://www.linkedin.com/in/jbilmes">
+<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x25.png" width="160" height="25" border="0" alt="View Jeff Bilmes's profile on LinkedIn">
+</a><br />
+<a href="https://twitter.com/jbilmes" class="twitter-follow-button" data-show-count="false">Follow @jbilmes</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</p>
+
+
+<h2>Schedule</h2>
+Office hours (Fall 2014): Mondays, 1:30-3:30pm, EEB-418<br />
+Teaching schedule for 2014&ndash;15: 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/">EE512 Advanced Inference in Graphical Models (Fall'14)</a>, Advanced Submodular Structures (Winter'15),
+EE516 Speech Processing and Automatic Speech Recognition (Spring'15).<br />
+Teaching schedule for 2013&ndash;14: 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee514a_fall_2013">
+Information Theory I (Fall'13)</a>,
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee515a_winter_2014">
+Information Theory II (Winter'14)</a>,
+and 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee596b_spring_2014/">Submodular Functions</a> (Spring'14).<br />
+Teaching schedule for 2012&ndash;13: <a href="http://j.ee.washington.edu/~bilmes/classes/ee596a_fall_2012">Submodular Functions</a> (Fall), 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee596a_winter_2013/">
+Dynamic Graphical Models (Winter)</a>, 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee516_spring_2013/">
+EE516 Speech Processing and Automatic Speech Recognition (Spring)</a>.
+<br />
+
+
+<h2>Assistant</h2>
+<p>Pam Eisenheim<br />
+Tel: +1 206 685 3810
+<br />
+p<a href="http://mailhide.recaptcha.net/d?k=01gh2jzv6eMwvm_fv9x3_Mnw==&amp;c=xlhRkF0PmgAozcW5y9L6lY1-jNKCU4bAvhnNG-93igA=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01gh2jzv6eMwvm_fv9x3_Mnw==&amp;c=xlhRkF0PmgAozcW5y9L6lY1-jNKCU4bAvhnNG-93igA=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@ee.washington.edu
+</p>
+
+<h2>Search this site</h2>
+
+
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="001635808224426230392:o97u56j47fq" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="31" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&lang=en"></script>
+
+</div> <!-- end content -->
+
+
+<!-- put the below at the end of every page -->
+<div class="footer">
+<a class="right_pad" href="index.html">
+Go home</a>
+<a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div>
+</div> <!-- end container -->
+</body>
+</html>
+

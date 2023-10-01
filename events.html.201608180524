@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Jeff A. Bilmes Homepage</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+   <meta name="Keywords" content="Jeff Bilmes, Bilmes" />
+   <meta name="Description" content="Jeff Bilmes's Home Page." />
+   <link rel="stylesheet" href="../bilmes_style.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+<!-- put the above at the top of every page -->
+
+
+
+<div class="navigation">
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home</a>     
+      </li>  
+  <li><a href="about.html">About</a>     
+      </li>  
+  <li><a href="prospective.html">Prospective Students</a>
+  </li>
+  <li><a href="teaching.html">Teaching</a>
+  </li>
+  <li><a href="research.html">Research</a>
+  </li>
+  <li><a href="people.html">People</a>
+  </li>
+  <li><a href="sort_date.html">Publications</a>
+  </li>
+  <li><a href="software.html">Software 
+                              &amp;&#xA0;Data</a>
+  </li>
+  <li><a href="talks.html">Talks</a>
+  </li>
+</ul>
+</div> <!-- end navigation -->
+
+
+
+<div class="content">
+
+
+<div id="toptitle">
+<h1>Jeffrey A. Bilmes: Events</h1>
+</div>
+
+
+</div> <!-- end content -->
+
+
+<!-- put the below at the end of every page -->
+<div class="footer">
+<a class="right_pad" href="index.html">
+Go home</a>
+<a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div>
+</div> <!-- end container -->
+</body>
+</html>
+

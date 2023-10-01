@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{bilmes2003-paa,
+  author = 	 {J. Bilmes and K. Kirchhoff},
+  title = 	 {Generalized Rules for Combination and Joint Training of Classifiers},
+  journal = 	 {Pattern Analysis and Applications},
+  year = 	 {2003},
+  volume = 	 {6},
+  pages = 	 {201--211},
+  note = 	 {Springer},
+}

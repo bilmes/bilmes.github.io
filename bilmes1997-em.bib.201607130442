@@ -1,0 +1,12 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{bilmes1997-em,
+  author = 	 {Jeff Bilmes},
+  title = 	 {A Gentle Tutorial of the {EM} algorithm and its application to Parameter Estimation for {G}aussian Mixture and Hidden {M}arkov Models},
+  institution =  {ICSI},
+  year = 	 {1997},
+  number = 	 {TR-97-021},
+}

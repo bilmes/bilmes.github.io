@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{subramanya2008-ssltc,
+  author = 	 {Amar Subramanya and Jeff Bilmes},
+  title = 	 {Soft-Supervised Learning for Text Classification},
+  booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},
+  year = 	 {2008},
+  address = 	 {Honolulu, Hawaii},
+  month = 	 {October},
+}

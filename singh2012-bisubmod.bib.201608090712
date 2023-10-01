@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{singh2012-bisubmod,
+  author = 	 {Ajit Singh and Andrew Guillory and Jeff Bilmes},
+  title = 	 {On Bisubmodular Maximization},
+  booktitle = {Fifteenth International Conference on Artificial Intelligence and Statistics (AISTAT)},
+  year = 	 {2012},
+  address = 	 {La Palma, Canary Islands},
+  month = 	 {April},
+}

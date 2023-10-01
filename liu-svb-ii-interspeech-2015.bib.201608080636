@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{liu-svb-ii-interspeech-2015,
+  author = 	 {Yuzong Liu and Rishabh Iyer and Katrin Kirchhoff and Jeff Bilmes},
+  title = 	 {SVitchboard II and FiSVer I: High-Quality Limited-Complexity Corpora of Conversational English Speech},
+  booktitle = {Proc.\ Annual Conference of the International Speech Communication Association (INTERSPEECH)},
+  year = 	 {2015},
+  address = 	 {Dresden, Germany},
+  month = {September},
+}

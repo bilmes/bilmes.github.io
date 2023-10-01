@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{li2004-object,
+  author = 	 {Yi Li and Jeff A. Bilmes and Linda G. Shapiro},
+  title = 	 {Object Class Recognition using Images of Abstract Regions},
+  booktitle = {International Conference on Pattern Recognition},
+  year = 	 {2004},
+  address = 	 {Cambridge, UK},
+  month = 	 {August},
+}

@@ -1,0 +1,13 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@InProceedings{bartels2005-gatri,
+  author =       {Chris Bartels and Kevin Duh and Jeff Bilmes and Katrin Kirchhoff and Simon King},
+  title = 	 {Genetic Triangulation of Graphical Models for Speech and Language Processing},
+  booktitle =    {European Conf. on Speech Communication and Technology (Eurospeech)},
+  year = 	 {2005},
+  address = 	 {Lisbon, Portugal},
+  month = 	 {September},
+}

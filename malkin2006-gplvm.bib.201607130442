@@ -1,0 +1,14 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@TechReport{malkin2006-gplvm,
+  author = 	 {Jon Malkin and Neil Lawrence and Jeff Bilmes},
+  title = 	 {The GP-LVM for Vocal Joystick Control},
+  institution =  {University of Washington, Dept. of EE},
+  year = 	 {2006},
+  number = 	 {UWEETR-2006-00016},
+  wwwnote =      {https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html},
+  note = {\url{https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html}},
+}

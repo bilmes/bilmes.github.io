@@ -1,0 +1,19 @@
+@COMMENT This bibtex publication entry came from Jeff Bilmes's publication pages at
+@COMMENT http://melodi.ee.washington.edu/~bilmes
+@COMMENT The complete bibfile can be found at:
+@COMMENT http://melodi.ee.washington.edu/~bilmes/bib/bilmes.bib
+@COMMENT -
+@Article{hoffman2012-segwaymain,
+AUTHOR = {Hoffman, Michael M and Buske, Orion J and Wang, Jie and Weng, Zhiping and Bilmes, Jeff A and Noble, William Stafford},
+TITLE = {Unsupervised pattern discovery in human chromatin structure through genomic segmentation},
+JOURNAL = {Nature Methods},
+VOLUME = {9},
+YEAR = {2012},
+NUMBER = {5},
+PAGES = {473--476},
+month = 	 {March},
+URL = {http://dx.doi.org/10.1038/nmeth.1937},
+DOI = {10.1038/nmeth.1937},
+Tnote = 	 {http://www.nature.com/nmeth/journal/v9/n5/abs/nmeth.1937.html\#supplementary-information},
+annote = 	 {Nature Publishing Group, a division of Macmillan Publishers Limited},
+}

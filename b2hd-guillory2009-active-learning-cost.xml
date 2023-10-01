@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<?xml-stylesheet type="text/xsl" href="./../pgs/trans_ex1.xsl"?>
+
+<paper_detail
+xmlns:b2h="http://www.cs.cmu.edu/~pfr/misc_software/index.html#bib2html"
+xmlns="http://www.cs.cmu.edu/~pfr/misc_software/index.html#bib2html"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.cs.cmu.edu/~pfr/misc_software/index.html#bib2html /atm/crow/projects/web/html/web-pages/people/bilmes/bib2html/./bib2html.xsd"
+>
+<main_index_links>
+<index_link>
+<name>Sorted by Date</name>
+<url>sort_date.html</url>
+</index_link>
+<index_link>
+<name>Classified by Publication Type</name>
+<url>class_type.html</url>
+</index_link>
+<index_link>
+<name>Classified by Research Category</name>
+<url>class_rescat.html</url>
+</index_link>
+<index_link>
+<name>Sorted by First Author Last Name</name>
+<url>sort_author.html</url>
+</index_link>
+<index_link>
+<name>Classified by Author Last Name</name>
+<url>class_author.html</url>
+</index_link>
+</main_index_links>
+<paper_info>
+<author> Andrew Guillory and &lt;a href=&quot;http://ssli.ee.washington.edu/~bilmes&quot;&gt; Jeff Bilmes&lt;/a&gt;. </author>
+<title>&lt;b&gt; Average-Case Active Learning with Costs&lt;/b&gt;</title>
+<number>UWEETR-2009-0005</number><citation><![CDATA[ Andrew Guillory and <a href="http://ssli.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Average-Case Active Learning with Costs</b>. Technical Report UWEETR-2009-0005,  University of Washington, Dept. of EE, 2009.<br />  https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0005.html]]></citation>
+<download_links>
+<download_entry>
+ <file_format>pdf</file_format>
+ <url>https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0005.pdf</url>
+ <exists>1</exists>
+</download_entry>
+<download_entry>
+ <file_format>ps.gz</file_format>
+ <url>https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0005.ps.gz</url>
+ <exists>1</exists>
+</download_entry>
+<download_entry>
+ <file_format>ps</file_format>
+ <exists>0</exists>
+</download_entry>
+<download_entry>
+ <file_format>html</file_format>
+ <exists>0</exists>
+</download_entry>
+</download_links>
+<bibtex_entry><![CDATA[@TechReport{guillory2009-active-learning-cost,
+  author = 	 {Andrew Guillory and Jeff Bilmes},
+  title = 	 {Average-Case Active Learning with Costs},
+  institution =  {University of Washington, Dept. of EE},
+  year = 	 {2009},
+  number = 	 {UWEETR-2009-0005},
+  wwwnote =      {https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0005.html},
+}
+]]></bibtex_entry>
+<detail_url>b2hd-guillory2009-active-learning-cost.html</detail_url><bibtex_url>guillory2009-active-learning-cost.bib</bibtex_url></paper_info>
+<generation_info>
+<program>bib2html.pl</program>
+<program_url>https://sourceforge.net/projects/bib2html/</program_url>
+<author>Patrick Riley</author>
+<author_url>http://sourceforge.net/users/patstg/</author_url>
+<datetime>2010-04-15T23:19:14</datetime>
+</generation_info>
+</paper_detail>

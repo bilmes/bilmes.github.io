@@ -1,0 +1,317 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <title>Jeff A. Bilmes Homepage</title>
+   <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+   <meta name="Keywords" content="Jeff Bilmes, Bilmes" />
+   <meta name="Description" content="Jeff Bilmes's Home Page." />
+   <link rel="stylesheet" href="../bilmes_style.css" type="text/css" />
+</head>
+<body>
+<div class="container">
+<!-- put the above at the top of every page -->
+
+
+
+<div class="navigation">
+<!-- Site navigation menu -->
+<ul class="navbar">
+  <li><a href="index.html">Home</a>     
+      </li>  
+  <li><a href="about.html">About</a>     
+      </li>  
+  <li><a href="prospective.html">Prospective Students</a>
+  </li>
+  <li><a href="teaching.html">Teaching</a>
+  </li>
+  <li><a href="research.html">Research</a>
+  </li>
+  <li><a href="people.html">People</a>
+  </li>
+  <li><a href="sort_date.html">Publications</a>
+  </li>
+  <li><a href="software.html">Software 
+                              &amp;&#xA0;Data</a>
+  </li>
+  <li><a href="talks.html">Talks</a>
+  </li>
+</ul>
+</div> <!-- end navigation -->
+
+
+
+<div class="content">
+
+
+<div id="toptitle">
+<h1>Jeffrey A. Bilmes: Teaching</h1>
+</div>
+
+
+<h2>Classes that I will teach/am teaching</h2>
+
+<ul>
+
+
+<li> Fall 2014: 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2014/">EE512 Advanced Inference in Graphical Models</a>.
+</li>
+
+
+</ul>
+
+<h2>Classes that I have taught</h2>
+
+<ul>
+
+
+<li>
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee596b_spring_2014/">
+Spring 2014: Submodular Functions, their applications and optimization
+</a>
+</li>
+
+<li> 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee515a_winter_2014/">
+Winter 2014: Information Theory II
+</a>
+</li>
+
+<li> 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee514a_fall_2013">
+Fall 2013: Information Theory I.
+</a>
+</li>
+
+
+
+<li>
+Spring 2012
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee516_spring_2013/">
+Speech Processing and Recognition
+</a>
+</li>
+
+
+<li>
+Winter 2012
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee596a_winter_2013/">
+Dynamic Graphical Models
+</a>
+</li>
+
+
+<li>
+Fall 2012
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee596a_fall_2012">
+Submodular Functions
+</a>
+</li>
+
+<li> 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee514a_winter_2012">
+Spring 2012: Information Theory II
+</a>
+</li>
+
+<li> 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee514a_winter_2012">
+Winter 2012: Information Theory I.
+</a>
+</li>
+
+
+<li> Fall 2011: 
+<a href="http://j.ee.washington.edu/~bilmes/classes/ee512a_fall_2011">EE512 Advanced Inference in Graphical Models</a>.
+</li>
+
+
+
+
+<li> Spring 2011: 
+<a href="http://ssli.ee.washington.edu/~bilmes/ee595a_spring_2011/">Submodular Functions, their Optimization and Applications.</a>
+</li>
+
+
+<li> Winter 2011: EE235
+</li>
+
+
+<li> Fall 2010: Release
+</li>
+
+
+
+<li> Spring 2010: 
+<a href="http://www.ee.washington.edu/class/443/2010spr/">EE443</a>, 
+Design and Applications of DSP.
+</li>
+
+
+<li> Winter 2010: 
+<a href="http://ssli.ee.washington.edu/~bilmes/ee595Awi10">
+EE595A, Dynamic Graphical Models</a> (HMMs, DBNs,
+CRFs, and beyond). First time course is offered.
+</li>
+
+
+<li> Fall 2009: EE512, <a href="http://ssli.ee.washington.edu/~bilmes/ee512fa09">Graphical Models</a>
+</li>
+
+
+
+<li> Spring 2008: EE515
+<a href="http://ssli.ee.washington.edu/courses/ee515">
+Information Theory - II</a>
+</li>
+
+<li> Fall 2006: EE596/Stat 591
+<a href="http://www.stat.washington.edu/mmp/591-description.txt">
+Modern topics in machine learning: Multiway
+classification, preferences, intransitivity</a>
+</li>
+
+
+<li> Fall 2006: EE235
+<a href="http://ssli.ee.washington.edu/courses/ee235">
+Signals and Systems</a>
+</li>
+
+
+<li> Spring 2006: EE512
+<a href="http://ssli.ee.washington.edu/courses/ee512">
+Graphical Models</a>
+</li>
+
+<li> Winter 2006: EE511
+<a href="http://ssli.ee.washington.edu/courses/ee511">
+Information Theory I</a>
+</li>
+
+
+<li> Fall 2005: EE235
+<a href="http://ssli.ee.washington.edu/courses/ee235">
+Signals and Systems</a>
+</li>
+
+<li> Spring 2005: EE596
+<a href="http://ssli.ee.washington.edu/courses/ee596">
+Artificial Intelligence for Electrical Engineers</a>
+</li>
+
+<li> Winter 2005: EE516
+<a href="http://ssli.ee.washington.edu/~bilmes/ee516">
+Speech Recognition</a>
+</li>
+
+<li> Fall 2004: EE235
+<a href="http://ssli.ee.washington.edu/courses/ee235">
+Signals and Systems</a>
+</li>
+
+<li> Spring 2004: EE596B 
+<a href="http://ssli.ee.washington.edu/courses/PRII">
+Graphical Models</a>
+</li>
+
+<li> Winter 2004: EE595A, 
+<a href="http://ssli.ee.washington.edu/courses/it">
+Information Theory</a>
+</li>
+
+<li> Spring 2003: EE235, 
+<a href="http://ssli.ee.washington.edu/courses/EE235.html">
+Signals and Systems</a>
+</li>
+
+<li> Spring 2003: EE516
+<a href="http://ssli.ee.washington.edu/~bilmes/ee516/">
+Speech Recognition</a>
+</li>
+
+<li> Fall 2002: EE518, 
+<a href="http://www.ee.washington.edu/class/518/2002aut/">
+Graduate introduction to digital signal processing</a>
+</li>
+
+<li> Spring 2002: EE596 <a href="http://ssli.ee.washington.edu/~bilmes/pr2">
+Pattern Recognition with Graphical Models</a>.
+</li>
+
+<li> Winter 2001: EE595 <a href="http://www.ee.washington.edu/class/595/infotheory">Information Theory</a>
+</li>
+
+<li> Fall 2001: EE518, 
+<a href="http://www.ee.washington.edu/class/518/2002aut/">
+Graduate introduction to digital signal processing</a>
+</li>
+
+<li> Spring 2001: Along with <a
+href="http://www.stat.washington.edu/mmp/">Marina
+Meila-Predoviciu</a> from the 
+<a href="http://www.stat.washington.edu">statistics department</a>, an advanced seminar on information theory and
+statistics entitled <a
+href="http://www.stat.washington.edu/mmp/stat390/it.html"> Information
+Theory, Statistics and Machine Learning</a>.
+</li>
+
+<li> Winter 2001: EE516, 
+<a href="http://www.ee.washington.edu/class/516/wtr01">Computer Speech processing and recognition.</a>
+</li>
+
+<li> Fall 2000: EE518, 
+<a href="http://www.ee.washington.edu/class/518/aut00/">
+Graduate introduction to digital signal processing</a>
+</li>
+
+<li> Spring 2000: EE596 <a href="http://www.ee.washington.edu/class/596/patrec/">
+Introduction to graphical models for pattern recognition</a>.
+</li>
+
+<li> Winter 2000: EE595 <a href="http://www.ee.washington.edu/class/595/infotheory">Information Theory</a>
+</li>
+
+</ul>
+
+<h2> 
+Regular Seminars that I run:
+</h2>
+
+<p>
+<a href="http://ssli.ee.washington.edu/~bilmes/mtrg">Machine Translation Reading Group</a>
+</p>
+
+<p>
+<a href="http://ssli.ee.washington.edu/~bilmes/grg">Graphical Reading Group</a>
+</p>
+
+<p>
+<a href="http://www.stat.washington.edu/mmp/stat593A/spring05/resources.html">
+Probabilistic Reasoning with Graphical Models</a> With Marina Meila.
+</p>
+
+
+
+<p>
+In the past, I also ran my speech, language, and machine learning
+<a href="http://ssli.ee.washington.edu/ssli/courses/subgroups/subgroups.html">reading seminar series</a>
+</p>
+
+
+
+</div> <!-- end content -->
+
+
+<!-- put the below at the end of every page -->
+<div class="footer">
+<a class="right_pad" href="index.html">
+Go home</a>
+<a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div>
+</div> <!-- end container -->
+</body>
+</html>
+

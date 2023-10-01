@@ -1,0 +1,3476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head><title>Jeff A. Bilmes Homepage</title><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"></meta><meta name="Keywords" content="Jeff Bilmes, Bilmes"></meta><meta name="Description" content="Jeff Bilmes's Home Page."></meta><link rel="stylesheet" href="../bilmes_style.css" type="text/css"></link></head><body><div class="container"><div class="navigation"><ul class="navbar"><li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="prospective.html">Prospective Students</a></li><li><a href="teaching.html">Teaching</a></li><li><a href="research.html">Research</a></li><li><a href="people.html">People</a></li><li><a href="sort_date.html">Publications</a></li><li><a href="software.html">Software 
+                              &amp; Data</a></li><li><a href="talks.html">Talks</a></li></ul></div><div class="content"><div id="toptitle"><h1><a href="index.html">Jeff A. Bilmes</a>'s Publications</h1></div><p xmlns=""><big>&#8226;
+  <a href="sort_date.html">Sorted by Date</a> &#8226;
+  <a href="class_type.html">Classified by Publication Type</a> &#8226;
+  <a href="class_rescat.html">Classified by Research Category</a> &#8226;
+  <a href="sort_author.html">Sorted by First Author Last Name</a> &#8226;
+  <a href="class_author.html">Classified by Author Last Name</a> &#8226;
+  </big></p>
+<h2>Sorted by First Author Last Name</h2><p>&#8226;
+  <a href="# Anderson"> Anderson</a>
+   &#8226;
+  <a href="# Andrew"> Andrew</a>
+   &#8226;
+  <a href="# Aydin"> Aydin</a>
+   &#8226;
+  <a href="# Bairi"> Bairi</a>
+   &#8226;
+  <a href="# Bartels"> Bartels</a>
+   &#8226;
+  <a href="# Bilmes"> Bilmes</a>
+   &#8226;
+  <a href="# Bulyko"> Bulyko</a>
+   &#8226;
+  <a href="# Cetin"> Cetin</a>
+   &#8226;
+  <a href="# Chen"> Chen</a>
+   &#8226;
+  <a href="# Chung"> Chung</a>
+   &#8226;
+  <a href="# Consortium"> Consortium</a>
+   &#8226;
+  <a href="# Elliott"> Elliott</a>
+   &#8226;
+  <a href="# Ellis"> Ellis</a>
+   &#8226;
+  <a href="# Everitt"> Everitt</a>
+   &#8226;
+  <a href="# Filali"> Filali</a>
+   &#8226;
+  <a href="# Gillenwater"> Gillenwater</a>
+   &#8226;
+  <a href="# Gowdy"> Gowdy</a>
+   &#8226;
+  <a href="# Guillory"> Guillory</a>
+   &#8226;
+  <a href="# Gunther"> Gunther</a>
+   &#8226;
+  <a href="# Halloran"> Halloran</a>
+   &#8226;
+  <a href="# Harada"> Harada</a>
+   &#8226;
+  <a href="# Hoffman"> Hoffman</a>
+   &#8226;
+  <a href="# House"> House</a>
+   &#8226;
+  <a href="# Iyer"> Iyer</a>
+   &#8226;
+  <a href="# Jegelka"> Jegelka</a>
+   &#8226;
+  <a href="# Ji"> Ji</a>
+   &#8226;
+  <a href="# Kawahara"> Kawahara</a>
+   &#8226;
+  <a href="# Kilanski"> Kilanski</a>
+   &#8226;
+  <a href="# King"> King</a>
+   &#8226;
+  <a href="# Kirchhoff"> Kirchhoff</a>
+   &#8226;
+  <a href="# Klammer"> Klammer</a>
+   &#8226;
+  <a href="# Kohn"> Kohn</a>
+   &#8226;
+  <a href="# Kumaran"> Kumaran</a>
+   &#8226;
+  <a href="# Lei"> Lei</a>
+   &#8226;
+  <a href="# Li"> Li</a>
+   &#8226;
+  <a href="# Libbrecht"> Libbrecht</a>
+   &#8226;
+  <a href="# Lin"> Lin</a>
+   &#8226;
+  <a href="# Liu"> Liu</a>
+   &#8226;
+  <a href="# Livescu"> Livescu</a>
+   &#8226;
+  <a href="# Ma"> Ma</a>
+   &#8226;
+  <a href="# Malkin"> Malkin</a>
+   &#8226;
+  <a href="# Mausam"> Mausam</a>
+   &#8226;
+  <a href="# Meila"> Meila</a>
+   &#8226;
+  <a href="# Morgan"> Morgan</a>
+   &#8226;
+  <a href="# Narasimhan"> Narasimhan</a>
+   &#8226;
+  <a href="# Niepert"> Niepert</a>
+   &#8226;
+  <a href="# P.&amp;nbsp;Singh"> P.&nbsp;Singh</a>
+   &#8226;
+  <a href="# Pentney"> Pentney</a>
+   &#8226;
+  <a href="# Pernkopf"> Pernkopf</a>
+   &#8226;
+  <a href="# Ping-Chen"> Ping-Chen</a>
+   &#8226;
+  <a href="# Raj"> Raj</a>
+   &#8226;
+  <a href="# Reynolds"> Reynolds</a>
+   &#8226;
+  <a href="# Richardson"> Richardson</a>
+   &#8226;
+  <a href="# Schmidt"> Schmidt</a>
+   &#8226;
+  <a href="# Singh"> Singh</a>
+   &#8226;
+  <a href="# Stupakov"> Stupakov</a>
+   &#8226;
+  <a href="# Subramanya"> Subramanya</a>
+   &#8226;
+  <a href="# Takiguchi"> Takiguchi</a>
+   &#8226;
+  <a href="# Tschiatschek"> Tschiatschek</a>
+   &#8226;
+  <a href="# Vuduc"> Vuduc</a>
+   &#8226;
+  <a href="# Wang"> Wang</a>
+   &#8226;
+  <a href="# Wei"> Wei</a>
+   &#8226;
+  <a href="# Wyatt"> Wyatt</a>
+   &#8226;
+  <a href="# Zhang"> Zhang</a>
+   &#8226;
+  <a href="# Zhou"> Zhou</a>
+   &#8226;
+  <a href="# Zweig"> Zweig</a>
+   &#8226;
+  </p><hr width="100%" size="2"></hr><h3><a name=" Anderson"></a> Anderson</h3><ul xmlns="">
+<li> D. Anderson and <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> MOOD: A Concurrent C++-Based Music Language</b>. In <i> International Computer Music Conference</i>, 1992.<br><a href="b2hd-bilmes1992-icmcmood.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1992-icmcmood.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1992-icmcmood.pdf">[pdf]
+       (21.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1992-icmcmood.ps.gz">[ps.gz]
+       (10.5kB
+  )
+      </a>&nbsp;</li>
+<li> D. Anderson and <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Concurrent Real-Time Music in C++</b>. In <i> USENIX C++ Conference</i>, 1989.<br><a href="b2hd-anderson1989-mood.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="anderson1989-mood.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/anderson1989-mood.pdf">[pdf]
+       (185.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/anderson1989-mood.ps.gz">[ps.gz]
+       (70.8kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Andrew"></a> Andrew</h3><ul xmlns="">
+<li> Galen Andrew and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Backpropagation in Sequential Deep Belief Networks</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Lake Tahoe, Nevada, December 2013.  NIPS Workshop on Deep Learning<br><a href="b2hd-andrew2013-sdbn-backprop.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="andrew2013-sdbn-backprop.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/andrew2013-sdbn-backprop.pdf">[pdf]
+       (1.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/andrew2013-sdbn-backprop.ps.gz">[ps.gz]
+       (706.0kB
+  )
+      </a>&nbsp;</li>
+<li> Galen Andrew,  Raman Arora,  Karen Livescu, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Deep Canonical Correlation Analysis</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Atlanta, Georgia, 2013.<br><a href="b2hd-galen2013-deep-cca.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="galen2013-deep-cca.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/galen2013-deep-cca.pdf">[pdf]
+       (365.5kB
+  )
+      </a>&nbsp;<a href="../mypubs/galen2013-deep-cca.ps.gz">[ps.gz]
+       (501.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/galen2013-deep-cca.slides.pdf">[slides, pdf]
+       (786.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/galen2013-deep-cca.poster.pdf">[poster, pdf]
+       (906.4kB
+  )
+      </a>&nbsp;</li>
+<li> Galen Andrew and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Memory-efficient inference in dynamic graphical models using multiple cores</b>. In <i> Fifteenth International Conference on Artificial Intelligence and Statistics (AISTAT)</i>,  La Palma, Canary Islands, April 2012.<br><a href="b2hd-andrew2012-archipelagos.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="andrew2012-archipelagos.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/andrew2012-archipelagos.pdf">[pdf]
+       (1.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/andrew2012-archipelagos.ps.gz">[ps.gz]
+       (217.8kB
+  )
+      </a>&nbsp;</li>
+<li> Galen Andrew and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Sequential Deep Belief Networks</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Kyoto, Japan, 2012.<br><a href="b2hd-sdbn2012-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="sdbn2012-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/sdbn2012-icassp.pdf">[pdf]
+       (1.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/sdbn2012-icassp.ps.gz">[ps.gz]
+       (2.5MB
+  )
+      </a>&nbsp;<a href="../mypubs/sdbn2012-icassp.poster.pdf">[poster, pdf]
+       (1.3MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Aydin"></a> Aydin</h3><ul xmlns="">
+<li> Zafer Aydin,  Ajit Singh, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  William Noble. <b> Learning sparse models for a dynamic Bayesian network classifier of protein secondary structure</b>. <i> BMC Bioinformatics</i>,  12(1):154, 2011.<br><a href="b2hd-aydin2011-sparse-dbn-protein.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="aydin2011-sparse-dbn-protein.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1186/1471-2105-12-154">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1186/1471-2105-12-154">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1186/1471-2105-12-154">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1186/1471-2105-12-154">[HTML]</a>&nbsp;</li>
+<li> Zafer Aydin,  Sheila Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeffrey Bilmes</a>, and  William Noble. <b> A Dynamic Bayesian Network Approach for Protein Secondary Structure Prediction</b>. In <i> Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)</i>,  Tucson, Arizona, April 2009.<br><a href="b2hd-aydin2009-recomb-dbn-ssp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="aydin2009-recomb-dbn-ssp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+</ul>
+<h3><a name=" Bairi"></a> Bairi</h3><ul xmlns=""><li> Ramakrishna Bairi,  Ganesh Ramakrishnan,  Rishabh Iyer, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Multi-Topic Summarization in DAG-Structured Topic Hierarchies via Submodular Mixtures</b>. In <i> Proceedings of the Association for Computational Linguistics/Asian Federation of Natural Language Processing (ACL-IJCNLP)</i>,  Beijing, China, 2015.<br><a href="b2hd-ram2015-submodular-topic-summarization.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ram2015-submodular-topic-summarization.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Bartels"></a> Bartels</h3><ul xmlns="">
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Creating Non-Minimal Triangulations for Use in Inference in Mixed Stochastic / Deterministic Graphical Models</b>. <i> Machine Learning Journal</i>,  84(3):249&ndash;289, 2011.<br><a href="b2hd-bartels2010-nonminimal.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2010-nonminimal.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Graphical Models for Integrating Syllabic Information</b>. <i> Computer Speech and Language</i>,  24(4):685&ndash;697, 2010.<br /><a href=" <a href="http://dx.doi.org/10.1016/j.csl.2009.11.001">http://dx.doi.org/10.1016/j.csl.2009.11.001</a>"> <a href="http://dx.doi.org/10.1016/j.csl.2009.11.001">http://dx.doi.org/10.1016/j.csl.2009.11.001</a></a><br><a href="b2hd-bartels2010-gm-syllable.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2010-gm-syllable.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/doi:10.1016/j.csl.2009.11.001">[pdf]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2009.11.001">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2009.11.001">[ps]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2009.11.001">[HTML]</a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Graphical Models for Integrating Syllabic Information</b>. Technical Report UWEETR-2009-0007,  University of Washington, Dept. of EE, 2009.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0007.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0007.html</a><br><a href="b2hd-bartels2009-gm-syllable-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2009-gm-syllable-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0007.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0007.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Using Syllable Nuclei Locations to Improve Automatic Speech Recognition in the Presence of Burst Noise</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brisbane, Australia, September 2008.<br><a href="b2hd-bartels2008-sylnucasr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2008-sylnucasr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bartels2008-sylnucasr.pdf">[pdf]
+       (1.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/bartels2008-sylnucasr.ps.gz">[ps.gz]
+       (705.4kB
+  )
+      </a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Use of Syllable Nuclei Locations to Improve ASR</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Kyoto, Japan, December 2007.<br><a href="b2hd-bartels2007-sylasr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2007-sylasr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bartels2007-sylasr.pdf">[pdf]
+       (1.0MB
+  )
+      </a>&nbsp;<a href="../mypubs/bartels2007-sylasr.ps.gz">[ps.gz]
+       (265.5kB
+  )
+      </a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Non-Minimal Triangulations for Mixed Stochastic/Deterministic Graphical Models</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Cambridge, MA, July 2006.<br><a href="b2hd-bartels2006-triang.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2006-triang.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bartels2006-triang.pdf">[pdf]
+       (198.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bartels2006-triang.ps.gz">[ps.gz]
+       (322.7kB
+  )
+      </a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Focused State Transition Information in ASR</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Cancun, Mexico, Nov/Dec 2005.<br><a href="b2hd-bartels2005-focused.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2005-focused.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bartels2005-focused.pdf">[pdf]
+       (303.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bartels2005-focused.ps.gz">[ps.gz]
+       (315.1kB
+  )
+      </a>&nbsp;</li>
+<li> Chris Bartels,  Kevin Duh, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Katrin Kirchhoff, and  Simon King. <b> Genetic Triangulation of Graphical Models for Speech and Language Processing</b>. In <i> European Conf. on Speech Communication and Technology (Eurospeech)</i>,  Lisbon, Portugal, September 2005.<br><a href="b2hd-bartels2005-gatri.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2005-gatri.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bartels2005-gatri.pdf">[pdf]
+       (162.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/bartels2005-gatri.ps.gz">[ps.gz]
+       (190.5kB
+  )
+      </a>&nbsp;</li>
+<li> Chris Bartels and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Elimination is not enough: Non-minimal triangulations for graphical models</b>. Technical Report UWEETR-2004-0010,  University of Washington, Dept. of Electrical Engineering, 2004.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0010.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0010.html</a><br><a href="b2hd-bartels2004-notenough.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bartels2004-notenough.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0010.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0010.ps.gz">[ps.gz]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Bilmes"></a> Bilmes</h3><ul xmlns="">
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Summarizing Large Data Sets</b>. <i> Harvard University, IACS Seminar</i>, March 2015.  <a href="https://youtu.be/R5OSSXi2wgg">https://youtu.be/R5OSSXi2wgg</a><br><a href="b2hd-bilmes2015-iacs-harvard-big-data.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2015-iacs-harvard-big-data.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2015-iacs-harvard-big-data.pdf">[pdf]
+       (25.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2015-iacs-harvard-big-data.ps.gz">[ps.gz]
+       (22.3MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodularity in Machine Learning Applications</b>. <i> Twenty-Ninth Conference on Artificial Intelligence, AAAI-15 Tutorial Forum</i>, January 2015.<br><a href="b2hd-bilmes_aaai_tutorial_1_26_2015.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes_aaai_tutorial_1_26_2015.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes_aaai_tutorial_1_26_2015.pdf">[pdf]
+       (42.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes_aaai_tutorial_1_26_2015.ps.gz">[ps.gz]
+       (162.7MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Mathematical Properties of Submodularity with Applications to Machine Learning</b>. <i> Machine Learning Summer School Tutorial, Reykjavik, Iceland</i>, May 2014.<br><a href="b2hd-bilmes_mlss_tutorial_5_2014.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes_mlss_tutorial_5_2014.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes_mlss_tutorial_5_2014.pdf">[pdf]
+       (27.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes_mlss_tutorial_5_2014.ps.gz">[ps.gz]
+       (235.7MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Krste Asanovi\'c,  CW Chin, and  Jim Demmel. <b> Author Retrospective for Optimizing Matrix Multiply using PHiPAC: a Portable High-Performance ANSI C Coding Methodology</b>. In <i> International Conference on Supercomputing (ICS) 25th Anniversary Volume</i>,  ACM, 2014.  978-1-4503-2840-1/14/06 <font color="red"><b> Retrospective on a "most influential ICS paper in 25 years" award    given to our PHIPAC paper from 1997 below.</b></font><br><a href="b2hd-bilmes2014-phipac-retrospective.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2014-phipac-retrospective.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2014-phipac-retrospective.pdf">[pdf]
+       (133.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2014-phipac-retrospective.ps.gz">[ps.gz]
+       (114.6kB
+  )
+      </a>&nbsp;<a href="http://dx.doi.org/10.1145/2591635.2591656">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1145/2591635.2591656">[HTML]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Deep Mathematical Properties of Submodularity with Applications to Machine Learning</b>. <i> NIPS Conference 2013 Tutorial</i>, December 2013.  <a href="http://youtu.be/c4rBof38nKQ">http://youtu.be/c4rBof38nKQ</a><br /><a href=" http://nips.cc/Conferences/2013/Program/event.php?ID=3688"> http://nips.cc/Conferences/2013/Program/event.php?ID=3688</a><br><a href="b2hd-bilmes2013-nips-tutorial.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2013-nips-tutorial.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2013-nips-tutorial.pdf">[pdf]
+       (15.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2013-nips-tutorial.ps.gz">[ps.gz]
+       (90.4MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodularity and Big Data</b>. <i> International Conference on Learning Representations, 2013, Invited Speaker</i>, May 2013.  Web link <a href="https://sites.google.com/site/representationlearning2013/program-details/invited-speakers">https://sites.google.com/site/representationlearning2013/program-details/invited-speakers</a> and video <a href="http://techtalks.tv/talks/tba-invited-talk/58092/">http://techtalks.tv/talks/tba-invited-talk/58092/</a><br><a href="b2hd-bilmes2013-iclr-invited-talk.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2013-iclr-invited-talk.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2013-iclr-invited-talk.pdf">[pdf]
+       (16.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2013-iclr-invited-talk.ps.gz">[ps.gz]
+       (14.7MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Amar Subramanya. <b> Parallel Graph-Based Semi-Supervised Learning</b>. In  Ron Bekkerman,  Mikhail Bilenko, and  John Langford, editors, <i> Scaling Up Machine Learning</i>, pp. 307&ndash;330,  Cambridge University Press, January 2012.<br><a href="b2hd-bilmes2011-parallel-ssl.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2011-parallel-ssl.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2011-parallel-ssl.pdf">[pdf]
+       (941.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2011-parallel-ssl.ps.gz">[ps.gz]
+       (2.7MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Dynamic Graphical Models</b>. <i> IEEE Signal Processing Magazine</i>,  27(6):29&ndash;42, November 2010.<br><a href="b2hd-bilmes-spm-dgm-2010.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes-spm-dgm-2010.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes-spm-dgm-2010.pdf">[pdf]
+       (3.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes-spm-dgm-2010.ps.gz">[ps.gz]
+       (9.5MB
+  )
+      </a>&nbsp;<a href="http://dx.doi.org/10.1109/MSP.2010.938078">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1109/MSP.2010.938078">[HTML]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Hui Lin. <b> Online Adaptive Learning for Speech Recognition Decoding</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Makuhari, Japan, September 2010.<br><a href="b2hd-bilmes2010-adaptive-decoding.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2010-adaptive-decoding.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2010-adaptive-decoding.pdf">[pdf]
+       (1.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2010-adaptive-decoding.ps.gz">[ps.gz]
+       (3.2MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Gaussian Models in Automatic Speech Recognition</b>. In  David Havelock,  Sonoko Kuwano, and  Michael Vorlander, editors, <i> Handbook of Signal Processing in Acoustics</i>, pp. 521&ndash;556,  Springer Science+Business Media, LLC, 2008.<br><a href="b2hd-bilmes2008-gaussian-ch.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2008-gaussian-ch.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2008-gaussian-ch.pdf">[pdf]
+       (1.0MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2008-gaussian-ch.ps.gz">[ps.gz]
+       (2.8MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> What HMMs Can Do</b>. <i> IEICE - Transactions on Information and Systems</i>,  E89-D(3):869&ndash;891,  Oxford University Press,  Oxford, UK, March 2006.<br><a href="b2hd-bilmes2006-ieice-hmm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2006-ieice-hmm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2006-ieice-hmm.pdf">[pdf]
+       (418.5kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2006-ieice-hmm.ps.gz">[ps.gz]
+       (229.3kB
+  )
+      </a>&nbsp;<a href="http://dx.doi.org/10.1093/ietisy/e89-d.3.869">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1093/ietisy/e89-d.3.869">[HTML]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Jonathan Malkin,  Xiao Li,  Susumu Harada,  Kelley Kilanski,  Katrin Kirchhoff,  Richard Wright,  Amarnag Subramanya,  James Landay,  Patricia Dowden, and  Howard Chizeck. <b> The Vocal Joystick</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Toulouse, France, 2006.<br><a href="b2hd-bilmes2006-vj.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2006-vj.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2006-vj.pdf">[pdf]
+       (148.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2006-vj.ps.gz">[ps.gz]
+       (186.3kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Marina Meila. <b> Intransitive Classification and Choice</b>. Technical Report UWEETR-2006-00021,  University of Washington, Dept. of EE, 2006.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0021.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0021.html</a><br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0021.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0021.html</a><br><a href="b2hd-bilmes2006-intransitive.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2006-intransitive.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2006-0021.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2006-0021.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Chris Bartels. <b> Graphical Model Architectures for Speech Recognition</b>. <i> IEEE Signal Processing Magazine</i>,  22(5):89&ndash;100, September 2005.<br><a href="b2hd-bilmes2005-gmarch-asr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2005-gmarch-asr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2005-gmarch-asr.pdf">[pdf]
+       (1.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2005-gmarch-asr.ps.gz">[ps.gz]
+       (1.5MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>,  Xiao Li,  Jonathan Malkin,  Kelley Kilanski,  Richard Wright,  Katrin Kirchhoff,  Amarnag Subramanya,  Susumu Harada,  James A. Landay,  Patricia Dowden, and  Howard Chizeck. <b> The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals with Motor Impairments (extended abstract)</b>. In <i> 18th Annual ACM Sypm. on User Interface Software and Technology</i>,  Seattle, Oct 2005.  Extended Abstract<br><a href="b2hd-bilmes2005-vjab.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2005-vjab.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2005-vjab.pdf">[pdf]
+       (86.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2005-vjab.ps.gz">[ps.gz]
+       (84.1kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>,  Xiao Li,  Jonathan Malkin,  Kelley Kilanski,  Richard Wright,  Katrin Kirchhoff,  Amarnag Subramanya,  Susumu Harada,  James A. Landay,  Patricia Dowden, and  Howard Chizeck. <b> The Vocal Joystick: A Voice-Based Human-Computer Interface for Individuals with Motor Impairments</b>. In <i> Human Language Technology (HLT) Conference/Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>,  Vancouver, B.C., Oct 2005.<br><a href="b2hd-bilmes2005-vj1st.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2005-vj1st.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2005-vj1st.pdf">[pdf]
+       (360.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2005-vj1st.ps.gz">[ps.gz]
+       (246.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Patrick Haffner. <b> Tutorial: Machine learning in Speech and Language Processing</b>. <i> Tutorial presented during ICASSP, 2005</i>, 2005.<br /><a href=" https://www.securecms.com/ICASSP2005/TutorialInfo.asp?TutorialID=13"> https://www.securecms.com/ICASSP2005/TutorialInfo.asp?TutorialID=13</a><br><a href="b2hd-bilme2005-mlspln.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilme2005-mlspln.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.securecms.com/ICASSP2005/TutorialInfo.asp?TutorialID=13">[HTML]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> What HMMs Can't Do: A Graphical Model Perspective</b>. In <i> Beyond HMM: Workshop on Statiatical Modeling Approach for Speech Recognition</i>,  Kyoto, Japan, December 2004.  ATR Invited Paper and Lecture<br><a href="b2hd-bilmes2004-hmmcant.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2004-hmmcant.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2004-hmmcant.pdf">[pdf]
+       (97.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2004-hmmcant.ps.gz">[ps.gz]
+       (88.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Soft Evidence in Bayesian Networks</b>. Technical Report UWEETR-2004-0016,  University of Washington, Dept. of Electrical Engineering, 2004.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0016.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0016.html</a><br><a href="b2hd-bilmes2004-softe.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2004-softe.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0016.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0016.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Tutorial: Graphical Models in Speech and Language Research</b>. <i> Human Language Technology conference / North American chapter of the Association for Computational Linguistics(HLT/NAACL'04)</i>, 2004.  https://ssli.ee.washington.edu/&nbsp;bilmes/bilmes_hlt04_tutorial<br /><a href=" https://ssli.ee.washington.edu/&nbsp;bilmes/bilmes_hlt04_tutorial"> https://ssli.ee.washington.edu/&nbsp;bilmes/bilmes_hlt04_tutorial</a><br><a href="b2hd-bilme2004-hlttut.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilme2004-hlttut.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a> and  C. Bartels. <b> On Triangulating Dynamic Graphical Models</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>, pp. 47&ndash;56,  Morgan Kaufmann Publishers,  Acapulco, Mexico, 2003.<br><a href="b2hd-bilmes2003-tridbn.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2003-tridbn.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2003-tridbn.pdf">[pdf]
+       (1.7MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2003-tridbn.ps.gz">[ps.gz]
+       (2.2MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Katrin Kirchhoff. <b> Factored Language Models and Generalized Parallel Backoff</b>. In <i> Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2003)</i>,  Edmonton, Alberta, May/June 2003.<br><a href="b2hd-bilmes2003-flm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2003-flm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2003-flm.pdf">[pdf]
+       (210.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2003-flm.ps.gz">[ps.gz]
+       (604.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a> and  K. Kirchhoff. <b> Generalized Rules for Combination and Joint Training of Classifiers</b>. <i> Pattern Analysis and Applications</i>,  6:201&ndash;211, 2003.  Springer<br><a href="b2hd-bilmes2003-paa.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2003-paa.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2003-paa.pdf">[pdf]
+       (240.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2003-paa.ps.gz">[ps.gz]
+       (725.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Graphical Models and Automatic Speech Recognition</b>. In  R. Rosenfeld,  M. Ostendorf,  S. Khudanpur, and  M. Johnson, editors, <i> Mathematical Foundations of Speech and Language Processing</i>,  Springer-Verlag, New York, 2003.<br /><a href=" http://www.ima.umn.edu/pub/pub.html"> http://www.ima.umn.edu/pub/pub.html</a><br><a href="b2hd-bilmes2003-gmasr-book.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2003-gmasr-book.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2003-gmasr-book.pdf">[pdf]
+       (653.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2003-gmasr-book.ps.gz">[ps.gz]
+       (1.1MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Buried Markov Models: A Graphical Modeling Approach to Automatic Speech Recognition</b>. <i> Computer Speech and Language</i>,  17(2--3):213&ndash;231, April--July 2003.<br><a href="b2hd-bilmes2003-bmm-jour.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2003-bmm-jour.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Tutorial: Graphical Models Research in Audio, Speech, and Language Processing</b>. <i> Presented during the 2003 Uncertainty in Artificial Intelligence (UAI'03) conference</i>, 2003.  https://ssli.ee.washington.edu/&nbsp;bilmes/uai03_tutorial<br /><a href=" https://ssli.ee.washington.edu/&nbsp;bilmes/uai03_tutorial"> https://ssli.ee.washington.edu/&nbsp;bilmes/uai03_tutorial</a><br><a href="b2hd-bilme2003-uaitut.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilme2003-uaitut.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Geoff Zweig. <b> The Graphical Models Toolkit: An Open Source Software System for Speech and Time-Series Processing</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>, 2002.<br><a href="b2hd-bilmes2002-gmtk.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2002-gmtk.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2002-gmtk.pdf">[pdf]
+       (60.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2002-gmtk.ps.gz">[ps.gz]
+       (111.4kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> The GMTK Documentation</b>. 2002.  \hrefhttp://ssli.ee.washington.edu/bilmes/gmtk<a href="http://ssli.ee.washington.edu/~bilmes/gmtk">http://ssli.ee.washington.edu/~bilmes/gmtk</a><br><a href="b2hd-gmtk_docs.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="gmtk_docs.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Graphical Models and Automatic Speech Recognition</b>. Technical Report UWEETR-2001-0005,  University of Washington, Department of Electrical Engineering, 2001.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2001-0005.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2001-0005.html</a><br><a href="b2hd-bilmes2001-gmasr-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2001-gmasr-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2001-0005.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2001-0005.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Graphical Models Toolkit Documentation</b>. <i> Technical Documentation on the web</i>, 2002.<br><a href="b2hd-bilmes2002-gmtkdocs.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2002-gmtkdocs.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://ssli.ee.washington.edu/~bilmes/gmtk/doc.pdf">[pdf]</a>&nbsp;<a href="http://ssli.ee.washington.edu/~bilmes/gmtk/doc.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> What HMMs can do</b>. Technical Report UWEETR-2002-0003,  University of Washington, Department of Electrical Engineering, 2002.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0003.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0003.html</a><br><a href="b2hd-bilmes2002-hmmscando.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2002-hmmscando.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0003.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0003.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Chris Bartels. <b> On Triangulating Dynamic Graphical Models</b>. Technical Report UWEETR-2002-0007,  University of Washington, Department of Electrical Engineering, 2002.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0007.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0007.html</a><br><a href="b2hd-bilmes2002-dbntri-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2002-dbntri-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0007.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0007.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Gang Ji, and  Marina Meil\ua. <b> Intransitive Likelihood-Ratio Classifiers</b>. In <i> Neural Information Processing Society (NIPS)</i>,  14,  Vancouver, Canada, December 2001.<br><a href="b2hd-bilmes2001-intran.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2001-intran.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2001-intran.pdf">[pdf]
+       (78.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2001-intran.ps.gz">[ps.gz]
+       (41.4kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  G. Zweig,  T. Richardson,  K. Filali,  K. Livescu,  P. Xu,  K. Jackson,  Y. Brandman,  E. Sandness,  E. Holtz,  J. Torres, and  B. Byrne. <b> Discriminatively Structured Graphical Models for Speech Recognition: JHU-WS-2001 Final Workshop Report</b>. Technical Report CLSP, Johns Hopkins University, Baltimore MD, 2001.  <a href="http://www.clsp.jhu.edu/ws2001/groups/gmsr/GMRO-final-rpt.pdf">http://www.clsp.jhu.edu/ws2001/groups/gmsr/GMRO-final-rpt.pdf</a><br /><a href=" http://www.clsp.jhu.edu/ws2001/groups/gmsr/GMRO-final-rpt.pdf"> http://www.clsp.jhu.edu/ws2001/groups/gmsr/GMRO-final-rpt.pdf</a><br><a href="b2hd-bilmes2001-jhutr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2001-jhutr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a> and  Katrin Kirchhoff. <b> Directed Graphical Models of Classifier Combination: Application to Phone Recognition</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Beijing, China, October 2000.<br><a href="b2hd-bilmes2000-gmcc.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2000-gmcc.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2000-gmcc.pdf">[pdf]
+       (84.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2000-gmcc.ps.gz">[ps.gz]
+       (167.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Dynamic Bayesian Multinets</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  16th,  Morgan Kaufmann Publishers, 2000.<br><a href="b2hd-bilmes2000-dbmn.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2000-dbmn.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2000-dbmn.pdf">[pdf]
+       (145.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2000-dbmn.ps.gz">[ps.gz]
+       (271.3kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Factored Sparse Inverse Covariance Matrices</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>, 2000.<br><a href="b2hd-bilmes2000-factcov.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes2000-factcov.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes2000-factcov.pdf">[pdf]
+       (404.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes2000-factcov.ps.gz">[ps.gz]
+       (83.8kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Buried Markov Models for Speech Recognition</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Phoenix, AZ, March 1999.<br><a href="b2hd-bilmes1999-buried.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1999-buried.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1999-buried.pdf">[pdf]
+       (407.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1999-buried.ps.gz">[ps.gz]
+       (57.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Natural Statistical Models for Automatic Speech Recognition</b>. Ph.D. Thesis,  U.C. Berkeley, Dept. of EECS, CS Division, 1999.<br><a href="b2hd-bilmes1999-thesis.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1999-thesis.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1999-thesis.pdf">[pdf]
+       (1.8MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1999-thesis.ps.gz">[ps.gz]
+       (2.8MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Data-Driven Extensions to HMM Statistical Dependencies</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Sidney, Australia, December 1998.<br><a href="b2hd-bilmes1998-datadriven.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1998-datadriven.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1998-datadriven.pdf">[pdf]
+       (111.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1998-datadriven.ps.gz">[ps.gz]
+       (43.8kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Maximum Mutual Information based reduction strategies for Cross-Correlation Based Joint Distributional Modeling</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Seattle, WA, May 1998.<br><a href="b2hd-bilmes1998-mmired.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1998-mmired.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1998-mmired.pdf">[pdf]
+       (91.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1998-mmired.ps.gz">[ps.gz]
+       (36.9kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Krste Asanovi\'c,  CW Chin, and  Jim Demmel. <b> The PHiPAC v1.0 Matrix-Multiply Distribution</b>. Technical Report 1020,  Department of EECS, CS Division, University of California at Berkeley, 1998.  <a href="http://www.icsi.berkeley.edu/~bilmes/phipac/">http://www.icsi.berkeley.edu/~bilmes/phipac/</a><br><a href="b2hd-bilmes1998-ppdist.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1998-ppdist.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1998-ppdist.pdf">[pdf]
+       (311.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1998-ppdist.ps.gz">[ps.gz]
+       (624.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Joint Distributional Modeling with Cross-Correlation based Features</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Santa Barbara, December 1997.<br><a href="b2hd-bilmes1997-joint.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1997-joint.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1997-joint.pdf">[pdf]
+       (509.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1997-joint.ps.gz">[ps.gz]
+       (469.6kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Amin Vahdat,  W. Hsu, and  E.-J. Im.. <b> Empirical Observations of Probabilistic Heuristics for the Clustering Problem</b>. Technical Report ICSI-TR097-018,  ICSI, 1997.  ftp://ftp.icsi.berkeley.edu/pub/techreports/1997/tr-97-018.ps.gz<br><a href="b2hd-bilmes1997-clust.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1997-clust.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  K. Asanovi\'c,  C.-W. Chin, and  J. Demmel. <b> Using PHiPAC to speed Error Back-Propagation Learning</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>, April 1997.<br><a href="b2hd-bilmes1997-phipacmlp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1997-phipacmlp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1997-phipacmlp.pdf">[pdf]
+       (154.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1997-phipacmlp.ps.gz">[ps.gz]
+       (56.7kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  K. Asanovi\'c,  C.W. Chin, and  J. Demmel. <b> Optimizing Matrix Multiply using PHiPAC: a Portable, High-Performance, ANSI C Coding Methodology</b>. In <i> Proceedings of the International Conference on Supercomputing</i>,  ACM SIGARCH,  Vienna, Austria, July 1997. <font color="red"><b> Selected as one of the most influential ICS papers in 25 years, and inclusion in the special issue "25 years of International Conference on Supercomputing, 2014"</b></font><br><a href="b2hd-bilmes1997-phipac.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1997-phipac.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1997-phipac.pdf">[pdf]
+       (252.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1997-phipac.ps.gz">[ps.gz]
+       (134.6kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Gentle Tutorial of the EM algorithm and its application to Parameter Estimation for Gaussian Mixture and Hidden Markov Models</b>. Technical Report TR-97-021,  ICSI, 1997.<br><a href="b2hd-bilmes1997-em.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1997-em.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1997-em.pdf">[pdf]
+       (189.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1997-em.ps.gz">[ps.gz]
+       (130.4kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  K. Asanovi\'c,  J. Demmel,  D. Lam, and  C.W. Chin. <b> PHiPAC: A Portable, High-Performance, ANSI C Coding                   Methodology and its application to Matrix Multiply</b>.  LAPACK Working Note 111 University of Tennessee, 1996.<br><a href="b2hd-bilmes1996-lapack.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1996-lapack.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1996-lapack.pdf">[pdf]
+       (279.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1996-lapack.ps.gz">[ps.gz]
+       (195.0kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  N. Morgan,  S.-L. Wu, and  H. Bourlard. <b> Stochastic Perceptual Speech Models With Durational Dependence</b>. <i> Intl. Conference on Spoken Language Processing</i>, November 1996.<br><a href="b2hd-bilmes1996-spam.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1996-spam.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1996-spam.pdf">[pdf]
+       (438.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1996-spam.ps.gz">[ps.gz]
+       (51.5kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Temporal Gaussian Scaled Speech</b>. <i> \hrefhttp://www.icsi.berkeley.edu/&nbsp;bilmes/earex<a href="http://www.icsi.berkeley.edu/~bilmes/earex">http://www.icsi.berkeley.edu/~bilmes/earex</a></i>, 1996.  Contains audio examples of temporally Gaussian scaled speech.<br><a href="b2hd-bilmes1996-tgss.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1996-tgss.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Timing is of the Essence: Perceptual and Computational Techniques for Representing, Learning, and Reproducing Expressive Timing in Percussive Rhythm</b>. Master's Thesis,  MIT,  Cambridge, MA,1993.<br><a href="b2hd-bilmes1993-mit-thesis.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1993-mit-thesis.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1993-mit-thesis.pdf">[pdf]
+       (2.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1993-mit-thesis.ps.gz">[ps.gz]
+       (3.1MB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Techniques to Foster Drum Machine Expressivity</b>. In <i> International Computer Music Conference</i>,  ,  1993.<br><a href="b2hd-bilmes1993-drum.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1993-drum.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1993-drum.pdf">[pdf]
+       (367.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1993-drum.ps.gz">[ps.gz]
+       (234.3kB
+  )
+      </a>&nbsp;</li>
+<li><a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> A Model for Musical Rhythm</b>. In <i> International Computer Music Conference</i>, 1992.<br><a href="b2hd-bilmes1992-musryth.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bilmes1992-musryth.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bilmes1992-musryth.pdf">[pdf]
+       (101.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/bilmes1992-musryth.ps.gz">[ps.gz]
+       (25.8kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Bulyko"></a> Bulyko</h3><ul xmlns=""><li> Ivan Bulyko,  Mari Ostendorf, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Robust Splicing Costs and Efficient Search with BMM Models for Concatenative Speech Synthesis</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Orlando, Florida, 2002.<br><a href="b2hd-bulyko2002-splice.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="bulyko2002-splice.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/bulyko2002-splice.pdf">[pdf]
+       (43.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/bulyko2002-splice.ps.gz">[ps.gz]
+       (29.5kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Cetin"></a> Cetin</h3><ul xmlns=""><li> Ozgur Cetin,  Harriet Nock,  Katrin Kirchhoff, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Mari Ostendorf. <b> The 2001 GMTK-based SPINE ASR System</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Denver, Colorado, 2002.<br><a href="b2hd-cetin2002-spine.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="cetin2002-spine.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/cetin2002-spine.pdf">[pdf]
+       (87.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/cetin2002-spine.ps.gz">[ps.gz]
+       (135.3kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Chen"></a> Chen</h3><ul xmlns="">
+<li> Xiaoyu Chen,  Michael M. Hoffman, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>,  Jay R. Hesselberth, and  William S. Noble. <b> A dynamic Bayesian network for identifying protein-binding footprints from single molecule-based sequencing data</b>. <i> Bioinformatics</i>,  26(12):i334&ndash;i342, 2010.<br /><a href=" <a href="http://dx.doi.org/10.1093/bioinformatics/btq175">http://dx.doi.org/10.1093/bioinformatics/btq175</a>"> <a href="http://dx.doi.org/10.1093/bioinformatics/btq175">http://dx.doi.org/10.1093/bioinformatics/btq175</a></a><br><a href="b2hd-xiaoyu2010-footprints.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="xiaoyu2010-footprints.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1093/bioinformatics/btq175">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1093/bioinformatics/btq175">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1093/bioinformatics/btq175">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1093/bioinformatics/btq175">[HTML]</a>&nbsp;</li>
+<li> Chia-Ping Chen, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dan Ellis. <b> Speech Feature Smoothing for Robust ASR</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Philadelphia, PA, March 2005.<br><a href="b2hd-chen2005-smooth.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2005-smooth.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/chen2005-smooth.pdf">[pdf]
+       (63.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/chen2005-smooth.ps.gz">[ps.gz]
+       (560.9kB
+  )
+      </a>&nbsp;</li>
+<li> Chia-ping Chen, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dan P. Ellis. <b> Blind MVA Speech Feature Processing on Aurora 2.0</b>. Technical Report UWEETR-2004-0017,  University of Washington, Dept. of Electrical Engineering, 2004.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0017.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0017.html</a><br><a href="b2hd-chen2004-blindmva.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2004-blindmva.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0017.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0017.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Chia-Ping Chen,  Katrin Kirchhoff, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Towards Simple Methods of Noise-Robustness</b>. Technical Report UWEETR-2002-0002,  University of Washington, Dept. of EE, 2001.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0002.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0002.html</a><br><a href="b2hd-chen2002a.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2002a.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="www.ee.washington.edu/techsite/papers">[HTML]</a>&nbsp;</li>
+<li> Chia-Ping Chen,  Karim Filali, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Frontend Post-Processing and Backend Model Enhancement on the Aurora 2.0/3.0 Databases</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Denver, Colorado, 2002.<br /><a href=" also see http://ssli.ee.washington.edu/people/chiaping/mva.html"> also see http://ssli.ee.washington.edu/people/chiaping/mva.html</a><br><a href="b2hd-chen2002-mva-a3.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2002-mva-a3.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/chen2002-mva-a3.pdf">[pdf]
+       (87.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/chen2002-mva-a3.ps.gz">[ps.gz]
+       (58.8kB
+  )
+      </a>&nbsp;</li>
+<li> Chia-Ping Chen and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Low-Resource Noise-Robust Feature Post-Processing on Aurora 2.0</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Denver, Colorado, 2002.<br /><a href=" also see http://ssli.ee.washington.edu/people/chiaping/mva.html"> also see http://ssli.ee.washington.edu/people/chiaping/mva.html</a><br><a href="b2hd-chen2002-mva-a2.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2002-mva-a2.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/chen2002-mva-a2.pdf">[pdf]
+       (158.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/chen2002-mva-a2.ps.gz">[ps.gz]
+       (380.9kB
+  )
+      </a>&nbsp;</li>
+<li> Chia-Ping Chen,  Katrin Kirchhoff, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Towards Simple Methods of Noise Robustness</b>. Technical Report UWEETR-2002-0002,  University of Washington, Department of Electrical Engineering, 2001.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0002.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0002.html</a><br><a href="b2hd-chen2002-simple.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2002-simple.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0002.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0002.ps.gz">[ps.gz]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Chung"></a> Chung</h3><ul xmlns=""><li> Mike Chung,  Eric Rombokas,  Qi An,  Yoky Matsuoka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Continuous Vocalization Control Of A Full-Scale Assistive Robot</b>. In <i> 4th IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob2012)</i>,  Rome, Italy, June 2012.<br><a href="b2hd-chung2012-vjrobot.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chung2012-vjrobot.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/chung2012-vjrobot.pdf">[pdf]
+       (1.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/chung2012-vjrobot.ps.gz">[ps.gz]
+       (1.3kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Consortium"></a> Consortium</h3><ul xmlns=""><li> The ENCODE Project Consortium. <b> An Integrated Encyclopedia of DNA Elements in the Human Genome</b>. <i> Nature</i>,  489:57&ndash;74, September 2012.<br><a href="b2hd-encodenature2012.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="encodenature2012.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/doi:10.1038/nature11247">[pdf]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1038/nature11247">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1038/nature11247">[ps]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1038/nature11247">[HTML]</a>&nbsp;</li></ul>
+<h3><a name=" Elliott"></a> Elliott</h3><ul xmlns=""><li> Cameron Elliott and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Computer Based Mathematics Using Continuous Speech Recognition</b>. In <i> Striking a Chord: Vocal Interaction in Assistive Technologies, Games, and More: CHI 2007 workshop on non-verbal acoustic interaction</i>,  San Jose, CA, April 2007.<br /><a href=" http://ssli.ee.washington.edu/&nbsp;camkego/cammath/"> http://ssli.ee.washington.edu/&nbsp;camkego/cammath/</a><br><a href="b2hd-elliott2007-math.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="elliott2007-math.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="%5Curl%7Bhttp://www.vocal-input.org%7D">[HTML]</a>&nbsp;</li></ul>
+<h3><a name=" Ellis"></a> Ellis</h3><ul xmlns=""><li> Dan Ellis and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Using Mutual Information to Design Feature Combinations</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Beijing, China, October 2000.<br><a href="b2hd-ellis2000-mi.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ellis2000-mi.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ellis2000-mi.pdf">[pdf]
+       (69.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/ellis2000-mi.ps.gz">[ps.gz]
+       (119.8kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Everitt"></a> Everitt</h3><ul xmlns=""><li> Katherine Everitt,  Susumu Harada, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  James Landay. <b> Disambiguating speech commands using physical context</b>. In <i> 9th ACM International Conference on Multimodal Interfaces (ICMI07)</i>, pp. 247&ndash;254,  ACM,  New York, NY, USA, November 12-15 2007.<br><a href="b2hd-everitt2007-context.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="everitt2007-context.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1145/1322192.1322235">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1145/1322192.1322235">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1145/1322192.1322235">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1145/1322192.1322235">[HTML]</a>&nbsp;</li></ul>
+<h3><a name=" Filali"></a> Filali</h3><ul xmlns="">
+<li> Karim Filali and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Generalized Graphical Abstractions for Statistical Machine Translation</b>. In <i> Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2007)</i>,  Rochester, NY, April 2007.<br><a href="b2hd-filali2007-gen.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2007-gen.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2007-gen.pdf">[pdf]
+       (86.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2007-gen.ps.gz">[ps.gz]
+       (143.2kB
+  )
+      </a>&nbsp;</li>
+<li> Karim Filali and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Multi-dynamic Bayesian Networks</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2006.<br><a href="b2hd-filali2006-multi.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2006-multi.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2006-multi.pdf">[pdf]
+       (189.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2006-multi.ps.gz">[ps.gz]
+       (271.0kB
+  )
+      </a>&nbsp;</li>
+<li> Karim Filali and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Leveraging Multiple Languages to Improve Statistical MT Word Alignments</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Cancun, Mexico, Nov/Dec 2005.<br><a href="b2hd-filali2005-lev.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2005-lev.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2005-lev.pdf">[pdf]
+       (160.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2005-lev.ps.gz">[ps.gz]
+       (216.4kB
+  )
+      </a>&nbsp;</li>
+<li> Karim Filali and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Dynamic Bayesian Framework to Model Context and Memory in Edit Distance Learning: An Application to Pronunciation Classification</b>. In <i> Proceedings of the Association for Computational Linguistics (ACL)</i>,  43,  University of Michigan, Ann Arbor, 2005.<br><a href="b2hd-filali2005-dbnedit.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2005-dbnedit.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2005-dbnedit.pdf">[pdf]
+       (437.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2005-dbnedit.ps.gz">[ps.gz]
+       (436.7kB
+  )
+      </a>&nbsp;</li>
+<li> Karim Filali,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Algorithms for Data-driven ASR Parameter Quantization</b>. <i> Computer Speech and Language</i>,  20(4):625&ndash;643, October 2005.<br><a href="b2hd-filali2005-quantj.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2005-quantj.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2005-quantj.pdf">[pdf]
+       (233.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2005-quantj.ps.gz">[ps.gz]
+       (569.8kB
+  )
+      </a>&nbsp;</li>
+<li> Karim Filali,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Algorithms for Data-Driven ASR Parameter Quantization</b>. Technical Report UWEETR-2003-0010,  University of Washington, Dept. of Electrical Engineering, 2003.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0010.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0010.html</a><br><a href="b2hd-filali2003-data-driven-quant.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2003-data-driven-quant.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2003-0010.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2003-0010.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Karim Filali,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Data-Driven Vector Clustering for Low-Memory Footprint ASR</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Denver, Colorado, 2002.<br><a href="b2hd-filali2002-data.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="filali2002-data.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/filali2002-data.pdf">[pdf]
+       (344.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/filali2002-data.ps.gz">[ps.gz]
+       (971.7kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Gillenwater"></a> Gillenwater</h3><ul xmlns=""><li> Jennifer Gillenwater,  Rishabh Iyer,  Bethany Lusch,  Rahul Kidambi, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff  Bilmes</a>. <b> Submodular Hamming Metrics</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Montreal, Canada, December 2015.<br><a href="b2hd-gillenwater2015nips.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="gillenwater2015nips.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Gowdy"></a> Gowdy</h3><ul xmlns=""><li> John Gowdy,  Amar Subramanya,  Chris Bartels, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> DBN-Based Multi-Stream Models for Audio-Visual Speech Recognition</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Montreal, Canada, May 2004.<br><a href="b2hd-gowdy2004-dbn-av.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="gowdy2004-dbn-av.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/gowdy2004-dbn-av.pdf">[pdf]
+       (122.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/gowdy2004-dbn-av.ps.gz">[ps.gz]
+       (223.0kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Guillory"></a> Guillory</h3><ul xmlns="">
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Online Submodular Set Cover, Ranking, and Repeated Active Learning</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Granada, Spain, December 2011.<br><a href="b2hd-guillory2011-online-submod-set-cover.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2011-online-submod-set-cover.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2011-online-submod-set-cover.pdf">[pdf]
+       (321.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-online-submod-set-cover.ps.gz">[ps.gz]
+       (525.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-online-submod-set-cover.slides.pdf">[slides, pdf]
+       (291.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-online-submod-set-cover.poster.pdf">[poster, pdf]
+       (324.7kB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Active Semi-Supervised Learning using Submodular Functions</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Barcelona, Spain, July 2011.<br><a href="b2hd-guillory2011-active-semisupervised-submodular.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2011-active-semisupervised-submodular.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2011-active-semisupervised-submodular.pdf">[pdf]
+       (609.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-active-semisupervised-submodular.ps.gz">[ps.gz]
+       (3.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-active-semisupervised-submodular.slides.pdf">[slides, pdf]
+       (1.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-active-semisupervised-submodular.slides.pptx">[slides, pptx]
+       (1.4MB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Simultaneous Learning and Covering with Adversarial Noise</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Bellevue, Washington, 2011.<br><a href="b2hd-guillory2011-noisy-interactive-submod-cover.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2011-noisy-interactive-submod-cover.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2011-noisy-interactive-submod-cover.pdf">[pdf]
+       (669.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2011-noisy-interactive-submod-cover.ps.gz">[ps.gz]
+       (2.8MB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Simultaneous Learning and Covering with Adversarial Noise</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Vancouver, Canada, December 2010.  NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity &amp; Polyhedra (DISCML)<br><a href="b2hd-guillory2010-nipsworkshop.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2010-nipsworkshop.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Interactive Submodular Set Cover</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Haifa, Israel, 2010.<br><a href="b2hd-guillory2010-icml-interactive-sub.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2010-icml-interactive-sub.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2010-icml-interactive-sub.pdf">[pdf]
+       (253.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2010-icml-interactive-sub.ps.gz">[ps.gz]
+       (339.0kB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Interactive Submodular Set Cover</b>. Technical Report UWEETR-2010-0001,  University of Washington, Dept. of EE, 2010.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0001.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0001.html</a><br><a href="b2hd-guillory2010-interactive-sub-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2010-interactive-sub-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0001.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0001.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Label Selection on Graphs</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2009.<br><a href="b2hd-guillory2009-label-selection.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2009-label-selection.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2009-label-selection.pdf">[pdf]
+       (379.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2009-label-selection.ps.gz">[ps.gz]
+       (247.7kB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Average-Case Active Learning with Costs</b>. In <i> The 20th International Conference on Algorithmic Learning Theory</i>,  University of Porto, Portugal, October 2009.<br><a href="b2hd-guillory2009-active-costs.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2009-active-costs.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2009-active-costs.pdf">[pdf]
+       (240.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2009-active-costs.ps.gz">[ps.gz]
+       (313.5kB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Average-Case Active Learning with Costs</b>. Technical Report UWEETR-2009-0005,  University of Washington, Dept. of EE, 2009.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0005.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0005.html</a><br><a href="b2hd-guillory2009-active-costs-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2009-active-costs-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0005.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0005.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Andrew Guillory,  Erick Chastain, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Active Learning as Non-Convex Optimization</b>. In <i> Twelfth International Conference on Artificial Intelligence and Statistics (AISTAT)</i>,  Clearwater Beach, Florida, April 2009.<br><a href="b2hd-guillory2009-actnoncon.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2009-actnoncon.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2009-actnoncon.pdf">[pdf]
+       (609.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2009-actnoncon.ps.gz">[ps.gz]
+       (615.8kB
+  )
+      </a>&nbsp;</li>
+<li> Andrew Guillory and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Practical Methods for Exploiting Bounds on Change in the Margin</b>. In <i> The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM 2007)</i>,  Fort Lauderdale, Florida, 2008.<br><a href="b2hd-guillory2008-pracmarg.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="guillory2008-pracmarg.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/guillory2008-pracmarg.pdf">[pdf]
+       (223.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/guillory2008-pracmarg.ps.gz">[ps.gz]
+       (371.4kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Gunther"></a> Gunther</h3><ul xmlns="">
+<li> Oliver Gunther and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Tree-Based Access Methods for Spatial Databases: Implementation and Performance Evaluation</b>. <i> IEEE Transactions on Knowledge and Data Engineering</i>,  3(3), 1991.<br><a href="b2hd-gunther1991-jour.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="gunther1991-jour.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Oliver Gunther and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Implementation of the Cell Tree: Design Alternatives and Performance Evaluation</b>. <i> Datenbanksysteme in Buro, Technik und Wissenschaft, Informatik-Fachberichte</i>,  204, 1989.  Springer-Verlag<br><a href="b2hd-gunther1989.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="gunther1989.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+</ul>
+<h3><a name=" Halloran"></a> Halloran</h3><ul xmlns=""><li> John Halloran,  Jeff A.&nbsp;Bilmes, and  William S.&nbsp;Noble. <b> Learning Peptide-Spectrum Alignment Models for Tandem Mass Spectrometry</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Quebic City, Quebec Canada, July 2014.<br><a href="b2hd-halloran2014uai-drip.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="halloran2014uai-drip.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/halloran2014uai-drip.pdf">[pdf]
+       (1.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/halloran2014uai-drip.ps.gz">[ps.gz]
+       (1.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/halloran2014uai-drip.extended.pdf">[extended, pdf]
+       (1.5MB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Harada"></a> Harada</h3><ul xmlns="">
+<li> Susumu Harada,  Jacob O. Wobbrock,  Jonathan Malkin, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>, and  James A. Landay. <b> Longitudinal Study of People Learning to Use Continuous Voice-Based Cursor Control</b>. In <i> CHI 2008: ACM Conference on Human Factors in Computing Systems</i>,  Boston, MA, April 2009.<br><a href="b2hd-harada2009-longitude.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="harada2009-longitude.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/harada2009-longitude.pdf">[pdf]
+       (2.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/harada2009-longitude.ps.gz">[ps.gz]
+       (1.9MB
+  )
+      </a>&nbsp;</li>
+<li> Susumu Harada,  James Landay,  Jon Malkin,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Vocal Joystick: evaluation of voice-based cursor control techniques for assistive technology</b>. <i> Disability and Rehabilitation: Assistive Technology</i>,  3(1):22&ndash;34, January 2008.<br><a href="b2hd-harada2008-vj-eval.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="harada2008-vj-eval.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Susumu Harada,  James A. Landay, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Drawing with Voice: Combining Non-Verbal Vocalizations with Words to Draw Hands-Free</b>. In <i> Striking a Chord: Vocal Interaction in Assistive Technologies, Games, and More: CHI 2007 workshop on non-verbal acoustic interaction</i>,  San Jose, CA, April 2007.<br /><a href=" http://www.vocal-input.org"> http://www.vocal-input.org</a><br><a href="b2hd-harada2007-draw.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="harada2007-draw.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Susumu Harada,  James Landay,  Jon Malkin,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Vocal Joystick: Evaluation of Voice-based Cursor Control Techniques</b>. In <i> Proceedings of the 8th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS06)</i>, pp. 197&ndash;204,  ACM,  Portland, Oregon, October 2006.  New York, NY<br><a href="b2hd-harada2006-eval.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="harada2006-eval.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/harada2006-eval.pdf">[pdf]
+       (180.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/harada2006-eval.ps.gz">[ps.gz]
+       (439.6kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Hoffman"></a> Hoffman</h3><ul xmlns="">
+<li> M. M. Hoffman,  J. Ernst,  S. P. Wilder,  A. Kundaje,  R.	S. Harris,  M. Libbrecht,  B. Giardine,  P. M. Ellenbogen, <a href="http://melodi.ee.washington.edu/~bilmes"> J. A. Bilmes</a>,  E. Birney,  R. C. Hardison,  I. Dunham,  M.	Kellis, and  W. S. Noble. <b> Integrative annotation of chromatin elements from ENCODE data</b>. <i> Nucleic Acids Res</i>,  41(2):827&ndash;41, 2013.<br><a href="b2hd-hoffman2013_integrative.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="hoffman2013_integrative.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/doi:10.1093/nar/gks1284">[pdf]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1093/nar/gks1284">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1093/nar/gks1284">[ps]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1093/nar/gks1284">[HTML]</a>&nbsp;</li>
+<li> Michael M Hoffman,  Orion J Buske,  Jie Wang,  Zhiping Weng, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A Bilmes</a>, and  William Stafford Noble. <b> Unsupervised pattern discovery in human chromatin structure through genomic segmentation</b>. <i> Nature Methods</i>,  9(5):473&ndash;476, March 2012.<br><a href="b2hd-hoffman2012-segwaymain.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="hoffman2012-segwaymain.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1038/nmeth.1937">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1038/nmeth.1937">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1038/nmeth.1937">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1038/nmeth.1937">[HTML]</a>&nbsp;</li>
+</ul>
+<h3><a name=" House"></a> House</h3><ul xmlns=""><li> Brandi House,  Jonathan Malkin, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> The VoiceBot: A Voice Controlled Robot Arm</b>. In <i> CHI 2009: ACM Conference on Human Factors in Computing Systems</i>,  Boston, MA, April 2009.<br><a href="b2hd-house2009-voicebot.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="house2009-voicebot.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/house2009-voicebot.pdf">[pdf]
+       (9.0MB
+  )
+      </a>&nbsp;<a href="../mypubs/house2009-voicebot.ps.gz">[ps.gz]
+       (91.6kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Iyer"></a> Iyer</h3><ul xmlns="">
+<li> Rishabh K. Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Polyhedral aspects of Submodularity, Convexity and Concavity</b>. <i> Arxiv, CoRR</i>,  abs/1506.07329, 2015.<br><a href="b2hd-rishabhbilmes_semidifferentials_arxiv2015.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="rishabhbilmes_semidifferentials_arxiv2015.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1506.07329">[HTML]</a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Point Processes</b>. In <i> 18th International Conference on Artificial Intelligence and Statistics (AISTATS-2015)</i>, May 2015.<br><a href="b2hd-iyer2015-spps.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2015-spps.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2015-spps.pdf">[pdf]
+       (458.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2015-spps.ps.gz">[ps.gz]
+       (417.4kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer,  Stefanie Jegelka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Fast Algorithms for Submodular Optimization based on Continuous Relaxations and Rounding</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Quebic City, Quebec Canada, July 2014.<br><a href="b2hd-iyer2014uai-fast-cvx-relaxations.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2014uai-fast-cvx-relaxations.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2014uai-fast-cvx-relaxations.pdf">[pdf]
+       (297.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2014uai-fast-cvx-relaxations.ps.gz">[ps.gz]
+       (330.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2014uai-fast-cvx-relaxations.extended.pdf">[extended, pdf]
+       (403.5kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Lake Tahoe, CA, December 2013. <font color="red"><b> Winner of Outstanding Paper Award, NIPS-2013</b></font><br><a href="b2hd-rishabh2013-submodular-constraints.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="rishabh2013-submodular-constraints.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/rishabh2013-submodular-constraints.pdf">[pdf]
+       (294.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/rishabh2013-submodular-constraints.ps.gz">[ps.gz]
+       (488.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/rishabh2013-submodular-constraints.slides.pdf">[slides, pdf]
+       (42.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/rishabh2013-submodular-constraints.poster.pdf">[poster, pdf]
+       (708.1kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Optimization with Submodular Cover and Submodular Knapsack Constraints: Extended Version</b>. <i> arXiv</i>, 2013.  extended version of NIPS-2013<br><a href="b2hd-rishabh2013-submodular-constraints-arxiv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="rishabh2013-submodular-constraints-arxiv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1311.2106">[HTML]</a>&nbsp;</li>
+<li> Rishabh Iyer,  Stefanie Jegelka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Curvature and Optimal Algorithms for Learning and Minimizing Submodular Functions</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Lake Tahoe, CA, December 2013.<br><a href="b2hd-iyer2013-curvature.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-curvature.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2013-curvature.pdf">[pdf]
+       (297.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-curvature.ps.gz">[ps.gz]
+       (558.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-curvature.poster.pdf">[poster, pdf]
+       (248.2kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer,  Stefanie Jegelka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Curvature and Optimal Algorithms for Learning and Minimizing Submodular Functions</b>. <i> arXiv</i>, 2013.  extended version of NIPS-2013<br><a href="b2hd-iyer2013-curvature-arxiv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-curvature-arxiv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1311.2110">[HTML]</a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Lov&aacute;sz-Bregman Divergence and connections to rank aggregation, clustering and web ranking</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Bellevue, Washington, July 2013.<br><a href="b2hd-iyer2013-lovasz-bregman-uai.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-lovasz-bregman-uai.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2013-lovasz-bregman-uai.pdf">[pdf]
+       (1.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-lovasz-bregman-uai.ps.gz">[ps.gz]
+       (2.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-lovasz-bregman-uai.extended.pdf">[extended, pdf]
+       (1.7MB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-lovasz-bregman-uai.slides.pdf">[slides, pdf]
+       (1.3MB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Lovasz-Bregman Divergence and connections to rank aggregation, clustering, and web ranking</b>. <i> arXiv</i>, 2013.  extended version of UAI-2013<br><a href="b2hd-iyer2013-lovasz-bregman-arxiv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-lovasz-bregman-arxiv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1308.5275">[HTML]</a>&nbsp;</li>
+<li> Rishabh Iyer,  Stefanie Jegelka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Fast Semidifferential-based Submodular Function Optimization</b>. <i> arXiv</i>, 2013.  extended version of ICML-2013<br><a href="b2hd-iyer2013-arxiv-fast-submodular-semigradient.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-arxiv-fast-submodular-semigradient.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1308.1006">[HTML]</a>&nbsp;</li>
+<li> Rishabh Iyer,  Stefanie Jegelka, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Fast Semidifferential-based Submodular Function Optimization</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Atlanta, Georgia, 2013. <font color="red"><b> Winner of the Best Paper Award, ICML 2013</b></font><br><a href="b2hd-iyer2013-fast-submodular-semigradient.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2013-fast-submodular-semigradient.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2013-fast-submodular-semigradient.pdf">[pdf]
+       (359.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-fast-submodular-semigradient.ps.gz">[ps.gz]
+       (578.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-fast-submodular-semigradient.extended.pdf">[extended, pdf]
+       (518.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-fast-submodular-semigradient.slides.pdf">[slides, pdf]
+       (2.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2013-fast-submodular-semigradient.poster.pdf">[poster, pdf]
+       (656.3kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Bregman Divergences with Applications</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Lake Tahoe, CA, December 2012.<br><a href="b2hd-rishabh2012-submodular-bregman.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="rishabh2012-submodular-bregman.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/rishabh2012-submodular-bregman.pdf">[pdf]
+       (341.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/rishabh2012-submodular-bregman.ps.gz">[ps.gz]
+       (560.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/rishabh2012-submodular-bregman.extended.pdf">[extended, pdf]
+       (485.3kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Algorithms for Approximate Minimization of the Difference Between Submodular Functions, with Applications</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Catalina Island, USA, July 2012.<br><a href="b2hd-iyer2012-min-diff-sub-funcs.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2012-min-diff-sub-funcs.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer2012-min-diff-sub-funcs.pdf">[pdf]
+       (352.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2012-min-diff-sub-funcs.ps.gz">[ps.gz]
+       (667.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer2012-min-diff-sub-funcs.slides.pdf">[slides, pdf]
+       (512.2kB
+  )
+      </a>&nbsp;</li>
+<li> Rishabh Iyer and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Algorithms for Approximate Minimization of the Difference Between Submodular Functions, with Applications</b>. <i> arXiv</i>, 2012.  extended version of UAI-2012<br><a href="b2hd-iyer2012-min-diff-sub-funcs-arxiv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer2012-min-diff-sub-funcs-arxiv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1207.0560">[HTML]</a>&nbsp;</li>
+<li> Vijay Iyer, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Matt Wright, and  David Wessel. <b> A Novel Representation for Rhythmic Structure</b>. In <i> International Computer Music Conference</i>, September 1997.<br><a href="b2hd-iyer1997-rhythm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="iyer1997-rhythm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/iyer1997-rhythm.pdf">[pdf]
+       (20.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/iyer1997-rhythm.ps.gz">[ps.gz]
+       (117.4kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Jegelka"></a> Jegelka</h3><ul xmlns="">
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Graph Cuts with Interacting Edge Costs - Examples, Approximations, and Algorithms</b>. <i> arXiv</i>, 2014.<br><a href="b2hd-jegelka2014-coop-cut-arxiv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2014-coop-cut-arxiv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://arxiv.org/abs/1402.0240v1">[HTML]</a>&nbsp;</li>
+<li> Stefanie Jegelka,  Hui Lin, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Fast Approximate Submodular Minimization</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Granada, Spain, December 2011.<br><a href="b2hd-jegelka2011-fast-approx-sfm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2011-fast-approx-sfm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/jegelka2011-fast-approx-sfm.pdf">[pdf]
+       (2.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-fast-approx-sfm.ps.gz">[ps.gz]
+       (984.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-fast-approx-sfm.extended.pdf">[extended, pdf]
+       (2.2MB
+  )
+      </a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Approximation Bounds for Inference using Cooperative Cuts</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Bellevue, Washington, 2011.<br><a href="b2hd-jegelka2011-inference-gen-graph-cuts.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2011-inference-gen-graph-cuts.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/jegelka2011-inference-gen-graph-cuts.pdf">[pdf]
+       (460.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-inference-gen-graph-cuts.ps.gz">[ps.gz]
+       (505.8kB
+  )
+      </a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Online Submodular Minimization for Combinatorial Structures</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Bellevue, Washington, 2011.<br><a href="b2hd-jegelka2011-online-submodular-min.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2011-online-submodular-min.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/jegelka2011-online-submodular-min.pdf">[pdf]
+       (355.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-online-submodular-min.ps.gz">[ps.gz]
+       (500.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-online-submodular-min.extended.pdf">[extended, pdf]
+       (558.2kB
+  )
+      </a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Submodularity beyond submodular energies: coupling edges in graph cuts</b>. In <i> Computer Vision and Pattern Recognition (CVPR)</i>,  Colorado Springs, CO, June 2011.<br><a href="b2hd-jegelka2011-nonsubmod-vision.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2011-nonsubmod-vision.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/jegelka2011-nonsubmod-vision.pdf">[pdf]
+       (9.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-nonsubmod-vision.ps.gz">[ps.gz]
+       (17.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2011-nonsubmod-vision.slides.pdf">[slides, pdf]
+       (5.5MB
+  )
+      </a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Multi-label Cooperative Cuts</b>. In <i> CVPR 2011 Workshop on Inference in Graphical Models with Structured Potentials</i>,  Colorado Springs, CO, June 2011.<br><a href="b2hd-jegelka2011-multilabel-coopcut.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2011-multilabel-coopcut.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://users.cecs.anu.edu.au/~julianm/cvpr2011.html">[HTML]</a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Online Algorithms for Submodular Minimization with Combinatorial Constraints</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Vancouver, Canada, December 2010.  NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity &amp; Polyhedra (DISCML)<br><a href="b2hd-jegelka2010-nipsworkshop.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2010-nipsworkshop.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Cooperative Cuts for Image Segmentation</b>. Technical Report UWEETR-2010-0003,  University of Washington, Seattle, 2010.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0003.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0003.html</a><br><a href="b2hd-jegelka2010-coopcut-image-seg.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2010-coopcut-image-seg.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0003.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0003.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Cooperative Cuts: Graph Cuts with Submodular Edge Weights</b>. In <i> 24th European Conference on Operational Research (EURO XXIV)</i>,  Lisbon, Portugal, 2010.<br><a href="b2hd-jegelka2010-euro-or.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2010-euro-or.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Cooperative Cuts: Graph Cuts with Submodular Edge Weights</b>. Technical Report 189-03-2010,  Max Planck Institute for Biological Cybernetics, Tuebingen, 2010.<br /><a href=" http://www.kyb.mpg.de/publication.html?publ=6330"> http://www.kyb.mpg.de/publication.html?publ=6330</a><br><a href="b2hd-jegelka2010-coopcut-mpitr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2010-coopcut-mpitr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://www.kyb.mpg.de/publications/attachments/subcutsShort_6330%5B0%5D.pdf">[pdf]</a>&nbsp;</li>
+<li> Stefanie Jegelka and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Notes on graph cuts with submodular edge weights</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Vancouver, Canada, December 2009.  NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity &amp; Polyhedra (DISCML)<br><a href="b2hd-jegelka2009-esc-nips.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="jegelka2009-esc-nips.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/jegelka2009-esc-nips.pdf">[pdf]
+       (164.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/jegelka2009-esc-nips.ps.gz">[ps.gz]
+       (196.1kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Ji"></a> Ji</h3><ul xmlns="">
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Jointly Recognizing Multi-Speaker Conversations</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Dallas, Texas, 2010.<br><a href="b2hd-ji2010-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2010-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2010-icassp.pdf">[pdf]
+       (228.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2010-icassp.ps.gz">[ps.gz]
+       (170.0kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Jeff Michels,  Katrin Kirchhoff, and  Chris Manning. <b> Graphical Model Representations of Word Lattices</b>. In <i> IEEE/ACL 2006 Workshop on Spoken Language Technology (SLT2006)</i>,  Palm Beach, Aruba, Dec 2006.<br><a href="b2hd-ji2006-lattice.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2006-lattice.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2006-lattice.pdf">[pdf]
+       (218.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2006-lattice.ps.gz">[ps.gz]
+       (197.3kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Backoff Model Training using Partially Observed Data: Application to Dialog Act Tagging</b>. In <i> Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2006)</i>,  New York, NY, June 2006.<br><a href="b2hd-ji2006-backoff.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2006-backoff.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2006-backoff.pdf">[pdf]
+       (168.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2006-backoff.ps.gz">[ps.gz]
+       (234.5kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Dialog Act Tagging using Graphical Models</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Philadelphia, PA, March 2005.<br><a href="b2hd-ji2005-dat.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2005-dat.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2005-dat.pdf">[pdf]
+       (273.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2005-dat.ps.gz">[ps.gz]
+       (134.8kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Backoff Model Training using Partially Observed Data: Application to Dialog Act Tagging</b>. Technical Report UWEETR-2005-0008,  University of Washington, Dept. of EE, 2005.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2005-0008.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2005-0008.html</a><br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2005-0008.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2005-0008.html</a><br><a href="b2hd-ji05-botr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji05-botr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2005-0008.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2005-0008.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Multi-Speaker Language Modeling</b>. In <i> Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2004)</i>,  Boston, MA, May 2004.<br><a href="b2hd-ji2004-multi.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2004-multi.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2004-multi.pdf">[pdf]
+       (135.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2004-multi.ps.gz">[ps.gz]
+       (196.5kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Necessary Intransitive Likelihood-Ratio Classifiers</b>. In <i> Neural Information Processing Society (NIPS)</i>,  16,  Vancouver, Canada, December 2003.<br><a href="b2hd-ji2003-nintr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2003-nintr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ji2003-nintr.pdf">[pdf]
+       (1.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/ji2003-nintr.ps.gz">[ps.gz]
+       (218.1kB
+  )
+      </a>&nbsp;</li>
+<li> Gang Ji and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Necessary Intransitive Likelihood-Ratio Classifiers</b>. Technical Report UWEETR-2002-0014,  University of Washington, Dept. of EE, 2002.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0014.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2002-0014.html</a><br><a href="b2hd-ji2002-nectr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ji2002-nectr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0014.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2002-0014.ps.gz">[ps.gz]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Kawahara"></a> Kawahara</h3><ul xmlns="">
+<li> Yoshinobu Kawahara,  Rishabh Iyer, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Approximate Non-submodular Minimization via Tree-Structured Supermodularity</b>. In <i> 18th International Conference on Artificial Intelligence and Statistics (AISTATS-2015)</i>, May 2015.<br><a href="b2hd-kawahara2015-supermodular-tree.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kawahara2015-supermodular-tree.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kawahara2015-supermodular-tree.pdf">[pdf]
+       (3.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/kawahara2015-supermodular-tree.ps.gz">[ps.gz]
+       (1.9MB
+  )
+      </a>&nbsp;</li>
+<li> Yoshinobu Kawahara,  Kiyohito Nagano,  Koji Tsuda, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodularity Cuts and Applications</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2009.<br><a href="b2hd-kawahara2009-nipssubmax.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kawahara2009-nipssubmax.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kawahara2009-nipssubmax.pdf">[pdf]
+       (557.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/kawahara2009-nipssubmax.ps.gz">[ps.gz]
+       (277.3kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Kilanski"></a> Kilanski</h3><ul xmlns=""><li> Kelley Kilanski,  Jonathan Malkin,  Xiao Li,  Richard Wright, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Vocal Joystick Data Collection Effort and Vowel Corpus</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Pittsburg, Pa., September 2006.<br><a href="b2hd-kilanski2006-vjdata.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kilanski2006-vjdata.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kilanski2006-vjdata.pdf">[pdf]
+       (222.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/kilanski2006-vjdata.ps.gz">[ps.gz]
+       (290.5kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" King"></a> King</h3><ul xmlns=""><li> Simon King,  Chris Bartels, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> SVitchboard 1: Small vocabulary tasks from Switchboard 1</b>. In <i> European Conf. on Speech Communication and Technology (Eurospeech)</i>,  Lisbon, Portugal, September 2005.<br><a href="b2hd-king2005-svb.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="king2005-svb.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/king2005-svb.pdf">[pdf]
+       (79.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/king2005-svb.ps.gz">[ps.gz]
+       (154.8kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Kirchhoff"></a> Kirchhoff</h3><ul xmlns="">
+<li> Katrin Kirchhoff and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodularity for Data Selection in Machine Translation</b>. In <i> Empirical Methods in Natural Language Processing (EMNLP)</i>, October 2014.<br><a href="b2hd-kirchhoff2014-submodmt.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2014-submodmt.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff2014-submodmt.pdf">[pdf]
+       (235.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2014-submodmt.ps.gz">[ps.gz]
+       (214.3kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff,  Yuzong Liu, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Classification of Developmental Disorders from Speech Signals Using Submodular Feature Selection</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Lyon, France, August 2013.<br><a href="b2hd-kirchhoff2013-speech-submod-interspeech.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2013-speech-submod-interspeech.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff2013-speech-submod-interspeech.pdf">[pdf]
+       (169.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2013-speech-submod-interspeech.ps.gz">[ps.gz]
+       (262.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2013-speech-submod-interspeech.slides.pdf">[slides, pdf]
+       (175.8kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Kevin Duh. <b> Factored Language Models Tutorial</b>. Technical Report UWEETR-2008-00048,  University of Washington, Dept. of EE, 2008.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2008-0004.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2008-0004.html</a><br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2008-0004.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2008-0004.html</a><br><a href="b2hd-kirchhoff2008-flmtut.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2008-flmtut.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2008-0004.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2008-0004.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Katrin Kirchhoff, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Sourin Das,  Nicolae Duta,  Melissa Egan,  Gang Ji,  Feng He,  John Henderson,  Daben Liu,  Mohamed Noamany,  Pat Schone,  Richard Schwartz, and  Dimitra Vergyri. <b> Novel Approaches to Arabic Speech Recognition: Report from the 2002 Johns-Hopkins Summer Workshop</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Hong Kong, China, May 2003.<br><a href="b2hd-kirchhoff2003-aasr-cnf.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2003-aasr-cnf.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff2003-aasr-cnf.pdf">[pdf]
+       (73.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2003-aasr-cnf.ps.gz">[ps.gz]
+       (125.4kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff,  Sonia Parandekar, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Mixed-memory Markov models for Automatic Language Identification</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Orlando, Florida, 2002.<br><a href="b2hd-kirchhoff2002-mixed.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2002-mixed.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff2002-mixed.pdf">[pdf]
+       (47.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2002-mixed.ps.gz">[ps.gz]
+       (25.6kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Combination and Joint Training of Acoustic Classifiers for Speech Recognition</b>. In <i> Proc. of the ISCA ITRW Automatic Speech Recognition 2000 Workshop</i>,  Paris, France, October 2000.<br><a href="b2hd-kirchhoff2000-gen.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff2000-gen.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff2000-gen.pdf">[pdf]
+       (433.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff2000-gen.ps.gz">[ps.gz]
+       (361.3kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Dynamic classifier combination in hybrid speech recognition systems using utterance-level confidence values</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>, pp. 693&ndash;696, 1999.<br><a href="b2hd-kirchhoff1999-dynclas.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff1999-dynclas.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff1999-dynclas.pdf">[pdf]
+       (65.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff1999-dynclas.ps.gz">[ps.gz]
+       (55.0kB
+  )
+      </a>&nbsp;</li>
+<li> Katrin Kirchhoff and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Statistical Acoustic Indications of Coarticulation</b>. In <i> Proceedings 14th International Congress of Phonetic Sciences</i>, august 1999.<br><a href="b2hd-kirchhoff1999-coart.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kirchhoff1999-coart.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kirchhoff1999-coart.pdf">[pdf]
+       (73.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/kirchhoff1999-coart.ps.gz">[ps.gz]
+       (38.6kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Klammer"></a> Klammer</h3><ul xmlns="">
+<li> Aaron Klammer,  Sheila Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Mike MacCoss, and  William Noble. <b> Modeling peptide fragmentation with dynamic Bayesian networks for peptide identification</b>. <i> Bioinformatics</i>,  24(13):348&ndash;56, July 2008.<br><a href="b2hd-klammer2008-pepfrag.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="klammer2008-pepfrag.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/klammer2008-pepfrag.pdf">[pdf]
+       (934.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/klammer2008-pepfrag.ps.gz">[ps.gz]
+       (2.7MB
+  )
+      </a>&nbsp;</li>
+<li> Aaron A. Klammer,  Sheila M. Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>,  Michael J. MacCoss, and  William Noble. <b> Modelling peptide fragmentation with dynamic Bayesian networks for peptide identification</b>. In <i> 16th Annual International Conference on Intelligent Systems forMolecular Biology (Bioinformatics, Proceedings of the ISMB)</i>,  Toronto, July 2008.<br><a href="b2hd-klammer2008-intense-alpha.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="klammer2008-intense-alpha.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/klammer2008-intense-alpha.pdf">[pdf]
+       (1.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/klammer2008-intense-alpha.ps.gz">[ps.gz]
+       (3.0MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Kohn"></a> Kohn</h3><ul xmlns=""><li> P. Kohn, <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  N. Morgan, and  J. Beck. <b> Software for ANN training on a Ring Array Processor</b>. In <i> Neural Information Processing Society (NIPS)</i>,  4, May 1991.<br><a href="b2hd-kohn1991.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kohn1991.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Kumaran"></a> Kumaran</h3><ul xmlns=""><li> Raghunandan Kumaran, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Katrin Kirchhoff. <b> Attention Shift Decoding for Conversational Speech Recognition</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Antwerp, Belgium, September 2007.<br><a href="b2hd-kumaran2007-attshift.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kumaran2007-attshift.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Lei"></a> Lei</h3><ul xmlns=""><li> Xin Lei,  Gang Ji,  Tim Ng, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Mari Ostendorf. <b> DBN-Based Multi-stream Models for Mandarin Toneme Recognition</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Philadelphia, PA, March 2005.<br><a href="b2hd-lei2005_toneme.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lei2005_toneme.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lei2005_toneme.pdf">[pdf]
+       (69.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/lei2005_toneme.ps.gz">[ps.gz]
+       (147.3kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Li"></a> Li</h3><ul xmlns="">
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Bayesian Divergence Prior for Classifier Adaptation</b>. In <i> Eleventh International Conference on Artificial Intelligence and Statistics (AISTATS-2007)</i>, March 2007.<br><a href="b2hd-li2007-bayes.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2007-bayes.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2007-bayes.pdf">[pdf]
+       (175.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2007-bayes.ps.gz">[ps.gz]
+       (268.6kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li,  Jonathan Malkin,  Susumu Harada, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Richard Wright, and  James Landay. <b> An Online Adaptive Filtering Algorithm for the Vocal Joystick</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Pittsburg, Pa., September 2006.<br><a href="b2hd-li2006-vjadapt.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2006-vjadapt.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2006-vjadapt.pdf">[pdf]
+       (239.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2006-vjadapt.ps.gz">[ps.gz]
+       (289.3kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li,  Gang Ji, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Factored Language Model for Quantized Music</b>. In <i> International Conference on Computer Music (ICMC06)</i>,  New Orleans, LA., Oct 2006.<br><a href="b2hd-li2006-music.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2006-music.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Regularized Adaptation of Discriminative Classifiers</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Toulouse, France, May 2006.<br><a href="b2hd-li2006-ra.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2006-ra.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2006-ra.pdf">[pdf]
+       (88.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2006-ra.ps.gz">[ps.gz]
+       (172.1kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Divergence Prior for Adaptive Learning</b>. In <i> NIPS 2006 Workshop; Learning When Test and Training Inputs Have Different Distributions</i>, December 2006.<br><a href="b2hd-Li2006-divprior.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="Li2006-divprior.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Xiao Li,  Jon Malkin, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A High-speed, Low-Resource ASR Back-end Based on Custom Arithmetic</b>. <i> IEEE Trans. Speech and Audio Processing</i>,  14(5):1683&ndash;1693, 2006.<br><a href="b2hd-li2006-custom.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2006-custom.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2006-custom.pdf">[pdf]
+       (345.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2006-custom.ps.gz">[ps.gz]
+       (3.0MB
+  )
+      </a>&nbsp;</li>
+<li> Yi Li,  Linda Shapiro, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Generative/Discriminative Learning Algorithm for Object Recognition</b>. In <i> 10th IEEE Conference on Computer Vision (ICCV)</i>,  Beijing, China, 2005.<br><a href="b2hd-li2005-gdvis.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2005-gdvis.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2005-gdvis.pdf">[pdf]
+       (583.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2005-gdvis.ps.gz">[ps.gz]
+       (6.4MB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Jon Malkin. <b> Maximum Margin Learning and Adaptation of MLP Classifers</b>. In <i> European Conf. on Speech Communication and Technology (Eurospeech)</i>,  Lisbon, Portugal, September 2005.<br><a href="b2hd-li2005-mm-mlp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2005-mm-mlp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2005-mm-mlp.pdf">[pdf]
+       (113.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2005-mm-mlp.ps.gz">[ps.gz]
+       (141.3kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Feature Pruning for Low-Power ASR Systems in Clean and Noisy Environments</b>. <i> IEEE Signal Processing Letters</i>, pp. 489&ndash;492, June 2005.<br><a href="b2hd-li05-fprune.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li05-fprune.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li05-fprune.pdf">[pdf]
+       (68.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/li05-fprune.ps.gz">[ps.gz]
+       (145.3kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li,  Jon Malkin, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A graphical Model Approach to Pitch Tracking</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Jeju Island, Korea, October 2004.<br><a href="b2hd-li2004-gmpitch.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2004-gmpitch.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2004-gmpitch.pdf">[pdf]
+       (132.5kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2004-gmpitch.ps.gz">[ps.gz]
+       (141.5kB
+  )
+      </a>&nbsp;</li>
+<li> Yi Li, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>, and  Linda G. Shapiro. <b> Object Class Recognition using Images of Abstract Regions</b>. In <i> International Conference on Pattern Recognition</i>,  Cambridge, UK, August 2004.<br><a href="b2hd-li2004-object.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2004-object.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2004-object.pdf">[pdf]
+       (284.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2004-object.ps.gz">[ps.gz]
+       (266.6kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li,  Jonathan Malkin, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Codebook Design for ASR Systems using Custom Arithmetic Units</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Montreal, Canada, May 2004.<br><a href="b2hd-li2004-codebook.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2004-codebook.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2004-codebook.pdf">[pdf]
+       (89.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2004-codebook.ps.gz">[ps.gz]
+       (133.0kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Feature Pruning in Likelihood Evaluation of HMM-based Speech Recognition</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  St. Thomas, U.S. Virgin Islands, Nov/Dec 2003.<br><a href="b2hd-li2003-fprune.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2003-fprune.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/li2003-fprune.pdf">[pdf]
+       (233.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/li2003-fprune.ps.gz">[ps.gz]
+       (258.1kB
+  )
+      </a>&nbsp;</li>
+<li> Xiao Li and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Selectively Computing Dynamic Features in the Likelihood Computation of ASR Systems</b>. Technical Report UWEETR-2003-0009,  University of Washington, Department of Electrical Engineering, 2003.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0009.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0009.html</a><br><a href="b2hd-li2003-selective.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="li2003-selective.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2003-0009.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2003-0009.ps.gz">[ps.gz]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Libbrecht"></a> Libbrecht</h3><ul xmlns="">
+<li> Maxwell Libbrecht,  Michael Hoffman,  William Noble, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Entropic Graph-based Posterior Regularization</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Lille, France, 2015.<br><a href="b2hd-libbrecht2015-entropic-graph.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="libbrecht2015-entropic-graph.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Maxwell W Libbrecht,  Ferhat Ay,  Michael M Hoffman,  David M Gilbert, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeffrey A Bilmes</a>, and  William Stafford Noble. <b> Joint Annotation of Chromatin State and Chromatin Conformation Reveals Relationships Among Domain Types and Identifies Domains of Cell Type-Specific Expression</b>. <i> Genome Research</i>,  Cold Spring Harbor Labs Journals, 2015. <font color="red"><b> Selected as a 2014 - 2015 Top Paper at RSG 2015</b></font><br><a href="b2hd-libbrecht2014bio-egpr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="libbrecht2014bio-egpr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://www.ncbi.nlm.nih.gov/pubmed/25677182">[HTML]</a>&nbsp;</li>
+<li> Maxwell Libbrecht,  Michael Hoffman,  William Noble, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeffrey Bilmes</a>. <b> Entropic Graph-based Posterior Regularization for Learning Probabilistic Models</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Lake Tahoe, Nevada, December 2013.  NIPS Workshop on Machine Learning in Computational Biology (MLCB)<br><a href="b2hd-libbrecht2013-egbr-nips.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="libbrecht2013-egbr-nips.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://mlcb.org/">[HTML]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Lin"></a> Lin</h3><ul xmlns="">
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Learning Mixtures of Submodular Shells with Application to Document Summarization</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Catalina Island, USA, July 2012.<br><a href="b2hd-hui2012-submodular-shells-summarization.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="hui2012-submodular-shells-summarization.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/hui2012-submodular-shells-summarization.pdf">[pdf]
+       (336.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/hui2012-submodular-shells-summarization.ps.gz">[ps.gz]
+       (724.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/hui2012-submodular-shells-summarization.extended.pdf">[extended, pdf]
+       (1020.2kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Optimal Selection of Limited Vocabulary Speech Corpora</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Florence, Italy, August 2011.<br><a href="b2hd-lin2011-speech-corpus-creation.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2011-speech-corpus-creation.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2011-speech-corpus-creation.pdf">[pdf]
+       (1.3MB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2011-speech-corpus-creation.ps.gz">[ps.gz]
+       (5.6MB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Class of Submodular Functions for Document Summarization</b>. In <i> The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (ACL/HLT-2011)</i>,  Portland, OR, June 2011.  (long paper)<br><a href="b2hd-lin2011-class-submod-sum.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2011-class-submod-sum.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2011-class-submod-sum.pdf">[pdf]
+       (480.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2011-class-submod-sum.ps.gz">[ps.gz]
+       (662.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2011-class-submod-sum.slides.pdf">[slides, pdf]
+       (7.9MB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Word Alignment via Submodular Maximization over Matroids</b>. In <i> North American chapter of the Association for Computational Linguistics/Human Language Technology Conference (NAACL/HLT-2011)</i>,  Portland, OR, June 2011.  (short paper)<br><a href="b2hd-lin2011-submodular-word-alignment.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2011-submodular-word-alignment.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2011-submodular-word-alignment.pdf">[pdf]
+       (235.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2011-submodular-word-alignment.ps.gz">[ps.gz]
+       (375.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2011-submodular-word-alignment.slides.pdf">[slides, pdf]
+       (5.4MB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> An Application of the Submodular Principal Partition to Training Data Subset Selection</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Vancouver, Canada, December 2010.  NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity &amp; Polyhedra (DISCML)<br><a href="b2hd-lin2010-pp-corpus-creation.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2010-pp-corpus-creation.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Multi-document Summarization via Budgeted Maximization of Submodular Functions</b>. In <i> North American chapter of the Association for Computational Linguistics/Human Language Technology Conference (NAACL/HLT-2010)</i>,  Los Angeles, CA, June 2010.<br><a href="b2hd-lin2010-submod-sum-nlp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2010-submod-sum-nlp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2010-submod-sum-nlp.pdf">[pdf]
+       (511.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2010-submod-sum-nlp.ps.gz">[ps.gz]
+       (320.6kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Shasha Xie. <b> Graph-based Submodular Selection for Extractive Summarization</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Merano, Italy, December 2009.<br><a href="b2hd-lin2009-submodsum.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2009-submodsum.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2009-submodsum.pdf">[pdf]
+       (198.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2009-submodsum.ps.gz">[ps.gz]
+       (250.1kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> How to Select a Good Training-data Subset for Transcription: Submodular Active Selection for Sequences</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brighton, UK, September 2009.<br><a href="b2hd-lin2009-submod-active-seq.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2009-submod-active-seq.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2009-submod-active-seq.pdf">[pdf]
+       (360.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2009-submod-active-seq.ps.gz">[ps.gz]
+       (174.0kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin,  Koby Crammer, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> How to Lose Confidence: Probabilistic Linear Machines for Multiclass Classification</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brighton, UK, September 2009.<br><a href="b2hd-lin2009-speech-linear-machine.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2009-speech-linear-machine.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2009-speech-linear-machine.pdf">[pdf]
+       (366.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2009-speech-linear-machine.ps.gz">[ps.gz]
+       (175.7kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin,  Alex Stupakov, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Improving Multi-Lattice-Alignment Based Spoken Keyword Spotting</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Taipei, Taiwan, 2009.<br><a href="b2hd-lin2009-multilat.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2009-multilat.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2009-multilat.pdf">[pdf]
+       (363.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2009-multilat.ps.gz">[ps.gz]
+       (166.2kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin,  Alex Stupakov, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Spoken Keyword Spotting via Multi-Lattice Alignment</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brisbane, Australia, September 2008.<br><a href="b2hd-lin2008-skeylat.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2008-skeylat.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2008-skeylat.pdf">[pdf]
+       (126.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2008-skeylat.ps.gz">[ps.gz]
+       (169.9kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Polyphase Speech Recognition</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Las Vegas, NV, April 2008.<br><a href="b2hd-lin2008-polyasr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2008-polyasr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2008-polyasr.pdf">[pdf]
+       (192.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2008-polyasr.ps.gz">[ps.gz]
+       (185.5kB
+  )
+      </a>&nbsp;</li>
+<li> Hui Lin, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Dimitra Vergyri, and  Katrin Kirchhoff. <b> OOV Detection by Joint Word/Phone Lattice Alignment</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Kyoto, Japan, December 2007.<br><a href="b2hd-lin2007-oovlat.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="lin2007-oovlat.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/lin2007-oovlat.pdf">[pdf]
+       (262.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/lin2007-oovlat.ps.gz">[ps.gz]
+       (297.8kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Liu"></a> Liu</h3><ul xmlns="">
+<li> Yuzong Liu,  Rishabh Iyer,  Katrin Kirchhoff, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> SVitchboard II and FiSVer I: High-Quality Limited-Complexity Corpora of Conversational English Speech</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Dresden, Germany, September 2015.<br><a href="b2hd-liu-svb-ii-interspeech-2015.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="liu-svb-ii-interspeech-2015.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/liu-svb-ii-interspeech-2015.pdf">[pdf]
+       (184.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/liu-svb-ii-interspeech-2015.ps.gz">[ps.gz]
+       (210.8kB
+  )
+      </a>&nbsp;</li>
+<li> Yuzong Liu,  Kai Wei,  Katrin Kirchhoff,  Yisong Song, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Feature Selection For High-Dimensional Acoustic Score Spaces</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Vancouver, Canada, 2013.<br><a href="b2hd-liu-submodfeature2013-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="liu-submodfeature2013-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/liu-submodfeature2013-icassp.pdf">[pdf]
+       (214.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/liu-submodfeature2013-icassp.ps.gz">[ps.gz]
+       (52kB
+  )
+      </a>&nbsp;<a href="../mypubs/liu-submodfeature2013-icassp.poster.pdf">[poster, pdf]
+       (1.3MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Livescu"></a> Livescu</h3><ul xmlns=""><li> Karen Livescu,  James Glass, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Hidden Feature Models for Speech Recognition Using Dynamic Bayesian Networks</b>. In <i> European Conf. on Speech Communication and Technology (Eurospeech)</i>,  8th,  Geneva, Switzerland, 2003.<br><a href="b2hd-livescu2003a-hiddenf.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="livescu2003a-hiddenf.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/livescu2003a-hiddenf.pdf">[pdf]
+       (84.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/livescu2003a-hiddenf.ps.gz">[ps.gz]
+       (172.2kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Ma"></a> Ma</h3><ul xmlns=""><li> Ning Ma,  Chris D. Bartels, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>, and  Phil D. Green. <b> Modelling the Prepausal Lengthening Effect for Speech Recognition: A Dynamic Bayesian Network Approach</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Taipei, Taiwan, 2009.<br><a href="b2hd-ma2009-prepausal-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="ma2009-prepausal-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/ma2009-prepausal-icassp.pdf">[pdf]
+       (165.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/ma2009-prepausal-icassp.ps.gz">[ps.gz]
+       (254.5kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Malkin"></a> Malkin</h3><ul xmlns="">
+<li> Jonathan Malkin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Using Semi-Supervised Learning to Smooth Class Transitions</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Makuhari, Japan, September 2010.<br><a href="b2hd-malkin2010-ssl-mlp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2010-ssl-mlp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Jonathan Malkin,  Xiao Li,  Susumu Harada,  James Landay, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The Vocal Joystick Engine v1.0</b>. <i> Computer Speech and Language (accepted, to appear)</i>,  -(-):&ndash;, --- 2010.<br><a href="b2hd-malkin-vj-engine-2010.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin-vj-engine-2010.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Jonathan Malkin,  Amar Subramanya, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> On the Semi-Supervised Learning of Multi-Layered Perceptrons</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brighton, UK, September 2009. <font color="red"><b> Winner of Best Student Paper Award, INTERSPEECH 2009</b></font><br><a href="b2hd-malkin2009-ssl-mlp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2009-ssl-mlp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/malkin2009-ssl-mlp.pdf">[pdf]
+       (172.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/malkin2009-ssl-mlp.ps.gz">[ps.gz]
+       (176.1kB
+  )
+      </a>&nbsp;</li>
+<li> Jonathan Malkin,  Amar Subramanya, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> On the Semi-Supervised Learning of Multi-Layered Perceptrons</b>. Technical Report UWEETR-2009-0003,  University of Washington, Dept. of EE, 2009.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0003.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2009-0003.html</a><br><a href="b2hd-malkin2009-ssl-mlp-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2009-ssl-mlp-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0003.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2009-0003.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Jon Malkin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Multi-Layer Ratio Semi-Definite Classifiers</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Taipei, Taiwan, 2009.<br><a href="b2hd-malkin2009-mlrsc-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2009-mlrsc-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/malkin2009-mlrsc-icassp.pdf">[pdf]
+       (429.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/malkin2009-mlrsc-icassp.ps.gz">[ps.gz]
+       (724.4kB
+  )
+      </a>&nbsp;</li>
+<li> Jon Malkin and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Ratio Semi-Definite Classifiers</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Las Vegas, NV, April 2008.<br><a href="b2hd-malkin2008-rsdc.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2008-rsdc.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/malkin2008-rsdc.pdf">[pdf]
+       (134.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/malkin2008-rsdc.ps.gz">[ps.gz]
+       (71.3kB
+  )
+      </a>&nbsp;</li>
+<li> Jon Malkin,  Brandi House, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Control of Simulated Arm with the Vocal Joystick</b>. In <i> Striking a Chord: Vocal Interaction in Assistive Technologies, Games, and More: CHI 2007 workshop on non-verbal acoustic interaction</i>,  San Jose, CA, April 2007.<br /><a href=" http://www.vocal-input.org"> http://www.vocal-input.org</a><br><a href="b2hd-malkin2007-arm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2007-arm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Jon Malkin,  Neil Lawrence, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The GP-LVM for Vocal Joystick Control</b>. Technical Report UWEETR-2006-00016,  University of Washington, Dept. of EE, 2006.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html</a><br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2006-0016.html</a><br><a href="b2hd-malkin2006-gplvm.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2006-gplvm.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2006-0016.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2006-0016.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Jon Malkin,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Energy and Loudness for Speed Control in the Vocal Joystick</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Cancun, Mexico, Nov/Dec 2005.<br><a href="b2hd-malkin2005-energy.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2005-energy.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> J. Malkin,  X. Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> A Graphical Model for Formant Tracking</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Philadelphia, PA, March 2005.<br><a href="b2hd-malkin2005-formant.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2005-formant.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/malkin2005-formant.pdf">[pdf]
+       (202.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/malkin2005-formant.ps.gz">[ps.gz]
+       (478.9kB
+  )
+      </a>&nbsp;</li>
+<li> Jonathan Malkin,  Xiao Li, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Custom Arithmetic for High-Speed, Low-Resource ASR Systems</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Montreal, Canada, May 2004.<br><a href="b2hd-malkin2004-custom.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="malkin2004-custom.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/malkin2004-custom.pdf">[pdf]
+       (112.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/malkin2004-custom.ps.gz">[ps.gz]
+       (116.5kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Mausam"></a> Mausam</h3><ul xmlns=""><li> Mausam,  Stephen Soderland,  Oren Etzioni,  Daniel S. Weld,  Michael Skinner, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Compiling a Massive, Multilingual Dictionary via Probabilistic Inference</b>. In <i> Joint Conference of the Annual Meeting of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (ACL-IJCNLP)</i>,  Suntec, Singapore, August 2009.<br><a href="b2hd-mausam2009-dictionary.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="mausam2009-dictionary.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/mausam2009-dictionary.pdf">[pdf]
+       (782.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/mausam2009-dictionary.ps.gz">[ps.gz]
+       (509.6kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Meila"></a> Meila</h3><ul xmlns=""><li> Marina Meila,  Kapil Phadnis,  Arthur Patterson, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Consensus Ranking Under the Exponential Model</b>. In <i> 22nd Conference on Uncertainty in Artificial Intelligence (UAI07)</i>,  Vancouver, British Columbia, July 2007.<br><a href="b2hd-meila2007-conrank.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="meila2007-conrank.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/meila2007-conrank.pdf">[pdf]
+       (189.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/meila2007-conrank.ps.gz">[ps.gz]
+       (329.0kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Morgan"></a> Morgan</h3><ul xmlns="">
+<li> N. Morgan,  J. Beck,  P. Kohn, and <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Neurocomputing on the RAP</b>. In  K. W. Przytula and  V. K. Prasanna, editors, <i> Digital Parallel Implementations of Neural Networks</i>, pp. 197&ndash;219,  Prentice-Hall, 1993.<br><a href="b2hd-morgan1993-rapbook.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="morgan1993-rapbook.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> N. Morgan,  J. Beck,  P. Kohn, <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>,  E. Allman, and  J. Beer. <b> The Ring Array Processor (RAP): A Multiprocessing peripheral for connectionist applications</b>. <i> Journal of Parallel and Distributed Computing</i>,  14:248&ndash;259, April 1992.<br><a href="b2hd-morgan1992-rap.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="morgan1992-rap.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+</ul>
+<h3><a name=" Narasimhan"></a> Narasimhan</h3><ul xmlns="">
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Local Search for Balanced Submodular Clusterings</b>. In <i> Twentieth International Joint Conference on Artificial Intelligence (IJCAI07)</i>,  Hyderabad, India, January 2007.<br><a href="b2hd-narasimhan2007-bcut.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2007-bcut.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/narasimhan2007-bcut.pdf">[pdf]
+       (112.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/narasimhan2007-bcut.ps.gz">[ps.gz]
+       (212.1kB
+  )
+      </a>&nbsp;</li>
+<li> Mukund Narasimhan,  Nebojsa Jojic, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Q-Clustering</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2005.<br><a href="b2hd-narasimhan2005-q.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2005-q.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/narasimhan2005-q.pdf">[pdf]
+       (153.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/narasimhan2005-q.ps.gz">[ps.gz]
+       (208.4kB
+  )
+      </a>&nbsp;</li>
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> A Submodular-Supermodular Procedure with Applicationsto Discriminative Structure Learning</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  Morgan Kaufmann Publishers,  Edinburgh, Scotland, July 2005.<br><a href="b2hd-narasimhan2005-subsup.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2005-subsup.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/narasimhan2005-subsup.pdf">[pdf]
+       (140.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/narasimhan2005-subsup.ps.gz">[ps.gz]
+       (144.8kB
+  )
+      </a>&nbsp;</li>
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> PAC-learning bounded tree-width Graphical Models</b>. In <i> Uncertainty in Artificial Intelligence: Proceedings of the Twentieth Conference (UAI-2004)</i>,  Morgan Kaufmann Publishers, July 2004.<br><a href="b2hd-narasimhan2004-paclearn.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2004-paclearn.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/narasimhan2004-paclearn.pdf">[pdf]
+       (142.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/narasimhan2004-paclearn.ps.gz">[ps.gz]
+       (228.0kB
+  )
+      </a>&nbsp;</li>
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Optimal Sub-graphical Models</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2004.<br><a href="b2hd-narasimhan2004-optsub.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2004-optsub.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/narasimhan2004-optsub.pdf">[pdf]
+       (87.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/narasimhan2004-optsub.ps.gz">[ps.gz]
+       (83.7kB
+  )
+      </a>&nbsp;</li>
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Efficient PAC-learning bounded tree-width Graphical Models</b>. Technical Report UWEETR-2004-0009,  University of Washington, Dept. of Electrical Engineering, 2004.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0009.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0009.html</a><br><a href="b2hd-narasimhan2004-effpac.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2004-effpac.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0009.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0009.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Mukund Narasimhan and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Optimization on Separator Trees</b>. Technical Report UWEETR-2004-0018,  University of Washington, Dept. of Electrical Engineering, 2004.  <a href="https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0018.html">https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2004-0018.html</a><br><a href="b2hd-narasimhan2004-optseptree.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="narasimhan2004-optseptree.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0018.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2004-0018.ps.gz">[ps.gz]</a>&nbsp;</li>
+</ul>
+<h3><a name=" Niepert"></a> Niepert</h3><ul xmlns=""><li> Mathias Niepert,  Pedro Domingos, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Generalized Conditional Independence and Decomposition Cognizant Curvature: Implications for Function Optimization</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Montreal, Canada, December 2014.  NIPS Workshop on Discrete Optimization in Machine Learning: Submodularity, Sparsity &amp; Polyhedra (DISCML)<br><a href="b2hd-niepert_submod_conditional_independence_nipsworkshop_2014.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="niepert_submod_conditional_independence_nipsworkshop_2014.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/niepert_submod_conditional_independence_nipsworkshop_2014.pdf">[pdf]
+       (130.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/niepert_submod_conditional_independence_nipsworkshop_2014.ps.gz">[ps.gz]
+       (133.1kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" P.&amp;nbsp;Singh"></a> P.&nbsp;Singh</h3><ul xmlns=""><li> Ajit P.&nbsp;Singh,  John Halloran,  Jeff A.&nbsp;Bilmes,  Katrin Kirchoff, and  William S.&nbsp;Noble. <b> Spectrum Identification using a Dynamic Bayesian Network Model of Tandem Mass Spectra</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  AUAI,  Catalina Island, USA, July 2012.<br><a href="b2hd-singh2012-didia-uai.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="singh2012-didia-uai.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/singh2012-didia-uai.pdf">[pdf]
+       (1.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/singh2012-didia-uai.ps.gz">[ps.gz]
+       (8.5MB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Pentney"></a> Pentney</h3><ul xmlns="">
+<li> William Pentney,  Matthai Philipose, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Structure Learning on Large Scale Common Sense Statistical Models of Human State</b>. In <i> Twenty-Third AAAI Conference on Artificial Intelligence (AAAI-08),</i>,  Chicago, Illinois, USA, July 2008.<br><a href="b2hd-pentney2008-struclearn.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pentney2008-struclearn.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> William Pentney,  Matthai Philipose, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Henry Kautz. <b> Learning Large Scale Common Sense Models of Everyday Life</b>. In <i> Twenty-Second AAAI Conference on Artificial Intelligence (AAAI-07)</i>,  Vancouver, British Columbia, July 2007.<br><a href="b2hd-pentney2007-largecom.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pentney2007-largecom.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/pentney2007-largecom.pdf">[pdf]
+       (113.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/pentney2007-largecom.ps.gz">[ps.gz]
+       (133.6kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Pernkopf"></a> Pernkopf</h3><ul xmlns="">
+<li> Franz Pernkopf and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Efficient Heuristics for Discriminative Structure Learning of Bayesian Network Classifiers</b>. <i> JMLR: Journal of Machine Learning Research</i>,  11:2323&ndash;2360, August 2010.<br><a href="b2hd-pernkopf-gmsl-heuristics-2010.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pernkopf-gmsl-heuristics-2010.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Franz Pernkopf,  Van Pham Tuan, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Broad phonetic classification using discriminative Bayesian networks</b>. <i> Speech Communications</i>,  51(2):151&ndash;166,  Elsevier Science Publishers B. V.,  Amsterdam, The Netherlands, The Netherlands, 2009.<br><a href="b2hd-pernkopf2009-broadphone.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pernkopf2009-broadphone.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1016/j.specom.2008.07.003">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.specom.2008.07.003">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.specom.2008.07.003">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1016/j.specom.2008.07.003">[HTML]</a>&nbsp;</li>
+<li> Franz Pernkopf and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Order-based Discriminative Structure Learning for Bayesian Network Classifiers</b>. In <i> The Tenth International Symposium on Artificial Intelligence and Mathematics (ISAIM 2007)</i>,  Fort Lauderdale, Florida, 2008.<br><a href="b2hd-pernkopf2008-orderdisc.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pernkopf2008-orderdisc.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Franz Pernkopf and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Discriminative versus Generative Parameter and Structure Learning of Bayesian Network Classifiers</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Bonn, Germany, 2005.<br><a href="b2hd-pernkopf2005-gendisc.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="pernkopf2005-gendisc.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/pernkopf2005-gendisc.pdf">[pdf]
+       (138.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/pernkopf2005-gendisc.ps.gz">[ps.gz]
+       (165.6kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Ping-Chen"></a> Ping-Chen</h3><ul xmlns=""><li> Chia Ping-Chen and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> MVA Processing of Speech Features</b>. <i> IEEE Transactions on Audio, Speech, and Language Processing</i>,  15(1), January 2007.<br><a href="b2hd-chen2007-mva.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="chen2007-mva.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1109/TASL.2006.876717">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1109/TASL.2006.876717">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1109/TASL.2006.876717">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1109/TASL.2006.876717">[HTML]</a>&nbsp;</li></ul>
+<h3><a name=" Raj"></a> Raj</h3><ul xmlns=""><li> Alvin Raj,  Amarnag Subramanya, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dieter Fox. <b> Rao-Blackwellized particle filters for recognizing activities andspatial context from wearable sensors</b>. In <i> Experimental Robotics: The 10th International Symposium,Springer Tracts in Advanced Robotics (STAR)</i>,  Springer-Verlag, July 2006.<br><a href="b2hd-raj2006-rao.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="raj2006-rao.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Reynolds"></a> Reynolds</h3><ul xmlns="">
+<li> Sheila M. Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>, and  William Stafford Noble. <b> Learning a Weighted Sequence Model of the Nucleosome Core and Linker Yields More Accurate Predictions in Saccharomyces cerevisiae and Homo sapiens</b>. <i> PLoS Comput Biol</i>,  6(7):e1000834,  Public Library of Science, July 2010.<br><a href="b2hd-reynolds2010-weighted-sequence.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2010-weighted-sequence.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/10.1371/journal.pcbi.1000834">[pdf]</a>&nbsp;<a href="http://dx.doi.org/10.1371/journal.pcbi.1000834">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/10.1371/journal.pcbi.1000834">[ps]</a>&nbsp;<a href="http://dx.doi.org/10.1371/journal.pcbi.1000834">[HTML]</a>&nbsp;</li>
+<li> Sheila Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  William Noble. <b> Predicting Nucleosome Positioning using Multiple Evidence Tracks</b>. In <i> Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)</i>,  Lisbon, Portual, April 2010.<br><a href="b2hd-reynolds2010-recomb-nucleosome.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2010-recomb-nucleosome.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Sheila Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  William Noble. <b> Low Frequency Oscillations in Single-Nucleotide Content Play a Role in Nucleosome Positioning in H. Sapiens</b>. In <i> Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)</i>,  Tucson, Arizona, April 2009.<br><a href="b2hd-reynolds2009-recomb-oscillations.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2009-recomb-oscillations.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Sheila Reynolds, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  William Noble. <b> On the relationship between DNA periodicity and local chromatin structure</b>. In <i> Proceedings of the International Conference on Research in Computational Molecular Biology (RECOMB)</i>,  Tucson, Arizona, April 2009.<br><a href="b2hd-reynolds2009-recomb-chromatin.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2009-recomb-chromatin.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Sheila M. Reynolds,  Lukas Kall,  Michael E. Riffle, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>, and  William Noble. <b> Transmembrane topology and signal peptide prediction using dynamic Bayesian networks</b>. <i> PLoS Computational Biology</i>,  4(11), November 2008.<br><a href="b2hd-reynolds2008-transtop-dbn.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2008-transtop-dbn.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/reynolds2008-transtop-dbn.pdf">[pdf]
+       (718.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/reynolds2008-transtop-dbn.ps.gz">[ps.gz]
+       (2.8MB
+  )
+      </a>&nbsp;</li>
+<li> S. Reynolds and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Part-of-Speech Tagging using Virtual Evidence and Negative Training</b>. In <i> Human Language Technology Conference/Conference on Empirical Methodsin Natural Language Processing (HLT/EMNLP-2005)</i>,  Vancouver, B.C., Oct 2005.<br><a href="b2hd-reynolds2005-pos.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="reynolds2005-pos.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/reynolds2005-pos.pdf">[pdf]
+       (144.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/reynolds2005-pos.ps.gz">[ps.gz]
+       (276.9kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Richardson"></a> Richardson</h3><ul xmlns="">
+<li> Matt Richardson, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Chris Diorio. <b> Hidden-articulator Markov models for speech recognition</b>. <i> Speech Communication</i>,  41:511, October 2003.<br><a href="b2hd-richardson2003-hammj.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="richardson2003-hammj.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Matt Richardson, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Chris Diorio. <b> Hidden-Articulator Markov Models: Performance Improvements and Robustness to Noise</b>. In <i> Proc. Int. Conf. on Spoken Language Processing</i>,  Beijing, China, October 2000.<br><a href="b2hd-richardson2000-hamm-icslp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="richardson2000-hamm-icslp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/richardson2000-hamm-icslp.pdf">[pdf]
+       (65.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/richardson2000-hamm-icslp.ps.gz">[ps.gz]
+       (57.8kB
+  )
+      </a>&nbsp;</li>
+<li> Matt Richardson, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Chris Diorio. <b> Hidden-Articulator Markov Models for Speech Recognition</b>. In <i> Proc. of the ISCA ITRW Automatic Speech Recognition 2000 Workshop</i>,  Paris, France, October 2000.<br><a href="b2hd-richardson2000-hamm-itrw.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="richardson2000-hamm-itrw.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/richardson2000-hamm-itrw.pdf">[pdf]
+       (425.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/richardson2000-hamm-itrw.ps.gz">[ps.gz]
+       (155.9kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Schmidt"></a> Schmidt</h3><ul xmlns=""><li> H. Schmidt and <a href="http://melodi.ee.washington.edu/~bilmes"> J. Bilmes</a>. <b> Exception Handling in pSather</b>. In <i> Exception Handling Workshop, European Conference on Object-Oriented Programming</i>, 1991.<br><a href="b2hd-schmidt91.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="schmidt91.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Singh"></a> Singh</h3><ul xmlns=""><li> Ajit Singh,  Andrew Guillory, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Bisubmodular Maximization</b>. In <i> Fifteenth International Conference on Artificial Intelligence and Statistics (AISTAT)</i>,  La Palma, Canary Islands, April 2012.<br><a href="b2hd-singh2012-bisubmod.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="singh2012-bisubmod.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/singh2012-bisubmod.pdf">[pdf]
+       (512.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/singh2012-bisubmod.ps.gz">[ps.gz]
+       (5.4MB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Stupakov"></a> Stupakov</h3><ul xmlns="">
+<li> Alex Stupakov,  Evan Hanusa,  Deepak Vijaywargi,  Dieter Fox, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> The design and collection of COSINE, a multi-microphone in situ speech corpus recorded in noisy environments</b>. <i> Computer Speech and Langauge</i>,  26:52&ndash;66, 2011.<br><a href="b2hd-stupakov2011-cosine-corpus-journal.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="stupakov2011-cosine-corpus-journal.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/doi:10.1016/j.csl.2010.12.003">[pdf]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2010.12.003">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2010.12.003">[ps]</a>&nbsp;<a href="http://dx.doi.org/doi:10.1016/j.csl.2010.12.003">[HTML]</a>&nbsp;</li>
+<li> Alex Stupakov,  Evan Hanusa, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dieter Fox. <b> A Corpus of Multi-Party Conversational Speech in Noisy Environments</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Taipei, Taiwan, 2009.<br><a href="b2hd-stupakov2009-corpus-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="stupakov2009-corpus-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/stupakov2009-corpus-icassp.pdf">[pdf]
+       (486.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/stupakov2009-corpus-icassp.ps.gz">[ps.gz]
+       (2.5MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Subramanya"></a> Subramanya</h3><ul xmlns="">
+<li> Amar Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Semi-Supervised Learning with Measure Propagation</b>. <i> JMLR: Journal of Machine Learning Research</i>,  12:3311&ndash;3370, November 2011.<br><a href="b2hd-amar-mp-jmlr-2011.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="amar-mp-jmlr-2011.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/amar-mp-jmlr-2011.pdf">[pdf]
+       (948.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/amar-mp-jmlr-2011.ps.gz">[ps.gz]
+       (1.5MB
+  )
+      </a>&nbsp;</li>
+<li> Amar Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Semi-Supervised Learning with Measure Propagation</b>. Technical Report UWEETR-2010-0004,  University of Washington, Seattle, 2010.<br /><a href=" https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0004.html"> https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2010-0004.html</a><br><a href="b2hd-subramanya2010-measure-prop-tr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2010-measure-prop-tr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0004.pdf">[pdf]</a>&nbsp;<a href="https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0004.ps.gz">[ps.gz]</a>&nbsp;</li>
+<li> Amar Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> Entropic Graph Regularization in Non-Parametric Semi-Supervised Classification</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Vancouver, Canada, December 2009.<br><a href="b2hd-subramanya2009-nipsmp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2009-nipsmp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2009-nipsmp.pdf">[pdf]
+       (383.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2009-nipsmp.ps.gz">[ps.gz]
+       (287.8kB
+  )
+      </a>&nbsp;</li>
+<li> Amar Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff A. Bilmes</a>. <b> The Semi-Supervised Switchboard Transcription Project</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brighton, UK, September 2009.<br><a href="b2hd-subramanya2009-s3tp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2009-s3tp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2009-s3tp.pdf">[pdf]
+       (158.5kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2009-s3tp.ps.gz">[ps.gz]
+       (167.5kB
+  )
+      </a>&nbsp;</li>
+<li> Amar Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Soft-Supervised Learning for Text Classification</b>. In <i> Empirical Methods in Natural Language Processing (EMNLP)</i>,  Honolulu, Hawaii, October 2008.<br><a href="b2hd-subramanya2008-ssltc.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2008-ssltc.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2008-ssltc.pdf">[pdf]
+       (278.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2008-ssltc.ps.gz">[ps.gz]
+       (313.8kB
+  )
+      </a>&nbsp;</li>
+<li> Amarnag Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Applications of Virtual-Evidence based Speech Recognizer Training</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Brisbane, Australia, September 2008.<br><a href="b2hd-subramanya2008-veasr-train.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2008-veasr-train.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2008-veasr-train.pdf">[pdf]
+       (2.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2008-veasr-train.ps.gz">[ps.gz]
+       (1.5MB
+  )
+      </a>&nbsp;</li>
+<li> Amar Subramanya,  Chris Bartels, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Patrick Nguyen. <b> Uncertainty in Training Large Vocabulary Speech Recognizers</b>. In <i> Proc. IEEE Automatic Speech Recognition and Understanding (ASRU)</i>,  Kyoto, Japan, December 2007.<br><a href="b2hd-subramanya2007-unclvcsr.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2007-unclvcsr.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2007-unclvcsr.pdf">[pdf]
+       (8.4MB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2007-unclvcsr.ps.gz">[ps.gz]
+       (4.5MB
+  )
+      </a>&nbsp;</li>
+<li> Amarnag Subramanya and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Virtual Evidence for Training Speech Recognizers using Partially Labeled Data</b>. In <i> Human Language Technology Conference/North American chapter of the Association for Computational Linguistics (HLT/NAACL-2007)</i>,  Rochester, NY, April 2007.<br><a href="b2hd-subramanya2007-vepl.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2007-vepl.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2007-vepl.pdf">[pdf]
+       (127.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2007-vepl.ps.gz">[ps.gz]
+       (137.5kB
+  )
+      </a>&nbsp;</li>
+<li> Amarnag Subramanya,  Alvin Raj, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dieter Fox. <b> Hierarchical Models for Activity Recognition</b>. In <i> IEEE Multimedia Signal Processing (MMSP) Conference</i>,  Victoria, CA, October 2006.<br><a href="b2hd-subramanya2006-hier.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2006-hier.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2006-hier.pdf">[pdf]
+       (403.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2006-hier.ps.gz">[ps.gz]
+       (2.6MB
+  )
+      </a>&nbsp;</li>
+<li> Amarnag Subramanya,  Alvin Raj, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Dieter Fox. <b> Recognizing Activities and Spatial Context Using Wearable Sensors</b>. In <i> Uncertainty in Artificial Intelligence (UAI)</i>,  21,  AUAI,  Cambridge, MA, July 2006.<br><a href="b2hd-subramanya2006-recact.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2006-recact.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2006-recact.pdf">[pdf]
+       (872.6kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2006-recact.ps.gz">[ps.gz]
+       (2.4MB
+  )
+      </a>&nbsp;</li>
+<li> Amar Subramanya, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Chia-Ping Chen. <b> Focused Word Segmentation for ASR</b>. In <i> European Conf. on Speech Communication and Technology (Eurospeech)</i>,  Lisbon, Portugal, September 2005.<br><a href="b2hd-subramanya2005-focused.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="subramanya2005-focused.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/subramanya2005-focused.pdf">[pdf]
+       (479.4kB
+  )
+      </a>&nbsp;<a href="../mypubs/subramanya2005-focused.ps.gz">[ps.gz]
+       (1.7MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Takiguchi"></a> Takiguchi</h3><ul xmlns=""><li> Tetsuya Takiguchi, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Mariko Yoshii, and  Yasuo Ariki. <b> Evaluation of Random-Projection-Based Feature Combination in Speech Recognition</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Dallas, Texas, 2010.<br><a href="b2hd-takiguchi2010-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="takiguchi2010-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li></ul>
+<h3><a name=" Tschiatschek"></a> Tschiatschek</h3><ul xmlns=""><li> Sebastian Tschiatschek,  Rishabh Iyer,  Haochen Wei, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Learning Mixtures of Submodular Functions for Image Collection Summarization</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Montreal, Canada, December 2014.<br><a href="b2hd-sebastian2014-submod-image-sum.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="sebastian2014-submod-image-sum.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/sebastian2014-submod-image-sum.pdf">[pdf]
+       (2.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/sebastian2014-submod-image-sum.ps.gz">[ps.gz]
+       (2.1MB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Vuduc"></a> Vuduc</h3><ul xmlns="">
+<li> Rich Vuduc,  Jim Demmel, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Statistical Models for Empirical Search-Based Performance Tuning</b>. <i> International Journal of High Performance Computing Applications</i>,  18(1):65&ndash;94, February 2004.<br><a href="b2hd-vuduc2004-statmodeljour.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="vuduc2004-statmodeljour.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Rich Vuduc,  Jim Demmel, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Statistical Models in Automatic Tuning</b>. In <i> The International Conference on Computational Science: Architecture-Specific Automatic Performance Tuning</i>,  San Francisco, May 2001.<br><a href="b2hd-vuduc2001-statmodel.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="vuduc2001-statmodel.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/vuduc2001-statmodel.pdf">[pdf]
+       (309.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/vuduc2001-statmodel.ps.gz">[ps.gz]
+       (121.0kB
+  )
+      </a>&nbsp;</li>
+<li> Rich Vuduc, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Jim Demmel. <b> Statistical Modeling of Feedback Data in an Automatic Tuning System</b>. In <i> Third ACM Workshop on Feedback-Directed and Dynamic Optimization FDDO-3</i>,  Monterey, December 2000.<br><a href="b2hd-vuduc2000-fddo-statmodel.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="vuduc2000-fddo-statmodel.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/vuduc2000-fddo-statmodel.pdf">[pdf]
+       (396.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/vuduc2000-fddo-statmodel.ps.gz">[ps.gz]
+       (146.0kB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Wang"></a> Wang</h3><ul xmlns="">
+<li> Weiran Wang,  Raman Arora,  Karen Livescu, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> On Deep Multi-View Representation Learning</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Lille, France, 2015.<br><a href="b2hd-wang2015-deep-multi-view.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wang2015-deep-multi-view.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Weiran Wang,  Raman Arora,  Karen Livescu, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Unsupervised Learning of Acoustic Features via Deep Canonical Correlation Analysis</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Brisbane Australia, 2015.<br><a href="b2hd-wang2015-deepcca-stochastic.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wang2015-deepcca-stochastic.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+</ul>
+<h3><a name=" Wei"></a> Wei</h3><ul xmlns="">
+<li> Kai  Wei,  Rishabh  Iyer,  Shengjie  Wang,  Wenruo  Bai, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> How to Intelligently Distribute Training Data to Multiple Compute Nodes: Distributed Machine Learning via Submodular Partitioning</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Montreal, Canada, December 2015.  LearningSys Workshop, <a href="http://learningsys.org">http://learningsys.org</a><br><a href="b2hd-kaiwei2015nipsparallelworkshop.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kaiwei2015nipsparallelworkshop.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kaiwei2015nipsparallelworkshop.pdf">[pdf]
+       (240.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/kaiwei2015nipsparallelworkshop.ps.gz">[ps.gz]
+       (255.5kB
+  )
+      </a>&nbsp;</li>
+<li> Kai  Wei,  Rishabh  Iyer,  Shengjie  Wang,  Wenruo  Bai, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Montreal, Canada, December 2015.<br><a href="b2hd-kaiwei2015nips_submod_partitioning.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="kaiwei2015nips_submod_partitioning.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/kaiwei2015nips_submod_partitioning.pdf">[pdf]
+       (3.2MB
+  )
+      </a>&nbsp;<a href="../mypubs/kaiwei2015nips_submod_partitioning.ps.gz">[ps.gz]
+       (1.8MB
+  )
+      </a>&nbsp;</li>
+<li> Kai Wei,  Rishabh Iyer, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodularity in Data Subset Selection and Active Learning</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Lille, France, 2015.<br><a href="b2hd-wei2015-submodular-data-active.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wei2015-submodular-data-active.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Kai Wei,  Rishabh Iyer, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Fast Multi-stage Submodular Maximization</b>. In <i> International Conference on Machine Learning (ICML)</i>,  Beijing, China, 2014.<br><a href="b2hd-wei2014-fast-multi-stage-icml.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wei2014-fast-multi-stage-icml.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wei2014-fast-multi-stage-icml.pdf">[pdf]
+       (463.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/wei2014-fast-multi-stage-icml.ps.gz">[ps.gz]
+       (672.0kB
+  )
+      </a>&nbsp;<a href="../mypubs/wei2014-fast-multi-stage-icml.extended.pdf">[extended, pdf]
+       (543.7kB
+  )
+      </a>&nbsp;</li>
+<li> Kai Wei,  Yuzong Liu,  Katrin Kirchhoff,  Chris Bartels, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Submodular Subset Selection for Large-Scale Speech Training Data</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Florence, Italy, 2014.<br><a href="b2hd-wei2014-supervised-large-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wei2014-supervised-large-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wei2014-supervised-large-icassp.pdf">[pdf]
+       (199.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/wei2014-supervised-large-icassp.ps.gz">[ps.gz]
+       (336.6kB
+  )
+      </a>&nbsp;</li>
+<li> Kai Wei,  Yuzong Liu,  Katrin Kirchhoff, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Unsupervised Submodular Subset Selection for Speech Data</b>. In <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Florence, Italy, 2014.<br><a href="b2hd-wei2014-unsupervised-icassp.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wei2014-unsupervised-icassp.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wei2014-unsupervised-icassp.pdf">[pdf]
+       (612.5kB
+  )
+      </a>&nbsp;<a href="../mypubs/wei2014-unsupervised-icassp.ps.gz">[ps.gz]
+       (2.6MB
+  )
+      </a>&nbsp;<a href="../mypubs/wei2014-unsupervised-icassp.extended.pdf">[extended, pdf]
+       (907.0kB
+  )
+      </a>&nbsp;</li>
+<li> Kai Wei,  Yuzong Liu,  Katrin Kirchhoff, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Using Document Summarization Techniques for  Speech Data Subset Selection</b>. In <i> North American chapter of the Association for Computational Linguistics/Human Language Technology Conference (NAACL/HLT-2013)</i>,  Atlanta, GA, June 2013.<br><a href="b2hd-wei-doc-sum-speech-sel-2013.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wei-doc-sum-speech-sel-2013.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wei-doc-sum-speech-sel-2013.pdf">[pdf]
+       (304.2kB
+  )
+      </a>&nbsp;<a href="../mypubs/wei-doc-sum-speech-sel-2013.ps.gz">[ps.gz]
+       (5.1MB
+  )
+      </a>&nbsp;<a href="../mypubs/wei-doc-sum-speech-sel-2013.slides.pdf">[slides, pdf]
+       (1.6MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Wyatt"></a> Wyatt</h3><ul xmlns="">
+<li> Danny Wyatt,  Tanzeem Choudhury, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  James A. Kitts. <b> Inferring Colocation and Conversation Networks from Privacy-Sensitive Audio with Implications for Computational Social Science</b>. <i> ACM Transactions on Intelligent Systems and Technology</i>,  2:7:1&ndash;7:41,  ACM,  New York, NY, USA, January 2010.<br><a href="b2hd-wyatt2010-inferring.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2010-inferring.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="http://dx.doi.org/http://doi.acm.org/10.1145/1889681.1889688">[pdf]</a>&nbsp;<a href="http://dx.doi.org/http://doi.acm.org/10.1145/1889681.1889688">[ps.gz]</a>&nbsp;<a href="http://dx.doi.org/http://doi.acm.org/10.1145/1889681.1889688">[ps]</a>&nbsp;<a href="http://dx.doi.org/http://doi.acm.org/10.1145/1889681.1889688">[HTML]</a>&nbsp;</li>
+<li> Danny Wyatt,  Tanzeem Choudhury, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Discovering Long Range Properties of Social Networks with Multi-Valued Time-Inhomogeneous Models</b>. In <i> Twenty-Fifth AAAI Conference on Artificial Intelligence (AAAI-10),</i>,  Atlanta, GA., July 2010.<br><a href="b2hd-wyatt2010-timeinhomogeneous.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2010-timeinhomogeneous.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wyatt2010-timeinhomogeneous.pdf">[pdf]
+       (2.0MB
+  )
+      </a>&nbsp;<a href="../mypubs/wyatt2010-timeinhomogeneous.ps.gz">[ps.gz]
+       (1.5MB
+  )
+      </a>&nbsp;</li>
+<li> Danny Wyatt,  Tanzeem Choudhury, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Dynamic Multi-Valued Network Models for Predicting Face-to-Face Conversations</b>. In <i> Neural Information Processing Society (NIPS) Workshop</i>,  Vancouver, Canada, December 2009.  NIPS Workshop on Analyzing Networks and Learning with Graphs<br><a href="b2hd-wyatt2009-nips-workshop.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2009-nips-workshop.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wyatt2009-nips-workshop.pdf">[pdf]
+       (265.3kB
+  )
+      </a>&nbsp;<a href="../mypubs/wyatt2009-nips-workshop.ps.gz">[ps.gz]
+       (183.6kB
+  )
+      </a>&nbsp;</li>
+<li> Danny Wyatt,  Tanzeem Choudhury, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Understanding Social Relationships: Cues from Subtle Conversational Signals</b>. In <i> Tenth International Conference on Ubiquitous Computing (UBICOMP08)</i>,  Seoul, South Korea, September 2008.<br><a href="b2hd-wyatt2008-cues.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2008-cues.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wyatt2008-cues.pdf">[pdf]
+       (182.9kB
+  )
+      </a>&nbsp;<a href="../mypubs/wyatt2008-cues.ps.gz">[ps.gz]
+       (259.1kB
+  )
+      </a>&nbsp;</li>
+<li> Danny Wyatt,  Tanzeem Choudhury, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Learning Hidden Curved Exponential Family Models to Infer Face-to-FaceInteraction Networks from Situated Speech Data</b>. In <i> Twenty-Third AAAI Conference on Artificial Intelligence (AAAI-08),</i>,  Chicago, Illinois, USA, July 2008.<br><a href="b2hd-wyatt2008-curveface.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2008-curveface.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  
+  (unavailable)
+  </li>
+<li> Danny Wyatt,  Tanzeem Choudhury, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> Conversation Detection and Speaker Segmentation in Privacy-Sensitive Situated Speech Data</b>. In <i> Proc. Annual Conference of the International Speech Communication Association (INTERSPEECH)</i>,  Antwerp, Belgium, September 2007.<br><a href="b2hd-wyatt2007-speechpriv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2007-speechpriv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wyatt2007-speechpriv.pdf">[pdf]
+       (124.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/wyatt2007-speechpriv.ps.gz">[ps.gz]
+       (176.0kB
+  )
+      </a>&nbsp;</li>
+<li> Danny Wyatt,  Tanzeem Choudhury, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Henry Kautz. <b> A Privacy Sensitive Approach to Modeling Multi-Person Conversations</b>. In <i> Twentieth International Joint Conference on Artificial Intelligence (IJCAI07)</i>,  Hyderabad, India, January 2007.<br><a href="b2hd-wyatt2007-priv.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="wyatt2007-priv.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/wyatt2007-priv.pdf">[pdf]
+       (826.8kB
+  )
+      </a>&nbsp;<a href="../mypubs/wyatt2007-priv.ps.gz">[ps.gz]
+       (1.7MB
+  )
+      </a>&nbsp;</li>
+</ul>
+<h3><a name=" Zhang"></a> Zhang</h3><ul xmlns=""><li> Yimin Zhang,  Qian Diao,  Shan Huang,  Wei Hu,  Chris Bartels, and <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>. <b> DBN Based Multi-Stream Models for Speech</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>,  Hong Kong, China, May 2003.<br><a href="b2hd-zhang2003-multi.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="zhang2003-multi.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/zhang2003-multi.pdf">[pdf]
+       (219.7kB
+  )
+      </a>&nbsp;<a href="../mypubs/zhang2003-multi.ps.gz">[ps.gz]
+       (295.8kB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Zhou"></a> Zhou</h3><ul xmlns=""><li> Tianyi Zhou, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>, and  Carlos Guestrin. <b> Divide-and-Conquer Learning by Anchoring a Conical Hull</b>. In <i> Neural Information Processing Society (NIPS)</i>,  Montreal, Canada, December 2014.<br><a href="b2hd-tianyi2014-conical-hull.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="tianyi2014-conical-hull.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/tianyi2014-conical-hull.pdf">[pdf]
+       (1.0MB
+  )
+      </a>&nbsp;<a href="../mypubs/tianyi2014-conical-hull.ps.gz">[ps.gz]
+       (1.7MB
+  )
+      </a>&nbsp;</li></ul>
+<h3><a name=" Zweig"></a> Zweig</h3><ul xmlns=""><li> Geoff Zweig, <a href="http://melodi.ee.washington.edu/~bilmes"> Jeff Bilmes</a>,  Thomas Richardson,  Karim Filali,  Karen Livescu,  Peng Xu,  Kirk Jackson,  Yigal Brandman,  Eric Sandness,  Eva Holtz,  Jerry Torres, and  Bill Byrne. <b> Structurally Discriminative Graphical Models for Automatic Speech Recognition --- Results from the 2001 Johns Hopkins Summer Workshop</b>. <i> Proc. IEEE Intl. Conf. on Acoustics, Speech, and Signal Processing</i>, 2002.<br><a href="b2hd-zweig2002-jhu01.html">
+    Details
+   </a>&nbsp;&nbsp;&nbsp;<a href="zweig2002-jhu01.bib">
+    BibTeX
+   </a>&nbsp;&nbsp;&nbsp;
+  Download: 
+  <a href="../mypubs/zweig2002-jhu01.pdf">[pdf]
+       (139.1kB
+  )
+      </a>&nbsp;<a href="../mypubs/zweig2002-jhu01.ps.gz">[ps.gz]
+       (254.5kB
+  )
+      </a>&nbsp;</li></ul>
+<hr width="100%" size="2"></hr><p><small>
+ Generated by
+ <a xmlns="" href="https://sourceforge.net/projects/bib2html/">bib2html.pl</a>
+ (written by <a xmlns="" href="http://sourceforge.net/users/patstg/">Patrick Riley</a>
+  ) on
+  Mon Mar 14, 2016 13:02:09</small></p></div><div class="footer"><a class="right_pad" href="index.html">
+Go home</a><a class="right_pad" href="http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=" onclick="window.open('http://mailhide.recaptcha.net/d?k=01l3ho3qEvdj--sJ6OJ8LS1A==&amp;c=7CXXfzP4KrBHZwLeD1xbEluzWyfYR5lzjGozsG53sBw=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email me</a> Last updated Thu Nov 19 08:08 PST 2015
+ 
+
+</div></div></body></html>
